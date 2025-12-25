@@ -1,0 +1,67 @@
+@import "tailwindcss";
+
+@theme {
+  --color-sky-blue-light: #8ecae6;
+  --color-sky-blue-light-100: #0d2e3d;
+  --color-sky-blue-light-200: #1b5c7a;
+  --color-sky-blue-light-300: #288ab7;
+  --color-sky-blue-light-400: #51aed9;
+  --color-sky-blue-light-500: #8ecae6;
+  --color-sky-blue-light-600: #a5d5eb;
+  --color-sky-blue-light-700: #bbdff0;
+  --color-sky-blue-light-800: #d2eaf5;
+  --color-sky-blue-light-900: #e8f4fa;
+
+  --color-blue-green: #219ebc;
+  --color-blue-green-100: #071f25;
+  --color-blue-green-200: #0d3e4b;
+  --color-blue-green-300: #145d70;
+  --color-blue-green-400: #1a7d95;
+  --color-blue-green-500: #219ebc;
+  --color-blue-green-600: #39bcdc;
+  --color-blue-green-700: #6bcce5;
+  --color-blue-green-800: #9cddee;
+  --color-blue-green-900: #ceeef6;
+
+  --color-deep-space-blue: #023047;
+  --color-deep-space-blue-100: #00090e;
+  --color-deep-space-blue-200: #01131c;
+  --color-deep-space-blue-300: #011c2a;
+  --color-deep-space-blue-400: #012638;
+  --color-deep-space-blue-500: #023047;
+  --color-deep-space-blue-600: #04699b;
+  --color-deep-space-blue-700: #06a3f1;
+  --color-deep-space-blue-800: #54c3fb;
+  --color-deep-space-blue-900: #a9e1fd;
+
+  --color-amber-flame: #ffb703;
+  --color-amber-flame-100: #342500;
+  --color-amber-flame-200: #684b00;
+  --color-amber-flame-300: #9c7000;
+  --color-amber-flame-400: #d09500;
+  --color-amber-flame-500: #ffb703;
+  --color-amber-flame-600: #ffc637;
+  --color-amber-flame-700: #ffd569;
+  --color-amber-flame-800: #ffe39b;
+  --color-amber-flame-900: #fff1cd;
+
+  --color-princeton-orange: #fb8500;
+  --color-princeton-orange-100: #321b00;
+  --color-princeton-orange-200: #643500;
+  --color-princeton-orange-300: #965000;
+  --color-princeton-orange-400: #c86b00;
+  --color-princeton-orange-500: #fb8500;
+  --color-princeton-orange-600: #ff9e2f;
+  --color-princeton-orange-700: #ffb663;
+  --color-princeton-orange-800: #ffce97;
+  --color-princeton-orange-900: #ffe7cb;
+}
+
+:root {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+body {
+  @apply bg-deep-space-blue-100 text-sky-blue-light-900;
+  overscroll-behavior: none;
+}

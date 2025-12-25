@@ -1,0 +1,9668 @@
+{
+  "easy": [
+    {
+      "id": "vs3po4",
+      "difficulty": "easy",
+      "cells": [
+        {
+          "id": "r0c0",
+          "solution": 3,
+          "cageId": "cage-0"
+        },
+        {
+          "id": "r0c1",
+          "solution": 2,
+          "cageId": "cage-0"
+        },
+        {
+          "id": "r0c2",
+          "solution": 8,
+          "cageId": "cage-1"
+        },
+        {
+          "id": "r0c3",
+          "solution": 4,
+          "cageId": "cage-1"
+        },
+        {
+          "id": "r0c4",
+          "solution": 7,
+          "cageId": "cage-2"
+        },
+        {
+          "id": "r0c5",
+          "solution": 6,
+          "cageId": "cage-3"
+        },
+        {
+          "id": "r0c6",
+          "solution": 1,
+          "cageId": "cage-3"
+        },
+        {
+          "id": "r0c7",
+          "solution": 9,
+          "cageId": "cage-4"
+        },
+        {
+          "id": "r0c8",
+          "solution": 5,
+          "cageId": "cage-4"
+        },
+        {
+          "id": "r1c0",
+          "solution": 9,
+          "cageId": "cage-0"
+        },
+        {
+          "id": "r1c1",
+          "solution": 4,
+          "cageId": "cage-0"
+        },
+        {
+          "id": "r1c2",
+          "solution": 7,
+          "cageId": "cage-1"
+        },
+        {
+          "id": "r1c3",
+          "solution": 3,
+          "cageId": "cage-1"
+        },
+        {
+          "id": "r1c4",
+          "solution": 1,
+          "cageId": "cage-2"
+        },
+        {
+          "id": "r1c5",
+          "solution": 5,
+          "cageId": "cage-3"
+        },
+        {
+          "id": "r1c6",
+          "solution": 8,
+          "cageId": "cage-3"
+        },
+        {
+          "id": "r1c7",
+          "solution": 6,
+          "cageId": "cage-4"
+        },
+        {
+          "id": "r1c8",
+          "solution": 2,
+          "cageId": "cage-4"
+        },
+        {
+          "id": "r2c0",
+          "solution": 6,
+          "cageId": "cage-5"
+        },
+        {
+          "id": "r2c1",
+          "solution": 5,
+          "cageId": "cage-0"
+        },
+        {
+          "id": "r2c2",
+          "solution": 1,
+          "cageId": "cage-6"
+        },
+        {
+          "id": "r2c3",
+          "solution": 8,
+          "cageId": "cage-6"
+        },
+        {
+          "id": "r2c4",
+          "solution": 2,
+          "cageId": "cage-7"
+        },
+        {
+          "id": "r2c5",
+          "solution": 9,
+          "cageId": "cage-7"
+        },
+        {
+          "id": "r2c6",
+          "solution": 4,
+          "cageId": "cage-8"
+        },
+        {
+          "id": "r2c7",
+          "solution": 3,
+          "cageId": "cage-8"
+        },
+        {
+          "id": "r2c8",
+          "solution": 7,
+          "cageId": "cage-9"
+        },
+        {
+          "id": "r3c0",
+          "solution": 7,
+          "cageId": "cage-5"
+        },
+        {
+          "id": "r3c1",
+          "solution": 3,
+          "cageId": "cage-10"
+        },
+        {
+          "id": "r3c2",
+          "solution": 2,
+          "cageId": "cage-10"
+        },
+        {
+          "id": "r3c3",
+          "solution": 9,
+          "cageId": "cage-6"
+        },
+        {
+          "id": "r3c4",
+          "solution": 4,
+          "cageId": "cage-7"
+        },
+        {
+          "id": "r3c5",
+          "solution": 1,
+          "cageId": "cage-7"
+        },
+        {
+          "id": "r3c6",
+          "solution": 5,
+          "cageId": "cage-8"
+        },
+        {
+          "id": "r3c7",
+          "solution": 8,
+          "cageId": "cage-9"
+        },
+        {
+          "id": "r3c8",
+          "solution": 6,
+          "cageId": "cage-9"
+        },
+        {
+          "id": "r4c0",
+          "solution": 1,
+          "cageId": "cage-5"
+        },
+        {
+          "id": "r4c1",
+          "solution": 8,
+          "cageId": "cage-10"
+        },
+        {
+          "id": "r4c2",
+          "solution": 6,
+          "cageId": "cage-11"
+        },
+        {
+          "id": "r4c3",
+          "solution": 5,
+          "cageId": "cage-12"
+        },
+        {
+          "id": "r4c4",
+          "solution": 3,
+          "cageId": "cage-7"
+        },
+        {
+          "id": "r4c5",
+          "solution": 7,
+          "cageId": "cage-13"
+        },
+        {
+          "id": "r4c6",
+          "solution": 9,
+          "cageId": "cage-8"
+        },
+        {
+          "id": "r4c7",
+          "solution": 2,
+          "cageId": "cage-14"
+        },
+        {
+          "id": "r4c8",
+          "solution": 4,
+          "cageId": "cage-9"
+        },
+        {
+          "id": "r5c0",
+          "solution": 5,
+          "cageId": "cage-15"
+        },
+        {
+          "id": "r5c1",
+          "solution": 9,
+          "cageId": "cage-16"
+        },
+        {
+          "id": "r5c2",
+          "solution": 4,
+          "cageId": "cage-11"
+        },
+        {
+          "id": "r5c3",
+          "solution": 6,
+          "cageId": "cage-12"
+        },
+        {
+          "id": "r5c4",
+          "solution": 8,
+          "cageId": "cage-12"
+        },
+        {
+          "id": "r5c5",
+          "solution": 2,
+          "cageId": "cage-13"
+        },
+        {
+          "id": "r5c6",
+          "solution": 7,
+          "cageId": "cage-17"
+        },
+        {
+          "id": "r5c7",
+          "solution": 1,
+          "cageId": "cage-14"
+        },
+        {
+          "id": "r5c8",
+          "solution": 3,
+          "cageId": "cage-18"
+        },
+        {
+          "id": "r6c0",
+          "solution": 2,
+          "cageId": "cage-15"
+        },
+        {
+          "id": "r6c1",
+          "solution": 1,
+          "cageId": "cage-16"
+        },
+        {
+          "id": "r6c2",
+          "solution": 9,
+          "cageId": "cage-11"
+        },
+        {
+          "id": "r6c3",
+          "solution": 7,
+          "cageId": "cage-11"
+        },
+        {
+          "id": "r6c4",
+          "solution": 5,
+          "cageId": "cage-19"
+        },
+        {
+          "id": "r6c5",
+          "solution": 3,
+          "cageId": "cage-13"
+        },
+        {
+          "id": "r6c6",
+          "solution": 6,
+          "cageId": "cage-14"
+        },
+        {
+          "id": "r6c7",
+          "solution": 4,
+          "cageId": "cage-14"
+        },
+        {
+          "id": "r6c8",
+          "solution": 8,
+          "cageId": "cage-18"
+        },
+        {
+          "id": "r7c0",
+          "solution": 4,
+          "cageId": "cage-15"
+        },
+        {
+          "id": "r7c1",
+          "solution": 7,
+          "cageId": "cage-16"
+        },
+        {
+          "id": "r7c2",
+          "solution": 3,
+          "cageId": "cage-20"
+        },
+        {
+          "id": "r7c3",
+          "solution": 1,
+          "cageId": "cage-19"
+        },
+        {
+          "id": "r7c4",
+          "solution": 6,
+          "cageId": "cage-19"
+        },
+        {
+          "id": "r7c5",
+          "solution": 8,
+          "cageId": "cage-13"
+        },
+        {
+          "id": "r7c6",
+          "solution": 2,
+          "cageId": "cage-21"
+        },
+        {
+          "id": "r7c7",
+          "solution": 5,
+          "cageId": "cage-14"
+        },
+        {
+          "id": "r7c8",
+          "solution": 9,
+          "cageId": "cage-22"
+        },
+        {
+          "id": "r8c0",
+          "solution": 8,
+          "cageId": "cage-23"
+        },
+        {
+          "id": "r8c1",
+          "solution": 6,
+          "cageId": "cage-20"
+        },
+        {
+          "id": "r8c2",
+          "solution": 5,
+          "cageId": "cage-20"
+        },
+        {
+          "id": "r8c3",
+          "solution": 2,
+          "cageId": "cage-19"
+        },
+        {
+          "id": "r8c4",
+          "solution": 9,
+          "cageId": "cage-19"
+        },
+        {
+          "id": "r8c5",
+          "solution": 4,
+          "cageId": "cage-21"
+        },
+        {
+          "id": "r8c6",
+          "solution": 3,
+          "cageId": "cage-21"
+        },
+        {
+          "id": "r8c7",
+          "solution": 7,
+          "cageId": "cage-21"
+        },
+        {
+          "id": "r8c8",
+          "solution": 1,
+          "cageId": "cage-22"
+        }
+      ],
+      "cages": [
+        {
+          "id": "cage-0",
+          "sum": 23,
+          "cells": [
+            "r0c0",
+            "r1c0",
+            "r0c1",
+            "r1c1",
+            "r2c1"
+          ]
+        },
+        {
+          "id": "cage-1",
+          "sum": 22,
+          "cells": [
+            "r0c2",
+            "r1c2",
+            "r0c3",
+            "r1c3"
+          ]
+        },
+        {
+          "id": "cage-2",
+          "sum": 8,
+          "cells": [
+            "r0c4",
+            "r1c4"
+          ]
+        },
+        {
+          "id": "cage-3",
+          "sum": 20,
+          "cells": [
+            "r0c5",
+            "r1c5",
+            "r1c6",
+            "r0c6"
+          ]
+        },
+        {
+          "id": "cage-4",
+          "sum": 22,
+          "cells": [
+            "r0c7",
+            "r0c8",
+            "r1c8",
+            "r1c7"
+          ]
+        },
+        {
+          "id": "cage-5",
+          "sum": 14,
+          "cells": [
+            "r2c0",
+            "r3c0",
+            "r4c0"
+          ]
+        },
+        {
+          "id": "cage-6",
+          "sum": 18,
+          "cells": [
+            "r2c2",
+            "r2c3",
+            "r3c3"
+          ]
+        },
+        {
+          "id": "cage-7",
+          "sum": 19,
+          "cells": [
+            "r2c4",
+            "r3c4",
+            "r2c5",
+            "r4c4",
+            "r3c5"
+          ]
+        },
+        {
+          "id": "cage-8",
+          "sum": 21,
+          "cells": [
+            "r2c6",
+            "r2c7",
+            "r3c6",
+            "r4c6"
+          ]
+        },
+        {
+          "id": "cage-9",
+          "sum": 25,
+          "cells": [
+            "r2c8",
+            "r3c8",
+            "r4c8",
+            "r3c7"
+          ]
+        },
+        {
+          "id": "cage-10",
+          "sum": 13,
+          "cells": [
+            "r3c1",
+            "r3c2",
+            "r4c1"
+          ]
+        },
+        {
+          "id": "cage-11",
+          "sum": 26,
+          "cells": [
+            "r4c2",
+            "r5c2",
+            "r6c2",
+            "r6c3"
+          ]
+        },
+        {
+          "id": "cage-12",
+          "sum": 19,
+          "cells": [
+            "r4c3",
+            "r5c3",
+            "r5c4"
+          ]
+        },
+        {
+          "id": "cage-13",
+          "sum": 20,
+          "cells": [
+            "r4c5",
+            "r5c5",
+            "r6c5",
+            "r7c5"
+          ]
+        },
+        {
+          "id": "cage-14",
+          "sum": 18,
+          "cells": [
+            "r4c7",
+            "r5c7",
+            "r6c7",
+            "r6c6",
+            "r7c7"
+          ]
+        },
+        {
+          "id": "cage-15",
+          "sum": 11,
+          "cells": [
+            "r5c0",
+            "r6c0",
+            "r7c0"
+          ]
+        },
+        {
+          "id": "cage-16",
+          "sum": 17,
+          "cells": [
+            "r5c1",
+            "r6c1",
+            "r7c1"
+          ]
+        },
+        {
+          "id": "cage-17",
+          "sum": 7,
+          "cells": [
+            "r5c6"
+          ]
+        },
+        {
+          "id": "cage-18",
+          "sum": 11,
+          "cells": [
+            "r5c8",
+            "r6c8"
+          ]
+        },
+        {
+          "id": "cage-19",
+          "sum": 23,
+          "cells": [
+            "r6c4",
+            "r7c4",
+            "r7c3",
+            "r8c4",
+            "r8c3"
+          ]
+        },
+        {
+          "id": "cage-20",
+          "sum": 14,
+          "cells": [
+            "r7c2",
+            "r8c2",
+            "r8c1"
+          ]
+        },
+        {
+          "id": "cage-21",
+          "sum": 16,
+          "cells": [
+            "r7c6",
+            "r8c6",
+            "r8c5",
+            "r8c7"
+          ]
+        },
+        {
+          "id": "cage-22",
+          "sum": 10,
+          "cells": [
+            "r7c8",
+            "r8c8"
+          ]
+        },
+        {
+          "id": "cage-23",
+          "sum": 8,
+          "cells": [
+            "r8c0"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gv52bx",
+      "difficulty": "easy",
+      "cells": [
+        {
+          "id": "r0c0",
+          "solution": 1,
+          "cageId": "cage-0"
+        },
+        {
+          "id": "r0c1",
+          "solution": 8,
+          "cageId": "cage-1"
+        },
+        {
+          "id": "r0c2",
+          "solution": 2,
+          "cageId": "cage-1"
+        },
+        {
+          "id": "r0c3",
+          "solution": 7,
+          "cageId": "cage-1"
+        },
+        {
+          "id": "r0c4",
+          "solution": 4,
+          "cageId": "cage-2"
+        },
+        {
+          "id": "r0c5",
+          "solution": 5,
+          "cageId": "cage-2"
+        },
+        {
+          "id": "r0c6",
+          "solution": 3,
+          "cageId": "cage-3"
+        },
+        {
+          "id": "r0c7",
+          "solution": 9,
+          "cageId": "cage-3"
+        },
+        {
+          "id": "r0c8",
+          "solution": 6,
+          "cageId": "cage-4"
+        },
+        {
+          "id": "r1c0",
+          "solution": 9,
+          "cageId": "cage-0"
+        },
+        {
+          "id": "r1c1",
+          "solution": 5,
+          "cageId": "cage-1"
+        },
+        {
+          "id": "r1c2",
+          "solution": 6,
+          "cageId": "cage-5"
+        },
+        {
+          "id": "r1c3",
+          "solution": 8,
+          "cageId": "cage-6"
+        },
+        {
+          "id": "r1c4",
+          "solution": 3,
+          "cageId": "cage-6"
+        },
+        {
+          "id": "r1c5",
+          "solution": 1,
+          "cageId": "cage-6"
+        },
+        {
+          "id": "r1c6",
+          "solution": 4,
+          "cageId": "cage-3"
+        },
+        {
+          "id": "r1c7",
+          "solution": 2,
+          "cageId": "cage-3"
+        },
+        {
+          "id": "r1c8",
+          "solution": 7,
+          "cageId": "cage-4"
+        },
+        {
+          "id": "r2c0",
+          "solution": 4,
+          "cageId": "cage-7"
+        },
+        {
+          "id": "r2c1",
+          "solution": 3,
+          "cageId": "cage-7"
+        },
+        {
+          "id": "r2c2",
+          "solution": 7,
+          "cageId": "cage-5"
+        },
+        {
+          "id": "r2c3",
+          "solution": 6,
+          "cageId": "cage-8"
+        },
+        {
+          "id": "r2c4",
+          "solution": 9,
+          "cageId": "cage-9"
+        },
+        {
+          "id": "r2c5",
+          "solution": 2,
+          "cageId": "cage-9"
+        },
+        {
+          "id": "r2c6",
+          "solution": 1,
+          "cageId": "cage-10"
+        },
+        {
+          "id": "r2c7",
+          "solution": 5,
+          "cageId": "cage-4"
+        },
+        {
+          "id": "r2c8",
+          "solution": 8,
+          "cageId": "cage-4"
+        },
+        {
+          "id": "r3c0",
+          "solution": 8,
+          "cageId": "cage-7"
+        },
+        {
+          "id": "r3c1",
+          "solution": 1,
+          "cageId": "cage-11"
+        },
+        {
+          "id": "r3c2",
+          "solution": 9,
+          "cageId": "cage-5"
+        },
+        {
+          "id": "r3c3",
+          "solution": 2,
+          "cageId": "cage-8"
+        },
+        {
+          "id": "r3c4",
+          "solution": 7,
+          "cageId": "cage-8"
+        },
+        {
+          "id": "r3c5",
+          "solution": 3,
+          "cageId": "cage-9"
+        },
+        {
+          "id": "r3c6",
+          "solution": 5,
+          "cageId": "cage-9"
+        },
+        {
+          "id": "r3c7",
+          "solution": 6,
+          "cageId": "cage-12"
+        },
+        {
+          "id": "r3c8",
+          "solution": 4,
+          "cageId": "cage-12"
+        },
+        {
+          "id": "r4c0",
+          "solution": 2,
+          "cageId": "cage-13"
+        },
+        {
+          "id": "r4c1",
+          "solution": 4,
+          "cageId": "cage-11"
+        },
+        {
+          "id": "r4c2",
+          "solution": 5,
+          "cageId": "cage-11"
+        },
+        {
+          "id": "r4c3",
+          "solution": 1,
+          "cageId": "cage-8"
+        },
+        {
+          "id": "r4c4",
+          "solution": 6,
+          "cageId": "cage-14"
+        },
+        {
+          "id": "r4c5",
+          "solution": 9,
+          "cageId": "cage-14"
+        },
+        {
+          "id": "r4c6",
+          "solution": 8,
+          "cageId": "cage-15"
+        },
+        {
+          "id": "r4c7",
+          "solution": 7,
+          "cageId": "cage-12"
+        },
+        {
+          "id": "r4c8",
+          "solution": 3,
+          "cageId": "cage-16"
+        },
+        {
+          "id": "r5c0",
+          "solution": 7,
+          "cageId": "cage-13"
+        },
+        {
+          "id": "r5c1",
+          "solution": 6,
+          "cageId": "cage-17"
+        },
+        {
+          "id": "r5c2",
+          "solution": 3,
+          "cageId": "cage-17"
+        },
+        {
+          "id": "r5c3",
+          "solution": 4,
+          "cageId": "cage-17"
+        },
+        {
+          "id": "r5c4",
+          "solution": 5,
+          "cageId": "cage-14"
+        },
+        {
+          "id": "r5c5",
+          "solution": 8,
+          "cageId": "cage-18"
+        },
+        {
+          "id": "r5c6",
+          "solution": 9,
+          "cageId": "cage-15"
+        },
+        {
+          "id": "r5c7",
+          "solution": 1,
+          "cageId": "cage-15"
+        },
+        {
+          "id": "r5c8",
+          "solution": 2,
+          "cageId": "cage-15"
+        },
+        {
+          "id": "r6c0",
+          "solution": 5,
+          "cageId": "cage-13"
+        },
+        {
+          "id": "r6c1",
+          "solution": 2,
+          "cageId": "cage-19"
+        },
+        {
+          "id": "r6c2",
+          "solution": 1,
+          "cageId": "cage-20"
+        },
+        {
+          "id": "r6c3",
+          "solution": 3,
+          "cageId": "cage-20"
+        },
+        {
+          "id": "r6c4",
+          "solution": 8,
+          "cageId": "cage-14"
+        },
+        {
+          "id": "r6c5",
+          "solution": 7,
+          "cageId": "cage-18"
+        },
+        {
+          "id": "r6c6",
+          "solution": 6,
+          "cageId": "cage-21"
+        },
+        {
+          "id": "r6c7",
+          "solution": 4,
+          "cageId": "cage-15"
+        },
+        {
+          "id": "r6c8",
+          "solution": 9,
+          "cageId": "cage-22"
+        },
+        {
+          "id": "r7c0",
+          "solution": 3,
+          "cageId": "cage-13"
+        },
+        {
+          "id": "r7c1",
+          "solution": 9,
+          "cageId": "cage-19"
+        },
+        {
+          "id": "r7c2",
+          "solution": 4,
+          "cageId": "cage-23"
+        },
+        {
+          "id": "r7c3",
+          "solution": 5,
+          "cageId": "cage-23"
+        },
+        {
+          "id": "r7c4",
+          "solution": 2,
+          "cageId": "cage-14"
+        },
+        {
+          "id": "r7c5",
+          "solution": 6,
+          "cageId": "cage-24"
+        },
+        {
+          "id": "r7c6",
+          "solution": 7,
+          "cageId": "cage-21"
+        },
+        {
+          "id": "r7c7",
+          "solution": 8,
+          "cageId": "cage-22"
+        },
+        {
+          "id": "r7c8",
+          "solution": 1,
+          "cageId": "cage-22"
+        },
+        {
+          "id": "r8c0",
+          "solution": 6,
+          "cageId": "cage-13"
+        },
+        {
+          "id": "r8c1",
+          "solution": 7,
+          "cageId": "cage-23"
+        },
+        {
+          "id": "r8c2",
+          "solution": 8,
+          "cageId": "cage-23"
+        },
+        {
+          "id": "r8c3",
+          "solution": 9,
+          "cageId": "cage-23"
+        },
+        {
+          "id": "r8c4",
+          "solution": 1,
+          "cageId": "cage-25"
+        },
+        {
+          "id": "r8c5",
+          "solution": 4,
+          "cageId": "cage-24"
+        },
+        {
+          "id": "r8c6",
+          "solution": 2,
+          "cageId": "cage-26"
+        },
+        {
+          "id": "r8c7",
+          "solution": 3,
+          "cageId": "cage-22"
+        },
+        {
+          "id": "r8c8",
+          "solution": 5,
+          "cageId": "cage-27"
+        }
+      ],
+      "cages": [
+        {
+          "id": "cage-0",
+          "sum": 10,
+          "cells": [
+            "r0c0",
+            "r1c0"
+          ]
+        },
+        {
+          "id": "cage-1",
+          "sum": 22,
+          "cells": [
+            "r0c1",
+            "r0c2",
+            "r1c1",
+            "r0c3"
+          ]
+        },
+        {
+          "id": "cage-2",
+          "sum": 9,
+          "cells": [
+            "r0c4",
+            "r0c5"
+          ]
+        },
+        {
+          "id": "cage-3",
+          "sum": 18,
+          "cells": [
+            "r0c6",
+            "r0c7",
+            "r1c6",
+            "r1c7"
+          ]
+        },
+        {
+          "id": "cage-4",
+          "sum": 26,
+          "cells": [
+            "r0c8",
+            "r1c8",
+            "r2c8",
+            "r2c7"
+          ]
+        },
+        {
+          "id": "cage-5",
+          "sum": 22,
+          "cells": [
+            "r1c2",
+            "r2c2",
+            "r3c2"
+          ]
+        },
+        {
+          "id": "cage-6",
+          "sum": 12,
+          "cells": [
+            "r1c3",
+            "r1c4",
+            "r1c5"
+          ]
+        },
+        {
+          "id": "cage-7",
+          "sum": 15,
+          "cells": [
+            "r2c0",
+            "r2c1",
+            "r3c0"
+          ]
+        },
+        {
+          "id": "cage-8",
+          "sum": 16,
+          "cells": [
+            "r2c3",
+            "r3c3",
+            "r4c3",
+            "r3c4"
+          ]
+        },
+        {
+          "id": "cage-9",
+          "sum": 19,
+          "cells": [
+            "r2c4",
+            "r2c5",
+            "r3c5",
+            "r3c6"
+          ]
+        },
+        {
+          "id": "cage-10",
+          "sum": 1,
+          "cells": [
+            "r2c6"
+          ]
+        },
+        {
+          "id": "cage-11",
+          "sum": 10,
+          "cells": [
+            "r3c1",
+            "r4c1",
+            "r4c2"
+          ]
+        },
+        {
+          "id": "cage-12",
+          "sum": 17,
+          "cells": [
+            "r3c7",
+            "r3c8",
+            "r4c7"
+          ]
+        },
+        {
+          "id": "cage-13",
+          "sum": 23,
+          "cells": [
+            "r4c0",
+            "r5c0",
+            "r6c0",
+            "r7c0",
+            "r8c0"
+          ]
+        },
+        {
+          "id": "cage-14",
+          "sum": 30,
+          "cells": [
+            "r4c4",
+            "r4c5",
+            "r5c4",
+            "r6c4",
+            "r7c4"
+          ]
+        },
+        {
+          "id": "cage-15",
+          "sum": 24,
+          "cells": [
+            "r4c6",
+            "r5c6",
+            "r5c7",
+            "r6c7",
+            "r5c8"
+          ]
+        },
+        {
+          "id": "cage-16",
+          "sum": 3,
+          "cells": [
+            "r4c8"
+          ]
+        },
+        {
+          "id": "cage-17",
+          "sum": 13,
+          "cells": [
+            "r5c1",
+            "r5c2",
+            "r5c3"
+          ]
+        },
+        {
+          "id": "cage-18",
+          "sum": 15,
+          "cells": [
+            "r5c5",
+            "r6c5"
+          ]
+        },
+        {
+          "id": "cage-19",
+          "sum": 11,
+          "cells": [
+            "r6c1",
+            "r7c1"
+          ]
+        },
+        {
+          "id": "cage-20",
+          "sum": 4,
+          "cells": [
+            "r6c2",
+            "r6c3"
+          ]
+        },
+        {
+          "id": "cage-21",
+          "sum": 13,
+          "cells": [
+            "r6c6",
+            "r7c6"
+          ]
+        },
+        {
+          "id": "cage-22",
+          "sum": 21,
+          "cells": [
+            "r6c8",
+            "r7c8",
+            "r7c7",
+            "r8c7"
+          ]
+        },
+        {
+          "id": "cage-23",
+          "sum": 33,
+          "cells": [
+            "r7c2",
+            "r8c2",
+            "r8c1",
+            "r8c3",
+            "r7c3"
+          ]
+        },
+        {
+          "id": "cage-24",
+          "sum": 10,
+          "cells": [
+            "r7c5",
+            "r8c5"
+          ]
+        },
+        {
+          "id": "cage-25",
+          "sum": 1,
+          "cells": [
+            "r8c4"
+          ]
+        },
+        {
+          "id": "cage-26",
+          "sum": 2,
+          "cells": [
+            "r8c6"
+          ]
+        },
+        {
+          "id": "cage-27",
+          "sum": 5,
+          "cells": [
+            "r8c8"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "15xr3e",
+      "difficulty": "easy",
+      "cells": [
+        {
+          "id": "r0c0",
+          "solution": 2,
+          "cageId": "cage-0"
+        },
+        {
+          "id": "r0c1",
+          "solution": 3,
+          "cageId": "cage-0"
+        },
+        {
+          "id": "r0c2",
+          "solution": 9,
+          "cageId": "cage-1"
+        },
+        {
+          "id": "r0c3",
+          "solution": 1,
+          "cageId": "cage-1"
+        },
+        {
+          "id": "r0c4",
+          "solution": 8,
+          "cageId": "cage-2"
+        },
+        {
+          "id": "r0c5",
+          "solution": 4,
+          "cageId": "cage-2"
+        },
+        {
+          "id": "r0c6",
+          "solution": 6,
+          "cageId": "cage-2"
+        },
+        {
+          "id": "r0c7",
+          "solution": 5,
+          "cageId": "cage-3"
+        },
+        {
+          "id": "r0c8",
+          "solution": 7,
+          "cageId": "cage-3"
+        },
+        {
+          "id": "r1c0",
+          "solution": 4,
+          "cageId": "cage-0"
+        },
+        {
+          "id": "r1c1",
+          "solution": 7,
+          "cageId": "cage-0"
+        },
+        {
+          "id": "r1c2",
+          "solution": 8,
+          "cageId": "cage-1"
+        },
+        {
+          "id": "r1c3",
+          "solution": 9,
+          "cageId": "cage-4"
+        },
+        {
+          "id": "r1c4",
+          "solution": 6,
+          "cageId": "cage-5"
+        },
+        {
+          "id": "r1c5",
+          "solution": 5,
+          "cageId": "cage-2"
+        },
+        {
+          "id": "r1c6",
+          "solution": 2,
+          "cageId": "cage-6"
+        },
+        {
+          "id": "r1c7",
+          "solution": 1,
+          "cageId": "cage-3"
+        },
+        {
+          "id": "r1c8",
+          "solution": 3,
+          "cageId": "cage-3"
+        },
+        {
+          "id": "r2c0",
+          "solution": 1,
+          "cageId": "cage-7"
+        },
+        {
+          "id": "r2c1",
+          "solution": 5,
+          "cageId": "cage-7"
+        },
+        {
+          "id": "r2c2",
+          "solution": 6,
+          "cageId": "cage-1"
+        },
+        {
+          "id": "r2c3",
+          "solution": 7,
+          "cageId": "cage-4"
+        },
+        {
+          "id": "r2c4",
+          "solution": 2,
+          "cageId": "cage-5"
+        },
+        {
+          "id": "r2c5",
+          "solution": 3,
+          "cageId": "cage-5"
+        },
+        {
+          "id": "r2c6",
+          "solution": 8,
+          "cageId": "cage-6"
+        },
+        {
+          "id": "r2c7",
+          "solution": 9,
+          "cageId": "cage-8"
+        },
+        {
+          "id": "r2c8",
+          "solution": 4,
+          "cageId": "cage-8"
+        },
+        {
+          "id": "r3c0",
+          "solution": 3,
+          "cageId": "cage-7"
+        },
+        {
+          "id": "r3c1",
+          "solution": 9,
+          "cageId": "cage-7"
+        },
+        {
+          "id": "r3c2",
+          "solution": 4,
+          "cageId": "cage-7"
+        },
+        {
+          "id": "r3c3",
+          "solution": 2,
+          "cageId": "cage-9"
+        },
+        {
+          "id": "r3c4",
+          "solution": 7,
+          "cageId": "cage-5"
+        },
+        {
+          "id": "r3c5",
+          "solution": 8,
+          "cageId": "cage-10"
+        },
+        {
+          "id": "r3c6",
+          "solution": 1,
+          "cageId": "cage-10"
+        },
+        {
+          "id": "r3c7",
+          "solution": 6,
+          "cageId": "cage-8"
+        },
+        {
+          "id": "r3c8",
+          "solution": 5,
+          "cageId": "cage-8"
+        },
+        {
+          "id": "r4c0",
+          "solution": 5,
+          "cageId": "cage-11"
+        },
+        {
+          "id": "r4c1",
+          "solution": 1,
+          "cageId": "cage-12"
+        },
+        {
+          "id": "r4c2",
+          "solution": 2,
+          "cageId": "cage-12"
+        },
+        {
+          "id": "r4c3",
+          "solution": 3,
+          "cageId": "cage-9"
+        },
+        {
+          "id": "r4c4",
+          "solution": 9,
+          "cageId": "cage-9"
+        },
+        {
+          "id": "r4c5",
+          "solution": 6,
+          "cageId": "cage-13"
+        },
+        {
+          "id": "r4c6",
+          "solution": 4,
+          "cageId": "cage-10"
+        },
+        {
+          "id": "r4c7",
+          "solution": 7,
+          "cageId": "cage-14"
+        },
+        {
+          "id": "r4c8",
+          "solution": 8,
+          "cageId": "cage-14"
+        },
+        {
+          "id": "r5c0",
+          "solution": 8,
+          "cageId": "cage-11"
+        },
+        {
+          "id": "r5c1",
+          "solution": 6,
+          "cageId": "cage-12"
+        },
+        {
+          "id": "r5c2",
+          "solution": 7,
+          "cageId": "cage-12"
+        },
+        {
+          "id": "r5c3",
+          "solution": 5,
+          "cageId": "cage-15"
+        },
+        {
+          "id": "r5c4",
+          "solution": 4,
+          "cageId": "cage-16"
+        },
+        {
+          "id": "r5c5",
+          "solution": 1,
+          "cageId": "cage-13"
+        },
+        {
+          "id": "r5c6",
+          "solution": 9,
+          "cageId": "cage-13"
+        },
+        {
+          "id": "r5c7",
+          "solution": 3,
+          "cageId": "cage-13"
+        },
+        {
+          "id": "r5c8",
+          "solution": 2,
+          "cageId": "cage-14"
+        },
+        {
+          "id": "r6c0",
+          "solution": 9,
+          "cageId": "cage-17"
+        },
+        {
+          "id": "r6c1",
+          "solution": 8,
+          "cageId": "cage-17"
+        },
+        {
+          "id": "r6c2",
+          "solution": 3,
+          "cageId": "cage-18"
+        },
+        {
+          "id": "r6c3",
+          "solution": 6,
+          "cageId": "cage-15"
+        },
+        {
+          "id": "r6c4",
+          "solution": 5,
+          "cageId": "cage-16"
+        },
+        {
+          "id": "r6c5",
+          "solution": 2,
+          "cageId": "cage-16"
+        },
+        {
+          "id": "r6c6",
+          "solution": 7,
+          "cageId": "cage-16"
+        },
+        {
+          "id": "r6c7",
+          "solution": 4,
+          "cageId": "cage-19"
+        },
+        {
+          "id": "r6c8",
+          "solution": 1,
+          "cageId": "cage-14"
+        },
+        {
+          "id": "r7c0",
+          "solution": 7,
+          "cageId": "cage-17"
+        },
+        {
+          "id": "r7c1",
+          "solution": 2,
+          "cageId": "cage-17"
+        },
+        {
+          "id": "r7c2",
+          "solution": 5,
+          "cageId": "cage-18"
+        },
+        {
+          "id": "r7c3",
+          "solution": 4,
+          "cageId": "cage-15"
+        },
+        {
+          "id": "r7c4",
+          "solution": 1,
+          "cageId": "cage-15"
+        },
+        {
+          "id": "r7c5",
+          "solution": 9,
+          "cageId": "cage-19"
+        },
+        {
+          "id": "r7c6",
+          "solution": 3,
+          "cageId": "cage-19"
+        },
+        {
+          "id": "r7c7",
+          "solution": 8,
+          "cageId": "cage-19"
+        },
+        {
+          "id": "r7c8",
+          "solution": 6,
+          "cageId": "cage-14"
+        },
+        {
+          "id": "r8c0",
+          "solution": 6,
+          "cageId": "cage-17"
+        },
+        {
+          "id": "r8c1",
+          "solution": 4,
+          "cageId": "cage-18"
+        },
+        {
+          "id": "r8c2",
+          "solution": 1,
+          "cageId": "cage-18"
+        },
+        {
+          "id": "r8c3",
+          "solution": 8,
+          "cageId": "cage-18"
+        },
+        {
+          "id": "r8c4",
+          "solution": 3,
+          "cageId": "cage-20"
+        },
+        {
+          "id": "r8c5",
+          "solution": 7,
+          "cageId": "cage-20"
+        },
+        {
+          "id": "r8c6",
+          "solution": 5,
+          "cageId": "cage-20"
+        },
+        {
+          "id": "r8c7",
+          "solution": 2,
+          "cageId": "cage-20"
+        },
+        {
+          "id": "r8c8",
+          "solution": 9,
+          "cageId": "cage-21"
+        }
+      ],
+      "cages": [
+        {
+          "id": "cage-0",
+          "sum": 16,
+          "cells": [
+            "r0c0",
+            "r0c1",
+            "r1c0",
+            "r1c1"
+          ]
+        },
+        {
+          "id": "cage-1",
+          "sum": 24,
+          "cells": [
+            "r0c2",
+            "r0c3",
+            "r1c2",
+            "r2c2"
+          ]
+        },
+        {
+          "id": "cage-2",
+          "sum": 23,
+          "cells": [
+            "r0c4",
+            "r0c5",
+            "r0c6",
+            "r1c5"
+          ]
+        },
+        {
+          "id": "cage-3",
+          "sum": 16,
+          "cells": [
+            "r0c7",
+            "r0c8",
+            "r1c8",
+            "r1c7"
+          ]
+        },
+        {
+          "id": "cage-4",
+          "sum": 16,
+          "cells": [
+            "r1c3",
+            "r2c3"
+          ]
+        },
+        {
+          "id": "cage-5",
+          "sum": 18,
+          "cells": [
+            "r1c4",
+            "r2c4",
+            "r2c5",
+            "r3c4"
+          ]
+        },
+        {
+          "id": "cage-6",
+          "sum": 10,
+          "cells": [
+            "r1c6",
+            "r2c6"
+          ]
+        },
+        {
+          "id": "cage-7",
+          "sum": 22,
+          "cells": [
+            "r2c0",
+            "r2c1",
+            "r3c1",
+            "r3c2",
+            "r3c0"
+          ]
+        },
+        {
+          "id": "cage-8",
+          "sum": 24,
+          "cells": [
+            "r2c7",
+            "r2c8",
+            "r3c8",
+            "r3c7"
+          ]
+        },
+        {
+          "id": "cage-9",
+          "sum": 14,
+          "cells": [
+            "r3c3",
+            "r4c3",
+            "r4c4"
+          ]
+        },
+        {
+          "id": "cage-10",
+          "sum": 13,
+          "cells": [
+            "r3c5",
+            "r3c6",
+            "r4c6"
+          ]
+        },
+        {
+          "id": "cage-11",
+          "sum": 13,
+          "cells": [
+            "r4c0",
+            "r5c0"
+          ]
+        },
+        {
+          "id": "cage-12",
+          "sum": 16,
+          "cells": [
+            "r4c1",
+            "r4c2",
+            "r5c1",
+            "r5c2"
+          ]
+        },
+        {
+          "id": "cage-13",
+          "sum": 19,
+          "cells": [
+            "r4c5",
+            "r5c5",
+            "r5c6",
+            "r5c7"
+          ]
+        },
+        {
+          "id": "cage-14",
+          "sum": 24,
+          "cells": [
+            "r4c7",
+            "r4c8",
+            "r5c8",
+            "r6c8",
+            "r7c8"
+          ]
+        },
+        {
+          "id": "cage-15",
+          "sum": 16,
+          "cells": [
+            "r5c3",
+            "r6c3",
+            "r7c3",
+            "r7c4"
+          ]
+        },
+        {
+          "id": "cage-16",
+          "sum": 18,
+          "cells": [
+            "r5c4",
+            "r6c4",
+            "r6c5",
+            "r6c6"
+          ]
+        },
+        {
+          "id": "cage-17",
+          "sum": 32,
+          "cells": [
+            "r6c0",
+            "r7c0",
+            "r6c1",
+            "r8c0",
+            "r7c1"
+          ]
+        },
+        {
+          "id": "cage-18",
+          "sum": 21,
+          "cells": [
+            "r6c2",
+            "r7c2",
+            "r8c2",
+            "r8c1",
+            "r8c3"
+          ]
+        },
+        {
+          "id": "cage-19",
+          "sum": 24,
+          "cells": [
+            "r6c7",
+            "r7c7",
+            "r7c6",
+            "r7c5"
+          ]
+        },
+        {
+          "id": "cage-20",
+          "sum": 17,
+          "cells": [
+            "r8c4",
+            "r8c5",
+            "r8c6",
+            "r8c7"
+          ]
+        },
+        {
+          "id": "cage-21",
+          "sum": 9,
+          "cells": [
+            "r8c8"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "inctad",
+      "difficulty": "easy",
+      "cells": [
+        {
+          "id": "r0c0",
+          "solution": 2,
+          "cageId": "cage-0"
+        },
+        {
+          "id": "r0c1",
+          "solution": 1,
+          "cageId": "cage-0"
+        },
+        {
+          "id": "r0c2",
+          "solution": 8,
+          "cageId": "cage-1"
+        },
+        {
+          "id": "r0c3",
+          "solution": 9,
+          "cageId": "cage-1"
+        },
+        {
+          "id": "r0c4",
+          "solution": 4,
+          "cageId": "cage-2"
+        },
+        {
+          "id": "r0c5",
+          "solution": 6,
+          "cageId": "cage-2"
+        },
+        {
+          "id": "r0c6",
+          "solution": 3,
+          "cageId": "cage-3"
+        },
+        {
+          "id": "r0c7",
+          "solution": 7,
+          "cageId": "cage-3"
+        },
+        {
+          "id": "r0c8",
+          "solution": 5,
+          "cageId": "cage-3"
+        },
+        {
+          "id": "r1c0",
+          "solution": 6,
+          "cageId": "cage-0"
+        },
+        {
+          "id": "r1c1",
+          "solution": 7,
+          "cageId": "cage-0"
+        },
+        {
+          "id": "r1c2",
+          "solution": 3,
+          "cageId": "cage-4"
+        },
+        {
+          "id": "r1c3",
+          "solution": 2,
+          "cageId": "cage-4"
+        },
+        {
+          "id": "r1c4",
+          "solution": 5,
+          "cageId": "cage-2"
+        },
+        {
+          "id": "r1c5",
+          "solution": 8,
+          "cageId": "cage-5"
+        },
+        {
+          "id": "r1c6",
+          "solution": 4,
+          "cageId": "cage-5"
+        },
+        {
+          "id": "r1c7",
+          "solution": 1,
+          "cageId": "cage-3"
+        },
+        {
+          "id": "r1c8",
+          "solution": 9,
+          "cageId": "cage-6"
+        },
+        {
+          "id": "r2c0",
+          "solution": 9,
+          "cageId": "cage-7"
+        },
+        {
+          "id": "r2c1",
+          "solution": 4,
+          "cageId": "cage-7"
+        },
+        {
+          "id": "r2c2",
+          "solution": 5,
+          "cageId": "cage-4"
+        },
+        {
+          "id": "r2c3",
+          "solution": 1,
+          "cageId": "cage-8"
+        },
+        {
+          "id": "r2c4",
+          "solution": 7,
+          "cageId": "cage-8"
+        },
+        {
+          "id": "r2c5",
+          "solution": 3,
+          "cageId": "cage-5"
+        },
+        {
+          "id": "r2c6",
+          "solution": 6,
+          "cageId": "cage-5"
+        },
+        {
+          "id": "r2c7",
+          "solution": 8,
+          "cageId": "cage-6"
+        },
+        {
+          "id": "r2c8",
+          "solution": 2,
+          "cageId": "cage-6"
+        },
+        {
+          "id": "r3c0",
+          "solution": 1,
+          "cageId": "cage-7"
+        },
+        {
+          "id": "r3c1",
+          "solution": 9,
+          "cageId": "cage-9"
+        },
+        {
+          "id": "r3c2",
+          "solution": 7,
+          "cageId": "cage-9"
+        },
+        {
+          "id": "r3c3",
+          "solution": 3,
+          "cageId": "cage-8"
+        },
+        {
+          "id": "r3c4",
+          "solution": 2,
+          "cageId": "cage-8"
+        },
+        {
+          "id": "r3c5",
+          "solution": 4,
+          "cageId": "cage-10"
+        },
+        {
+          "id": "r3c6",
+          "solution": 8,
+          "cageId": "cage-10"
+        },
+        {
+          "id": "r3c7",
+          "solution": 5,
+          "cageId": "cage-11"
+        },
+        {
+          "id": "r3c8",
+          "solution": 6,
+          "cageId": "cage-11"
+        },
+        {
+          "id": "r4c0",
+          "solution": 8,
+          "cageId": "cage-7"
+        },
+        {
+          "id": "r4c1",
+          "solution": 2,
+          "cageId": "cage-12"
+        },
+        {
+          "id": "r4c2",
+          "solution": 6,
+          "cageId": "cage-9"
+        },
+        {
+          "id": "r4c3",
+          "solution": 5,
+          "cageId": "cage-13"
+        },
+        {
+          "id": "r4c4",
+          "solution": 1,
+          "cageId": "cage-14"
+        },
+        {
+          "id": "r4c5",
+          "solution": 9,
+          "cageId": "cage-15"
+        },
+        {
+          "id": "r4c6",
+          "solution": 7,
+          "cageId": "cage-10"
+        },
+        {
+          "id": "r4c7",
+          "solution": 3,
+          "cageId": "cage-10"
+        },
+        {
+          "id": "r4c8",
+          "solution": 4,
+          "cageId": "cage-11"
+        },
+        {
+          "id": "r5c0",
+          "solution": 5,
+          "cageId": "cage-16"
+        },
+        {
+          "id": "r5c1",
+          "solution": 3,
+          "cageId": "cage-9"
+        },
+        {
+          "id": "r5c2",
+          "solution": 4,
+          "cageId": "cage-9"
+        },
+        {
+          "id": "r5c3",
+          "solution": 6,
+          "cageId": "cage-13"
+        },
+        {
+          "id": "r5c4",
+          "solution": 8,
+          "cageId": "cage-14"
+        },
+        {
+          "id": "r5c5",
+          "solution": 7,
+          "cageId": "cage-14"
+        },
+        {
+          "id": "r5c6",
+          "solution": 9,
+          "cageId": "cage-17"
+        },
+        {
+          "id": "r5c7",
+          "solution": 2,
+          "cageId": "cage-17"
+        },
+        {
+          "id": "r5c8",
+          "solution": 1,
+          "cageId": "cage-11"
+        },
+        {
+          "id": "r6c0",
+          "solution": 4,
+          "cageId": "cage-16"
+        },
+        {
+          "id": "r6c1",
+          "solution": 8,
+          "cageId": "cage-16"
+        },
+        {
+          "id": "r6c2",
+          "solution": 1,
+          "cageId": "cage-18"
+        },
+        {
+          "id": "r6c3",
+          "solution": 7,
+          "cageId": "cage-18"
+        },
+        {
+          "id": "r6c4",
+          "solution": 9,
+          "cageId": "cage-19"
+        },
+        {
+          "id": "r6c5",
+          "solution": 5,
+          "cageId": "cage-19"
+        },
+        {
+          "id": "r6c6",
+          "solution": 2,
+          "cageId": "cage-20"
+        },
+        {
+          "id": "r6c7",
+          "solution": 6,
+          "cageId": "cage-20"
+        },
+        {
+          "id": "r6c8",
+          "solution": 3,
+          "cageId": "cage-11"
+        },
+        {
+          "id": "r7c0",
+          "solution": 7,
+          "cageId": "cage-16"
+        },
+        {
+          "id": "r7c1",
+          "solution": 6,
+          "cageId": "cage-16"
+        },
+        {
+          "id": "r7c2",
+          "solution": 2,
+          "cageId": "cage-18"
+        },
+        {
+          "id": "r7c3",
+          "solution": 4,
+          "cageId": "cage-21"
+        },
+        {
+          "id": "r7c4",
+          "solution": 3,
+          "cageId": "cage-21"
+        },
+        {
+          "id": "r7c5",
+          "solution": 1,
+          "cageId": "cage-21"
+        },
+        {
+          "id": "r7c6",
+          "solution": 5,
+          "cageId": "cage-22"
+        },
+        {
+          "id": "r7c7",
+          "solution": 9,
+          "cageId": "cage-22"
+        },
+        {
+          "id": "r7c8",
+          "solution": 8,
+          "cageId": "cage-22"
+        },
+        {
+          "id": "r8c0",
+          "solution": 3,
+          "cageId": "cage-23"
+        },
+        {
+          "id": "r8c1",
+          "solution": 5,
+          "cageId": "cage-23"
+        },
+        {
+          "id": "r8c2",
+          "solution": 9,
+          "cageId": "cage-18"
+        },
+        {
+          "id": "r8c3",
+          "solution": 8,
+          "cageId": "cage-21"
+        },
+        {
+          "id": "r8c4",
+          "solution": 6,
+          "cageId": "cage-24"
+        },
+        {
+          "id": "r8c5",
+          "solution": 2,
+          "cageId": "cage-21"
+        },
+        {
+          "id": "r8c6",
+          "solution": 1,
+          "cageId": "cage-22"
+        },
+        {
+          "id": "r8c7",
+          "solution": 4,
+          "cageId": "cage-25"
+        },
+        {
+          "id": "r8c8",
+          "solution": 7,
+          "cageId": "cage-25"
+        }
+      ],
+      "cages": [
+        {
+          "id": "cage-0",
+          "sum": 16,
+          "cells": [
+            "r0c0",
+            "r1c0",
+            "r1c1",
+            "r0c1"
+          ]
+        },
+        {
+          "id": "cage-1",
+          "sum": 17,
+          "cells": [
+            "r0c2",
+            "r0c3"
+          ]
+        },
+        {
+          "id": "cage-2",
+          "sum": 15,
+          "cells": [
+            "r0c4",
+            "r0c5",
+            "r1c4"
+          ]
+        },
+        {
+          "id": "cage-3",
+          "sum": 16,
+          "cells": [
+            "r0c6",
+            "r0c7",
+            "r1c7",
+            "r0c8"
+          ]
+        },
+        {
+          "id": "cage-4",
+          "sum": 10,
+          "cells": [
+            "r1c2",
+            "r1c3",
+            "r2c2"
+          ]
+        },
+        {
+          "id": "cage-5",
+          "sum": 21,
+          "cells": [
+            "r1c5",
+            "r1c6",
+            "r2c5",
+            "r2c6"
+          ]
+        },
+        {
+          "id": "cage-6",
+          "sum": 19,
+          "cells": [
+            "r1c8",
+            "r2c8",
+            "r2c7"
+          ]
+        },
+        {
+          "id": "cage-7",
+          "sum": 22,
+          "cells": [
+            "r2c0",
+            "r2c1",
+            "r3c0",
+            "r4c0"
+          ]
+        },
+        {
+          "id": "cage-8",
+          "sum": 13,
+          "cells": [
+            "r2c3",
+            "r3c3",
+            "r2c4",
+            "r3c4"
+          ]
+        },
+        {
+          "id": "cage-9",
+          "sum": 29,
+          "cells": [
+            "r3c1",
+            "r3c2",
+            "r4c2",
+            "r5c2",
+            "r5c1"
+          ]
+        },
+        {
+          "id": "cage-10",
+          "sum": 22,
+          "cells": [
+            "r3c5",
+            "r3c6",
+            "r4c6",
+            "r4c7"
+          ]
+        },
+        {
+          "id": "cage-11",
+          "sum": 19,
+          "cells": [
+            "r3c7",
+            "r3c8",
+            "r4c8",
+            "r5c8",
+            "r6c8"
+          ]
+        },
+        {
+          "id": "cage-12",
+          "sum": 2,
+          "cells": [
+            "r4c1"
+          ]
+        },
+        {
+          "id": "cage-13",
+          "sum": 11,
+          "cells": [
+            "r4c3",
+            "r5c3"
+          ]
+        },
+        {
+          "id": "cage-14",
+          "sum": 16,
+          "cells": [
+            "r4c4",
+            "r5c4",
+            "r5c5"
+          ]
+        },
+        {
+          "id": "cage-15",
+          "sum": 9,
+          "cells": [
+            "r4c5"
+          ]
+        },
+        {
+          "id": "cage-16",
+          "sum": 30,
+          "cells": [
+            "r5c0",
+            "r6c0",
+            "r6c1",
+            "r7c1",
+            "r7c0"
+          ]
+        },
+        {
+          "id": "cage-17",
+          "sum": 11,
+          "cells": [
+            "r5c6",
+            "r5c7"
+          ]
+        },
+        {
+          "id": "cage-18",
+          "sum": 19,
+          "cells": [
+            "r6c2",
+            "r7c2",
+            "r6c3",
+            "r8c2"
+          ]
+        },
+        {
+          "id": "cage-19",
+          "sum": 14,
+          "cells": [
+            "r6c4",
+            "r6c5"
+          ]
+        },
+        {
+          "id": "cage-20",
+          "sum": 8,
+          "cells": [
+            "r6c6",
+            "r6c7"
+          ]
+        },
+        {
+          "id": "cage-21",
+          "sum": 18,
+          "cells": [
+            "r7c3",
+            "r8c3",
+            "r7c4",
+            "r7c5",
+            "r8c5"
+          ]
+        },
+        {
+          "id": "cage-22",
+          "sum": 23,
+          "cells": [
+            "r7c6",
+            "r8c6",
+            "r7c7",
+            "r7c8"
+          ]
+        },
+        {
+          "id": "cage-23",
+          "sum": 8,
+          "cells": [
+            "r8c0",
+            "r8c1"
+          ]
+        },
+        {
+          "id": "cage-24",
+          "sum": 6,
+          "cells": [
+            "r8c4"
+          ]
+        },
+        {
+          "id": "cage-25",
+          "sum": 11,
+          "cells": [
+            "r8c7",
+            "r8c8"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gw8bcn",
+      "difficulty": "easy",
+      "cells": [
+        {
+          "id": "r0c0",
+          "solution": 2,
+          "cageId": "cage-0"
+        },
+        {
+          "id": "r0c1",
+          "solution": 9,
+          "cageId": "cage-1"
+        },
+        {
+          "id": "r0c2",
+          "solution": 6,
+          "cageId": "cage-1"
+        },
+        {
+          "id": "r0c3",
+          "solution": 8,
+          "cageId": "cage-2"
+        },
+        {
+          "id": "r0c4",
+          "solution": 4,
+          "cageId": "cage-2"
+        },
+        {
+          "id": "r0c5",
+          "solution": 5,
+          "cageId": "cage-3"
+        },
+        {
+          "id": "r0c6",
+          "solution": 7,
+          "cageId": "cage-3"
+        },
+        {
+          "id": "r0c7",
+          "solution": 1,
+          "cageId": "cage-3"
+        },
+        {
+          "id": "r0c8",
+          "solution": 3,
+          "cageId": "cage-3"
+        },
+        {
+          "id": "r1c0",
+          "solution": 8,
+          "cageId": "cage-0"
+        },
+        {
+          "id": "r1c1",
+          "solution": 4,
+          "cageId": "cage-1"
+        },
+        {
+          "id": "r1c2",
+          "solution": 7,
+          "cageId": "cage-1"
+        },
+        {
+          "id": "r1c3",
+          "solution": 9,
+          "cageId": "cage-2"
+        },
+        {
+          "id": "r1c4",
+          "solution": 3,
+          "cageId": "cage-2"
+        },
+        {
+          "id": "r1c5",
+          "solution": 1,
+          "cageId": "cage-2"
+        },
+        {
+          "id": "r1c6",
+          "solution": 6,
+          "cageId": "cage-3"
+        },
+        {
+          "id": "r1c7",
+          "solution": 5,
+          "cageId": "cage-4"
+        },
+        {
+          "id": "r1c8",
+          "solution": 2,
+          "cageId": "cage-4"
+        },
+        {
+          "id": "r2c0",
+          "solution": 3,
+          "cageId": "cage-5"
+        },
+        {
+          "id": "r2c1",
+          "solution": 5,
+          "cageId": "cage-6"
+        },
+        {
+          "id": "r2c2",
+          "solution": 1,
+          "cageId": "cage-6"
+        },
+        {
+          "id": "r2c3",
+          "solution": 2,
+          "cageId": "cage-6"
+        },
+        {
+          "id": "r2c4",
+          "solution": 7,
+          "cageId": "cage-7"
+        },
+        {
+          "id": "r2c5",
+          "solution": 6,
+          "cageId": "cage-7"
+        },
+        {
+          "id": "r2c6",
+          "solution": 9,
+          "cageId": "cage-8"
+        },
+        {
+          "id": "r2c7",
+          "solution": 8,
+          "cageId": "cage-8"
+        },
+        {
+          "id": "r2c8",
+          "solution": 4,
+          "cageId": "cage-4"
+        },
+        {
+          "id": "r3c0",
+          "solution": 1,
+          "cageId": "cage-5"
+        },
+        {
+          "id": "r3c1",
+          "solution": 6,
+          "cageId": "cage-6"
+        },
+        {
+          "id": "r3c2",
+          "solution": 4,
+          "cageId": "cage-6"
+        },
+        {
+          "id": "r3c3",
+          "solution": 5,
+          "cageId": "cage-7"
+        },
+        {
+          "id": "r3c4",
+          "solution": 8,
+          "cageId": "cage-7"
+        },
+        {
+          "id": "r3c5",
+          "solution": 7,
+          "cageId": "cage-8"
+        },
+        {
+          "id": "r3c6",
+          "solution": 3,
+          "cageId": "cage-8"
+        },
+        {
+          "id": "r3c7",
+          "solution": 2,
+          "cageId": "cage-8"
+        },
+        {
+          "id": "r3c8",
+          "solution": 9,
+          "cageId": "cage-4"
+        },
+        {
+          "id": "r4c0",
+          "solution": 9,
+          "cageId": "cage-9"
+        },
+        {
+          "id": "r4c1",
+          "solution": 3,
+          "cageId": "cage-9"
+        },
+        {
+          "id": "r4c2",
+          "solution": 2,
+          "cageId": "cage-10"
+        },
+        {
+          "id": "r4c3",
+          "solution": 1,
+          "cageId": "cage-11"
+        },
+        {
+          "id": "r4c4",
+          "solution": 6,
+          "cageId": "cage-11"
+        },
+        {
+          "id": "r4c5",
+          "solution": 4,
+          "cageId": "cage-12"
+        },
+        {
+          "id": "r4c6",
+          "solution": 8,
+          "cageId": "cage-12"
+        },
+        {
+          "id": "r4c7",
+          "solution": 7,
+          "cageId": "cage-13"
+        },
+        {
+          "id": "r4c8",
+          "solution": 5,
+          "cageId": "cage-14"
+        },
+        {
+          "id": "r5c0",
+          "solution": 5,
+          "cageId": "cage-9"
+        },
+        {
+          "id": "r5c1",
+          "solution": 7,
+          "cageId": "cage-10"
+        },
+        {
+          "id": "r5c2",
+          "solution": 8,
+          "cageId": "cage-10"
+        },
+        {
+          "id": "r5c3",
+          "solution": 3,
+          "cageId": "cage-10"
+        },
+        {
+          "id": "r5c4",
+          "solution": 2,
+          "cageId": "cage-15"
+        },
+        {
+          "id": "r5c5",
+          "solution": 9,
+          "cageId": "cage-12"
+        },
+        {
+          "id": "r5c6",
+          "solution": 1,
+          "cageId": "cage-12"
+        },
+        {
+          "id": "r5c7",
+          "solution": 4,
+          "cageId": "cage-13"
+        },
+        {
+          "id": "r5c8",
+          "solution": 6,
+          "cageId": "cage-13"
+        },
+        {
+          "id": "r6c0",
+          "solution": 4,
+          "cageId": "cage-16"
+        },
+        {
+          "id": "r6c1",
+          "solution": 1,
+          "cageId": "cage-17"
+        },
+        {
+          "id": "r6c2",
+          "solution": 9,
+          "cageId": "cage-18"
+        },
+        {
+          "id": "r6c3",
+          "solution": 7,
+          "cageId": "cage-15"
+        },
+        {
+          "id": "r6c4",
+          "solution": 5,
+          "cageId": "cage-15"
+        },
+        {
+          "id": "r6c5",
+          "solution": 3,
+          "cageId": "cage-15"
+        },
+        {
+          "id": "r6c6",
+          "solution": 2,
+          "cageId": "cage-19"
+        },
+        {
+          "id": "r6c7",
+          "solution": 6,
+          "cageId": "cage-20"
+        },
+        {
+          "id": "r6c8",
+          "solution": 8,
+          "cageId": "cage-20"
+        },
+        {
+          "id": "r7c0",
+          "solution": 7,
+          "cageId": "cage-16"
+        },
+        {
+          "id": "r7c1",
+          "solution": 8,
+          "cageId": "cage-17"
+        },
+        {
+          "id": "r7c2",
+          "solution": 5,
+          "cageId": "cage-18"
+        },
+        {
+          "id": "r7c3",
+          "solution": 6,
+          "cageId": "cage-15"
+        },
+        {
+          "id": "r7c4",
+          "solution": 9,
+          "cageId": "cage-21"
+        },
+        {
+          "id": "r7c5",
+          "solution": 2,
+          "cageId": "cage-21"
+        },
+        {
+          "id": "r7c6",
+          "solution": 4,
+          "cageId": "cage-19"
+        },
+        {
+          "id": "r7c7",
+          "solution": 3,
+          "cageId": "cage-20"
+        },
+        {
+          "id": "r7c8",
+          "solution": 1,
+          "cageId": "cage-22"
+        },
+        {
+          "id": "r8c0",
+          "solution": 6,
+          "cageId": "cage-23"
+        },
+        {
+          "id": "r8c1",
+          "solution": 2,
+          "cageId": "cage-23"
+        },
+        {
+          "id": "r8c2",
+          "solution": 3,
+          "cageId": "cage-18"
+        },
+        {
+          "id": "r8c3",
+          "solution": 4,
+          "cageId": "cage-21"
+        },
+        {
+          "id": "r8c4",
+          "solution": 1,
+          "cageId": "cage-21"
+        },
+        {
+          "id": "r8c5",
+          "solution": 8,
+          "cageId": "cage-21"
+        },
+        {
+          "id": "r8c6",
+          "solution": 5,
+          "cageId": "cage-19"
+        },
+        {
+          "id": "r8c7",
+          "solution": 9,
+          "cageId": "cage-20"
+        },
+        {
+          "id": "r8c8",
+          "solution": 7,
+          "cageId": "cage-22"
+        }
+      ],
+      "cages": [
+        {
+          "id": "cage-0",
+          "sum": 10,
+          "cells": [
+            "r0c0",
+            "r1c0"
+          ]
+        },
+        {
+          "id": "cage-1",
+          "sum": 26,
+          "cells": [
+            "r0c1",
+            "r0c2",
+            "r1c2",
+            "r1c1"
+          ]
+        },
+        {
+          "id": "cage-2",
+          "sum": 25,
+          "cells": [
+            "r0c3",
+            "r1c3",
+            "r0c4",
+            "r1c4",
+            "r1c5"
+          ]
+        },
+        {
+          "id": "cage-3",
+          "sum": 22,
+          "cells": [
+            "r0c5",
+            "r0c6",
+            "r1c6",
+            "r0c7",
+            "r0c8"
+          ]
+        },
+        {
+          "id": "cage-4",
+          "sum": 20,
+          "cells": [
+            "r1c7",
+            "r1c8",
+            "r2c8",
+            "r3c8"
+          ]
+        },
+        {
+          "id": "cage-5",
+          "sum": 4,
+          "cells": [
+            "r2c0",
+            "r3c0"
+          ]
+        },
+        {
+          "id": "cage-6",
+          "sum": 18,
+          "cells": [
+            "r2c1",
+            "r2c2",
+            "r3c2",
+            "r2c3",
+            "r3c1"
+          ]
+        },
+        {
+          "id": "cage-7",
+          "sum": 26,
+          "cells": [
+            "r2c4",
+            "r2c5",
+            "r3c4",
+            "r3c3"
+          ]
+        },
+        {
+          "id": "cage-8",
+          "sum": 29,
+          "cells": [
+            "r2c6",
+            "r3c6",
+            "r3c7",
+            "r2c7",
+            "r3c5"
+          ]
+        },
+        {
+          "id": "cage-9",
+          "sum": 17,
+          "cells": [
+            "r4c0",
+            "r4c1",
+            "r5c0"
+          ]
+        },
+        {
+          "id": "cage-10",
+          "sum": 20,
+          "cells": [
+            "r4c2",
+            "r5c2",
+            "r5c1",
+            "r5c3"
+          ]
+        },
+        {
+          "id": "cage-11",
+          "sum": 7,
+          "cells": [
+            "r4c3",
+            "r4c4"
+          ]
+        },
+        {
+          "id": "cage-12",
+          "sum": 22,
+          "cells": [
+            "r4c5",
+            "r4c6",
+            "r5c6",
+            "r5c5"
+          ]
+        },
+        {
+          "id": "cage-13",
+          "sum": 17,
+          "cells": [
+            "r4c7",
+            "r5c7",
+            "r5c8"
+          ]
+        },
+        {
+          "id": "cage-14",
+          "sum": 5,
+          "cells": [
+            "r4c8"
+          ]
+        },
+        {
+          "id": "cage-15",
+          "sum": 23,
+          "cells": [
+            "r5c4",
+            "r6c4",
+            "r6c5",
+            "r6c3",
+            "r7c3"
+          ]
+        },
+        {
+          "id": "cage-16",
+          "sum": 11,
+          "cells": [
+            "r6c0",
+            "r7c0"
+          ]
+        },
+        {
+          "id": "cage-17",
+          "sum": 9,
+          "cells": [
+            "r6c1",
+            "r7c1"
+          ]
+        },
+        {
+          "id": "cage-18",
+          "sum": 17,
+          "cells": [
+            "r6c2",
+            "r7c2",
+            "r8c2"
+          ]
+        },
+        {
+          "id": "cage-19",
+          "sum": 11,
+          "cells": [
+            "r6c6",
+            "r7c6",
+            "r8c6"
+          ]
+        },
+        {
+          "id": "cage-20",
+          "sum": 26,
+          "cells": [
+            "r6c7",
+            "r7c7",
+            "r8c7",
+            "r6c8"
+          ]
+        },
+        {
+          "id": "cage-21",
+          "sum": 24,
+          "cells": [
+            "r7c4",
+            "r7c5",
+            "r8c5",
+            "r8c4",
+            "r8c3"
+          ]
+        },
+        {
+          "id": "cage-22",
+          "sum": 8,
+          "cells": [
+            "r7c8",
+            "r8c8"
+          ]
+        },
+        {
+          "id": "cage-23",
+          "sum": 8,
+          "cells": [
+            "r8c0",
+            "r8c1"
+          ]
+        }
+      ]
+    }
+  ],
+  "medium": [
+    {
+      "id": "yt998zu",
+      "difficulty": "medium",
+      "cells": [
+        {
+          "id": "r0c0",
+          "solution": 8,
+          "cageId": "cage-0"
+        },
+        {
+          "id": "r0c1",
+          "solution": 7,
+          "cageId": "cage-0"
+        },
+        {
+          "id": "r0c2",
+          "solution": 1,
+          "cageId": "cage-1"
+        },
+        {
+          "id": "r0c3",
+          "solution": 4,
+          "cageId": "cage-1"
+        },
+        {
+          "id": "r0c4",
+          "solution": 3,
+          "cageId": "cage-1"
+        },
+        {
+          "id": "r0c5",
+          "solution": 2,
+          "cageId": "cage-1"
+        },
+        {
+          "id": "r0c6",
+          "solution": 5,
+          "cageId": "cage-2"
+        },
+        {
+          "id": "r0c7",
+          "solution": 6,
+          "cageId": "cage-3"
+        },
+        {
+          "id": "r0c8",
+          "solution": 9,
+          "cageId": "cage-4"
+        },
+        {
+          "id": "r1c0",
+          "solution": 5,
+          "cageId": "cage-0"
+        },
+        {
+          "id": "r1c1",
+          "solution": 4,
+          "cageId": "cage-5"
+        },
+        {
+          "id": "r1c2",
+          "solution": 9,
+          "cageId": "cage-1"
+        },
+        {
+          "id": "r1c3",
+          "solution": 8,
+          "cageId": "cage-6"
+        },
+        {
+          "id": "r1c4",
+          "solution": 7,
+          "cageId": "cage-6"
+        },
+        {
+          "id": "r1c5",
+          "solution": 6,
+          "cageId": "cage-7"
+        },
+        {
+          "id": "r1c6",
+          "solution": 3,
+          "cageId": "cage-2"
+        },
+        {
+          "id": "r1c7",
+          "solution": 1,
+          "cageId": "cage-3"
+        },
+        {
+          "id": "r1c8",
+          "solution": 2,
+          "cageId": "cage-4"
+        },
+        {
+          "id": "r2c0",
+          "solution": 3,
+          "cageId": "cage-5"
+        },
+        {
+          "id": "r2c1",
+          "solution": 6,
+          "cageId": "cage-5"
+        },
+        {
+          "id": "r2c2",
+          "solution": 2,
+          "cageId": "cage-8"
+        },
+        {
+          "id": "r2c3",
+          "solution": 1,
+          "cageId": "cage-8"
+        },
+        {
+          "id": "r2c4",
+          "solution": 9,
+          "cageId": "cage-7"
+        },
+        {
+          "id": "r2c5",
+          "solution": 5,
+          "cageId": "cage-7"
+        },
+        {
+          "id": "r2c6",
+          "solution": 8,
+          "cageId": "cage-9"
+        },
+        {
+          "id": "r2c7",
+          "solution": 7,
+          "cageId": "cage-3"
+        },
+        {
+          "id": "r2c8",
+          "solution": 4,
+          "cageId": "cage-4"
+        },
+        {
+          "id": "r3c0",
+          "solution": 9,
+          "cageId": "cage-5"
+        },
+        {
+          "id": "r3c1",
+          "solution": 5,
+          "cageId": "cage-10"
+        },
+        {
+          "id": "r3c2",
+          "solution": 7,
+          "cageId": "cage-8"
+        },
+        {
+          "id": "r3c3",
+          "solution": 3,
+          "cageId": "cage-8"
+        },
+        {
+          "id": "r3c4",
+          "solution": 6,
+          "cageId": "cage-11"
+        },
+        {
+          "id": "r3c5",
+          "solution": 1,
+          "cageId": "cage-7"
+        },
+        {
+          "id": "r3c6",
+          "solution": 4,
+          "cageId": "cage-9"
+        },
+        {
+          "id": "r3c7",
+          "solution": 2,
+          "cageId": "cage-9"
+        },
+        {
+          "id": "r3c8",
+          "solution": 8,
+          "cageId": "cage-4"
+        },
+        {
+          "id": "r4c0",
+          "solution": 1,
+          "cageId": "cage-5"
+        },
+        {
+          "id": "r4c1",
+          "solution": 8,
+          "cageId": "cage-10"
+        },
+        {
+          "id": "r4c2",
+          "solution": 3,
+          "cageId": "cage-12"
+        },
+        {
+          "id": "r4c3",
+          "solution": 2,
+          "cageId": "cage-12"
+        },
+        {
+          "id": "r4c4",
+          "solution": 5,
+          "cageId": "cage-11"
+        },
+        {
+          "id": "r4c5",
+          "solution": 4,
+          "cageId": "cage-11"
+        },
+        {
+          "id": "r4c6",
+          "solution": 7,
+          "cageId": "cage-9"
+        },
+        {
+          "id": "r4c7",
+          "solution": 9,
+          "cageId": "cage-13"
+        },
+        {
+          "id": "r4c8",
+          "solution": 6,
+          "cageId": "cage-14"
+        },
+        {
+          "id": "r5c0",
+          "solution": 4,
+          "cageId": "cage-10"
+        },
+        {
+          "id": "r5c1",
+          "solution": 2,
+          "cageId": "cage-10"
+        },
+        {
+          "id": "r5c2",
+          "solution": 6,
+          "cageId": "cage-12"
+        },
+        {
+          "id": "r5c3",
+          "solution": 7,
+          "cageId": "cage-15"
+        },
+        {
+          "id": "r5c4",
+          "solution": 8,
+          "cageId": "cage-15"
+        },
+        {
+          "id": "r5c5",
+          "solution": 9,
+          "cageId": "cage-16"
+        },
+        {
+          "id": "r5c6",
+          "solution": 1,
+          "cageId": "cage-13"
+        },
+        {
+          "id": "r5c7",
+          "solution": 5,
+          "cageId": "cage-13"
+        },
+        {
+          "id": "r5c8",
+          "solution": 3,
+          "cageId": "cage-14"
+        },
+        {
+          "id": "r6c0",
+          "solution": 2,
+          "cageId": "cage-17"
+        },
+        {
+          "id": "r6c1",
+          "solution": 3,
+          "cageId": "cage-17"
+        },
+        {
+          "id": "r6c2",
+          "solution": 8,
+          "cageId": "cage-12"
+        },
+        {
+          "id": "r6c3",
+          "solution": 9,
+          "cageId": "cage-12"
+        },
+        {
+          "id": "r6c4",
+          "solution": 1,
+          "cageId": "cage-16"
+        },
+        {
+          "id": "r6c5",
+          "solution": 7,
+          "cageId": "cage-16"
+        },
+        {
+          "id": "r6c6",
+          "solution": 6,
+          "cageId": "cage-18"
+        },
+        {
+          "id": "r6c7",
+          "solution": 4,
+          "cageId": "cage-18"
+        },
+        {
+          "id": "r6c8",
+          "solution": 5,
+          "cageId": "cage-18"
+        },
+        {
+          "id": "r7c0",
+          "solution": 6,
+          "cageId": "cage-17"
+        },
+        {
+          "id": "r7c1",
+          "solution": 1,
+          "cageId": "cage-19"
+        },
+        {
+          "id": "r7c2",
+          "solution": 4,
+          "cageId": "cage-19"
+        },
+        {
+          "id": "r7c3",
+          "solution": 5,
+          "cageId": "cage-20"
+        },
+        {
+          "id": "r7c4",
+          "solution": 2,
+          "cageId": "cage-20"
+        },
+        {
+          "id": "r7c5",
+          "solution": 8,
+          "cageId": "cage-21"
+        },
+        {
+          "id": "r7c6",
+          "solution": 9,
+          "cageId": "cage-22"
+        },
+        {
+          "id": "r7c7",
+          "solution": 3,
+          "cageId": "cage-22"
+        },
+        {
+          "id": "r7c8",
+          "solution": 7,
+          "cageId": "cage-18"
+        },
+        {
+          "id": "r8c0",
+          "solution": 7,
+          "cageId": "cage-19"
+        },
+        {
+          "id": "r8c1",
+          "solution": 9,
+          "cageId": "cage-19"
+        },
+        {
+          "id": "r8c2",
+          "solution": 5,
+          "cageId": "cage-19"
+        },
+        {
+          "id": "r8c3",
+          "solution": 6,
+          "cageId": "cage-23"
+        },
+        {
+          "id": "r8c4",
+          "solution": 4,
+          "cageId": "cage-21"
+        },
+        {
+          "id": "r8c5",
+          "solution": 3,
+          "cageId": "cage-21"
+        },
+        {
+          "id": "r8c6",
+          "solution": 2,
+          "cageId": "cage-21"
+        },
+        {
+          "id": "r8c7",
+          "solution": 8,
+          "cageId": "cage-22"
+        },
+        {
+          "id": "r8c8",
+          "solution": 1,
+          "cageId": "cage-22"
+        }
+      ],
+      "cages": [
+        {
+          "id": "cage-0",
+          "sum": 20,
+          "cells": [
+            "r0c0",
+            "r1c0",
+            "r0c1"
+          ]
+        },
+        {
+          "id": "cage-1",
+          "sum": 19,
+          "cells": [
+            "r0c2",
+            "r0c3",
+            "r1c2",
+            "r0c4",
+            "r0c5"
+          ]
+        },
+        {
+          "id": "cage-2",
+          "sum": 8,
+          "cells": [
+            "r0c6",
+            "r1c6"
+          ]
+        },
+        {
+          "id": "cage-3",
+          "sum": 14,
+          "cells": [
+            "r0c7",
+            "r1c7",
+            "r2c7"
+          ]
+        },
+        {
+          "id": "cage-4",
+          "sum": 23,
+          "cells": [
+            "r0c8",
+            "r1c8",
+            "r2c8",
+            "r3c8"
+          ]
+        },
+        {
+          "id": "cage-5",
+          "sum": 23,
+          "cells": [
+            "r1c1",
+            "r2c1",
+            "r2c0",
+            "r3c0",
+            "r4c0"
+          ]
+        },
+        {
+          "id": "cage-6",
+          "sum": 15,
+          "cells": [
+            "r1c3",
+            "r1c4"
+          ]
+        },
+        {
+          "id": "cage-7",
+          "sum": 21,
+          "cells": [
+            "r1c5",
+            "r2c5",
+            "r2c4",
+            "r3c5"
+          ]
+        },
+        {
+          "id": "cage-8",
+          "sum": 13,
+          "cells": [
+            "r2c2",
+            "r2c3",
+            "r3c3",
+            "r3c2"
+          ]
+        },
+        {
+          "id": "cage-9",
+          "sum": 21,
+          "cells": [
+            "r2c6",
+            "r3c6",
+            "r3c7",
+            "r4c6"
+          ]
+        },
+        {
+          "id": "cage-10",
+          "sum": 19,
+          "cells": [
+            "r3c1",
+            "r4c1",
+            "r5c1",
+            "r5c0"
+          ]
+        },
+        {
+          "id": "cage-11",
+          "sum": 15,
+          "cells": [
+            "r3c4",
+            "r4c4",
+            "r4c5"
+          ]
+        },
+        {
+          "id": "cage-12",
+          "sum": 28,
+          "cells": [
+            "r4c2",
+            "r5c2",
+            "r6c2",
+            "r6c3",
+            "r4c3"
+          ]
+        },
+        {
+          "id": "cage-13",
+          "sum": 15,
+          "cells": [
+            "r4c7",
+            "r5c7",
+            "r5c6"
+          ]
+        },
+        {
+          "id": "cage-14",
+          "sum": 9,
+          "cells": [
+            "r4c8",
+            "r5c8"
+          ]
+        },
+        {
+          "id": "cage-15",
+          "sum": 15,
+          "cells": [
+            "r5c3",
+            "r5c4"
+          ]
+        },
+        {
+          "id": "cage-16",
+          "sum": 17,
+          "cells": [
+            "r5c5",
+            "r6c5",
+            "r6c4"
+          ]
+        },
+        {
+          "id": "cage-17",
+          "sum": 11,
+          "cells": [
+            "r6c0",
+            "r7c0",
+            "r6c1"
+          ]
+        },
+        {
+          "id": "cage-18",
+          "sum": 22,
+          "cells": [
+            "r6c6",
+            "r6c7",
+            "r6c8",
+            "r7c8"
+          ]
+        },
+        {
+          "id": "cage-19",
+          "sum": 26,
+          "cells": [
+            "r7c1",
+            "r8c1",
+            "r8c0",
+            "r7c2",
+            "r8c2"
+          ]
+        },
+        {
+          "id": "cage-20",
+          "sum": 7,
+          "cells": [
+            "r7c3",
+            "r7c4"
+          ]
+        },
+        {
+          "id": "cage-21",
+          "sum": 17,
+          "cells": [
+            "r7c5",
+            "r8c5",
+            "r8c6",
+            "r8c4"
+          ]
+        },
+        {
+          "id": "cage-22",
+          "sum": 21,
+          "cells": [
+            "r7c6",
+            "r7c7",
+            "r8c7",
+            "r8c8"
+          ]
+        },
+        {
+          "id": "cage-23",
+          "sum": 6,
+          "cells": [
+            "r8c3"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1c22y9",
+      "difficulty": "medium",
+      "cells": [
+        {
+          "id": "r0c0",
+          "solution": 2,
+          "cageId": "cage-0"
+        },
+        {
+          "id": "r0c1",
+          "solution": 6,
+          "cageId": "cage-0"
+        },
+        {
+          "id": "r0c2",
+          "solution": 4,
+          "cageId": "cage-1"
+        },
+        {
+          "id": "r0c3",
+          "solution": 7,
+          "cageId": "cage-1"
+        },
+        {
+          "id": "r0c4",
+          "solution": 5,
+          "cageId": "cage-2"
+        },
+        {
+          "id": "r0c5",
+          "solution": 1,
+          "cageId": "cage-3"
+        },
+        {
+          "id": "r0c6",
+          "solution": 3,
+          "cageId": "cage-3"
+        },
+        {
+          "id": "r0c7",
+          "solution": 8,
+          "cageId": "cage-4"
+        },
+        {
+          "id": "r0c8",
+          "solution": 9,
+          "cageId": "cage-4"
+        },
+        {
+          "id": "r1c0",
+          "solution": 9,
+          "cageId": "cage-0"
+        },
+        {
+          "id": "r1c1",
+          "solution": 5,
+          "cageId": "cage-0"
+        },
+        {
+          "id": "r1c2",
+          "solution": 1,
+          "cageId": "cage-1"
+        },
+        {
+          "id": "r1c3",
+          "solution": 6,
+          "cageId": "cage-5"
+        },
+        {
+          "id": "r1c4",
+          "solution": 8,
+          "cageId": "cage-2"
+        },
+        {
+          "id": "r1c5",
+          "solution": 3,
+          "cageId": "cage-6"
+        },
+        {
+          "id": "r1c6",
+          "solution": 2,
+          "cageId": "cage-6"
+        },
+        {
+          "id": "r1c7",
+          "solution": 7,
+          "cageId": "cage-7"
+        },
+        {
+          "id": "r1c8",
+          "solution": 4,
+          "cageId": "cage-8"
+        },
+        {
+          "id": "r2c0",
+          "solution": 7,
+          "cageId": "cage-9"
+        },
+        {
+          "id": "r2c1",
+          "solution": 8,
+          "cageId": "cage-10"
+        },
+        {
+          "id": "r2c2",
+          "solution": 3,
+          "cageId": "cage-1"
+        },
+        {
+          "id": "r2c3",
+          "solution": 2,
+          "cageId": "cage-5"
+        },
+        {
+          "id": "r2c4",
+          "solution": 4,
+          "cageId": "cage-11"
+        },
+        {
+          "id": "r2c5",
+          "solution": 9,
+          "cageId": "cage-6"
+        },
+        {
+          "id": "r2c6",
+          "solution": 1,
+          "cageId": "cage-7"
+        },
+        {
+          "id": "r2c7",
+          "solution": 6,
+          "cageId": "cage-7"
+        },
+        {
+          "id": "r2c8",
+          "solution": 5,
+          "cageId": "cage-7"
+        },
+        {
+          "id": "r3c0",
+          "solution": 1,
+          "cageId": "cage-9"
+        },
+        {
+          "id": "r3c1",
+          "solution": 9,
+          "cageId": "cage-10"
+        },
+        {
+          "id": "r3c2",
+          "solution": 2,
+          "cageId": "cage-10"
+        },
+        {
+          "id": "r3c3",
+          "solution": 4,
+          "cageId": "cage-12"
+        },
+        {
+          "id": "r3c4",
+          "solution": 7,
+          "cageId": "cage-11"
+        },
+        {
+          "id": "r3c5",
+          "solution": 8,
+          "cageId": "cage-13"
+        },
+        {
+          "id": "r3c6",
+          "solution": 6,
+          "cageId": "cage-13"
+        },
+        {
+          "id": "r3c7",
+          "solution": 5,
+          "cageId": "cage-14"
+        },
+        {
+          "id": "r3c8",
+          "solution": 3,
+          "cageId": "cage-14"
+        },
+        {
+          "id": "r4c0",
+          "solution": 6,
+          "cageId": "cage-15"
+        },
+        {
+          "id": "r4c1",
+          "solution": 7,
+          "cageId": "cage-15"
+        },
+        {
+          "id": "r4c2",
+          "solution": 5,
+          "cageId": "cage-12"
+        },
+        {
+          "id": "r4c3",
+          "solution": 1,
+          "cageId": "cage-12"
+        },
+        {
+          "id": "r4c4",
+          "solution": 3,
+          "cageId": "cage-11"
+        },
+        {
+          "id": "r4c5",
+          "solution": 2,
+          "cageId": "cage-16"
+        },
+        {
+          "id": "r4c6",
+          "solution": 9,
+          "cageId": "cage-17"
+        },
+        {
+          "id": "r4c7",
+          "solution": 4,
+          "cageId": "cage-14"
+        },
+        {
+          "id": "r4c8",
+          "solution": 8,
+          "cageId": "cage-14"
+        },
+        {
+          "id": "r5c0",
+          "solution": 3,
+          "cageId": "cage-18"
+        },
+        {
+          "id": "r5c1",
+          "solution": 4,
+          "cageId": "cage-18"
+        },
+        {
+          "id": "r5c2",
+          "solution": 8,
+          "cageId": "cage-19"
+        },
+        {
+          "id": "r5c3",
+          "solution": 9,
+          "cageId": "cage-19"
+        },
+        {
+          "id": "r5c4",
+          "solution": 6,
+          "cageId": "cage-20"
+        },
+        {
+          "id": "r5c5",
+          "solution": 5,
+          "cageId": "cage-16"
+        },
+        {
+          "id": "r5c6",
+          "solution": 7,
+          "cageId": "cage-17"
+        },
+        {
+          "id": "r5c7",
+          "solution": 1,
+          "cageId": "cage-21"
+        },
+        {
+          "id": "r5c8",
+          "solution": 2,
+          "cageId": "cage-14"
+        },
+        {
+          "id": "r6c0",
+          "solution": 8,
+          "cageId": "cage-18"
+        },
+        {
+          "id": "r6c1",
+          "solution": 1,
+          "cageId": "cage-18"
+        },
+        {
+          "id": "r6c2",
+          "solution": 6,
+          "cageId": "cage-22"
+        },
+        {
+          "id": "r6c3",
+          "solution": 3,
+          "cageId": "cage-20"
+        },
+        {
+          "id": "r6c4",
+          "solution": 9,
+          "cageId": "cage-20"
+        },
+        {
+          "id": "r6c5",
+          "solution": 4,
+          "cageId": "cage-16"
+        },
+        {
+          "id": "r6c6",
+          "solution": 5,
+          "cageId": "cage-23"
+        },
+        {
+          "id": "r6c7",
+          "solution": 2,
+          "cageId": "cage-21"
+        },
+        {
+          "id": "r6c8",
+          "solution": 7,
+          "cageId": "cage-24"
+        },
+        {
+          "id": "r7c0",
+          "solution": 5,
+          "cageId": "cage-18"
+        },
+        {
+          "id": "r7c1",
+          "solution": 3,
+          "cageId": "cage-22"
+        },
+        {
+          "id": "r7c2",
+          "solution": 7,
+          "cageId": "cage-22"
+        },
+        {
+          "id": "r7c3",
+          "solution": 8,
+          "cageId": "cage-20"
+        },
+        {
+          "id": "r7c4",
+          "solution": 2,
+          "cageId": "cage-20"
+        },
+        {
+          "id": "r7c5",
+          "solution": 6,
+          "cageId": "cage-25"
+        },
+        {
+          "id": "r7c6",
+          "solution": 4,
+          "cageId": "cage-23"
+        },
+        {
+          "id": "r7c7",
+          "solution": 9,
+          "cageId": "cage-21"
+        },
+        {
+          "id": "r7c8",
+          "solution": 1,
+          "cageId": "cage-24"
+        },
+        {
+          "id": "r8c0",
+          "solution": 4,
+          "cageId": "cage-22"
+        },
+        {
+          "id": "r8c1",
+          "solution": 2,
+          "cageId": "cage-22"
+        },
+        {
+          "id": "r8c2",
+          "solution": 9,
+          "cageId": "cage-26"
+        },
+        {
+          "id": "r8c3",
+          "solution": 5,
+          "cageId": "cage-26"
+        },
+        {
+          "id": "r8c4",
+          "solution": 1,
+          "cageId": "cage-25"
+        },
+        {
+          "id": "r8c5",
+          "solution": 7,
+          "cageId": "cage-25"
+        },
+        {
+          "id": "r8c6",
+          "solution": 8,
+          "cageId": "cage-23"
+        },
+        {
+          "id": "r8c7",
+          "solution": 3,
+          "cageId": "cage-23"
+        },
+        {
+          "id": "r8c8",
+          "solution": 6,
+          "cageId": "cage-24"
+        }
+      ],
+      "cages": [
+        {
+          "id": "cage-0",
+          "sum": 22,
+          "cells": [
+            "r0c0",
+            "r0c1",
+            "r1c0",
+            "r1c1"
+          ]
+        },
+        {
+          "id": "cage-1",
+          "sum": 15,
+          "cells": [
+            "r0c2",
+            "r0c3",
+            "r1c2",
+            "r2c2"
+          ]
+        },
+        {
+          "id": "cage-2",
+          "sum": 13,
+          "cells": [
+            "r0c4",
+            "r1c4"
+          ]
+        },
+        {
+          "id": "cage-3",
+          "sum": 4,
+          "cells": [
+            "r0c5",
+            "r0c6"
+          ]
+        },
+        {
+          "id": "cage-4",
+          "sum": 17,
+          "cells": [
+            "r0c7",
+            "r0c8"
+          ]
+        },
+        {
+          "id": "cage-5",
+          "sum": 8,
+          "cells": [
+            "r1c3",
+            "r2c3"
+          ]
+        },
+        {
+          "id": "cage-6",
+          "sum": 14,
+          "cells": [
+            "r1c5",
+            "r2c5",
+            "r1c6"
+          ]
+        },
+        {
+          "id": "cage-7",
+          "sum": 19,
+          "cells": [
+            "r1c7",
+            "r2c7",
+            "r2c6",
+            "r2c8"
+          ]
+        },
+        {
+          "id": "cage-8",
+          "sum": 4,
+          "cells": [
+            "r1c8"
+          ]
+        },
+        {
+          "id": "cage-9",
+          "sum": 8,
+          "cells": [
+            "r2c0",
+            "r3c0"
+          ]
+        },
+        {
+          "id": "cage-10",
+          "sum": 19,
+          "cells": [
+            "r2c1",
+            "r3c1",
+            "r3c2"
+          ]
+        },
+        {
+          "id": "cage-11",
+          "sum": 14,
+          "cells": [
+            "r2c4",
+            "r3c4",
+            "r4c4"
+          ]
+        },
+        {
+          "id": "cage-12",
+          "sum": 10,
+          "cells": [
+            "r3c3",
+            "r4c3",
+            "r4c2"
+          ]
+        },
+        {
+          "id": "cage-13",
+          "sum": 14,
+          "cells": [
+            "r3c5",
+            "r3c6"
+          ]
+        },
+        {
+          "id": "cage-14",
+          "sum": 22,
+          "cells": [
+            "r3c7",
+            "r3c8",
+            "r4c8",
+            "r5c8",
+            "r4c7"
+          ]
+        },
+        {
+          "id": "cage-15",
+          "sum": 13,
+          "cells": [
+            "r4c0",
+            "r4c1"
+          ]
+        },
+        {
+          "id": "cage-16",
+          "sum": 11,
+          "cells": [
+            "r4c5",
+            "r5c5",
+            "r6c5"
+          ]
+        },
+        {
+          "id": "cage-17",
+          "sum": 16,
+          "cells": [
+            "r4c6",
+            "r5c6"
+          ]
+        },
+        {
+          "id": "cage-18",
+          "sum": 21,
+          "cells": [
+            "r5c0",
+            "r5c1",
+            "r6c0",
+            "r6c1",
+            "r7c0"
+          ]
+        },
+        {
+          "id": "cage-19",
+          "sum": 17,
+          "cells": [
+            "r5c2",
+            "r5c3"
+          ]
+        },
+        {
+          "id": "cage-20",
+          "sum": 28,
+          "cells": [
+            "r5c4",
+            "r6c4",
+            "r6c3",
+            "r7c4",
+            "r7c3"
+          ]
+        },
+        {
+          "id": "cage-21",
+          "sum": 12,
+          "cells": [
+            "r5c7",
+            "r6c7",
+            "r7c7"
+          ]
+        },
+        {
+          "id": "cage-22",
+          "sum": 22,
+          "cells": [
+            "r6c2",
+            "r7c2",
+            "r7c1",
+            "r8c1",
+            "r8c0"
+          ]
+        },
+        {
+          "id": "cage-23",
+          "sum": 20,
+          "cells": [
+            "r6c6",
+            "r7c6",
+            "r8c6",
+            "r8c7"
+          ]
+        },
+        {
+          "id": "cage-24",
+          "sum": 14,
+          "cells": [
+            "r6c8",
+            "r7c8",
+            "r8c8"
+          ]
+        },
+        {
+          "id": "cage-25",
+          "sum": 14,
+          "cells": [
+            "r7c5",
+            "r8c5",
+            "r8c4"
+          ]
+        },
+        {
+          "id": "cage-26",
+          "sum": 14,
+          "cells": [
+            "r8c2",
+            "r8c3"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "t14ftt",
+      "difficulty": "medium",
+      "cells": [
+        {
+          "id": "r0c0",
+          "solution": 4,
+          "cageId": "cage-0"
+        },
+        {
+          "id": "r0c1",
+          "solution": 5,
+          "cageId": "cage-0"
+        },
+        {
+          "id": "r0c2",
+          "solution": 6,
+          "cageId": "cage-1"
+        },
+        {
+          "id": "r0c3",
+          "solution": 8,
+          "cageId": "cage-1"
+        },
+        {
+          "id": "r0c4",
+          "solution": 2,
+          "cageId": "cage-2"
+        },
+        {
+          "id": "r0c5",
+          "solution": 9,
+          "cageId": "cage-2"
+        },
+        {
+          "id": "r0c6",
+          "solution": 7,
+          "cageId": "cage-3"
+        },
+        {
+          "id": "r0c7",
+          "solution": 1,
+          "cageId": "cage-3"
+        },
+        {
+          "id": "r0c8",
+          "solution": 3,
+          "cageId": "cage-4"
+        },
+        {
+          "id": "r1c0",
+          "solution": 9,
+          "cageId": "cage-0"
+        },
+        {
+          "id": "r1c1",
+          "solution": 2,
+          "cageId": "cage-0"
+        },
+        {
+          "id": "r1c2",
+          "solution": 3,
+          "cageId": "cage-5"
+        },
+        {
+          "id": "r1c3",
+          "solution": 7,
+          "cageId": "cage-6"
+        },
+        {
+          "id": "r1c4",
+          "solution": 5,
+          "cageId": "cage-2"
+        },
+        {
+          "id": "r1c5",
+          "solution": 1,
+          "cageId": "cage-7"
+        },
+        {
+          "id": "r1c6",
+          "solution": 6,
+          "cageId": "cage-3"
+        },
+        {
+          "id": "r1c7",
+          "solution": 4,
+          "cageId": "cage-3"
+        },
+        {
+          "id": "r1c8",
+          "solution": 8,
+          "cageId": "cage-4"
+        },
+        {
+          "id": "r2c0",
+          "solution": 8,
+          "cageId": "cage-8"
+        },
+        {
+          "id": "r2c1",
+          "solution": 7,
+          "cageId": "cage-9"
+        },
+        {
+          "id": "r2c2",
+          "solution": 1,
+          "cageId": "cage-5"
+        },
+        {
+          "id": "r2c3",
+          "solution": 6,
+          "cageId": "cage-6"
+        },
+        {
+          "id": "r2c4",
+          "solution": 3,
+          "cageId": "cage-6"
+        },
+        {
+          "id": "r2c5",
+          "solution": 4,
+          "cageId": "cage-7"
+        },
+        {
+          "id": "r2c6",
+          "solution": 9,
+          "cageId": "cage-7"
+        },
+        {
+          "id": "r2c7",
+          "solution": 5,
+          "cageId": "cage-3"
+        },
+        {
+          "id": "r2c8",
+          "solution": 2,
+          "cageId": "cage-4"
+        },
+        {
+          "id": "r3c0",
+          "solution": 7,
+          "cageId": "cage-8"
+        },
+        {
+          "id": "r3c1",
+          "solution": 9,
+          "cageId": "cage-8"
+        },
+        {
+          "id": "r3c2",
+          "solution": 5,
+          "cageId": "cage-8"
+        },
+        {
+          "id": "r3c3",
+          "solution": 1,
+          "cageId": "cage-6"
+        },
+        {
+          "id": "r3c4",
+          "solution": 4,
+          "cageId": "cage-6"
+        },
+        {
+          "id": "r3c5",
+          "solution": 3,
+          "cageId": "cage-7"
+        },
+        {
+          "id": "r3c6",
+          "solution": 8,
+          "cageId": "cage-7"
+        },
+        {
+          "id": "r3c7",
+          "solution": 2,
+          "cageId": "cage-10"
+        },
+        {
+          "id": "r3c8",
+          "solution": 6,
+          "cageId": "cage-4"
+        },
+        {
+          "id": "r4c0",
+          "solution": 6,
+          "cageId": "cage-11"
+        },
+        {
+          "id": "r4c1",
+          "solution": 4,
+          "cageId": "cage-11"
+        },
+        {
+          "id": "r4c2",
+          "solution": 8,
+          "cageId": "cage-12"
+        },
+        {
+          "id": "r4c3",
+          "solution": 9,
+          "cageId": "cage-12"
+        },
+        {
+          "id": "r4c4",
+          "solution": 7,
+          "cageId": "cage-13"
+        },
+        {
+          "id": "r4c5",
+          "solution": 2,
+          "cageId": "cage-13"
+        },
+        {
+          "id": "r4c6",
+          "solution": 1,
+          "cageId": "cage-14"
+        },
+        {
+          "id": "r4c7",
+          "solution": 3,
+          "cageId": "cage-10"
+        },
+        {
+          "id": "r4c8",
+          "solution": 5,
+          "cageId": "cage-15"
+        },
+        {
+          "id": "r5c0",
+          "solution": 1,
+          "cageId": "cage-11"
+        },
+        {
+          "id": "r5c1",
+          "solution": 3,
+          "cageId": "cage-11"
+        },
+        {
+          "id": "r5c2",
+          "solution": 2,
+          "cageId": "cage-11"
+        },
+        {
+          "id": "r5c3",
+          "solution": 5,
+          "cageId": "cage-12"
+        },
+        {
+          "id": "r5c4",
+          "solution": 6,
+          "cageId": "cage-14"
+        },
+        {
+          "id": "r5c5",
+          "solution": 8,
+          "cageId": "cage-14"
+        },
+        {
+          "id": "r5c6",
+          "solution": 4,
+          "cageId": "cage-14"
+        },
+        {
+          "id": "r5c7",
+          "solution": 7,
+          "cageId": "cage-14"
+        },
+        {
+          "id": "r5c8",
+          "solution": 9,
+          "cageId": "cage-15"
+        },
+        {
+          "id": "r6c0",
+          "solution": 2,
+          "cageId": "cage-16"
+        },
+        {
+          "id": "r6c1",
+          "solution": 1,
+          "cageId": "cage-16"
+        },
+        {
+          "id": "r6c2",
+          "solution": 4,
+          "cageId": "cage-17"
+        },
+        {
+          "id": "r6c3",
+          "solution": 3,
+          "cageId": "cage-12"
+        },
+        {
+          "id": "r6c4",
+          "solution": 9,
+          "cageId": "cage-18"
+        },
+        {
+          "id": "r6c5",
+          "solution": 6,
+          "cageId": "cage-18"
+        },
+        {
+          "id": "r6c6",
+          "solution": 5,
+          "cageId": "cage-19"
+        },
+        {
+          "id": "r6c7",
+          "solution": 8,
+          "cageId": "cage-19"
+        },
+        {
+          "id": "r6c8",
+          "solution": 7,
+          "cageId": "cage-15"
+        },
+        {
+          "id": "r7c0",
+          "solution": 5,
+          "cageId": "cage-20"
+        },
+        {
+          "id": "r7c1",
+          "solution": 8,
+          "cageId": "cage-20"
+        },
+        {
+          "id": "r7c2",
+          "solution": 9,
+          "cageId": "cage-17"
+        },
+        {
+          "id": "r7c3",
+          "solution": 2,
+          "cageId": "cage-21"
+        },
+        {
+          "id": "r7c4",
+          "solution": 1,
+          "cageId": "cage-21"
+        },
+        {
+          "id": "r7c5",
+          "solution": 7,
+          "cageId": "cage-18"
+        },
+        {
+          "id": "r7c6",
+          "solution": 3,
+          "cageId": "cage-18"
+        },
+        {
+          "id": "r7c7",
+          "solution": 6,
+          "cageId": "cage-19"
+        },
+        {
+          "id": "r7c8",
+          "solution": 4,
+          "cageId": "cage-22"
+        },
+        {
+          "id": "r8c0",
+          "solution": 3,
+          "cageId": "cage-20"
+        },
+        {
+          "id": "r8c1",
+          "solution": 6,
+          "cageId": "cage-20"
+        },
+        {
+          "id": "r8c2",
+          "solution": 7,
+          "cageId": "cage-20"
+        },
+        {
+          "id": "r8c3",
+          "solution": 4,
+          "cageId": "cage-21"
+        },
+        {
+          "id": "r8c4",
+          "solution": 8,
+          "cageId": "cage-21"
+        },
+        {
+          "id": "r8c5",
+          "solution": 5,
+          "cageId": "cage-21"
+        },
+        {
+          "id": "r8c6",
+          "solution": 2,
+          "cageId": "cage-19"
+        },
+        {
+          "id": "r8c7",
+          "solution": 9,
+          "cageId": "cage-19"
+        },
+        {
+          "id": "r8c8",
+          "solution": 1,
+          "cageId": "cage-22"
+        }
+      ],
+      "cages": [
+        {
+          "id": "cage-0",
+          "sum": 20,
+          "cells": [
+            "r0c0",
+            "r0c1",
+            "r1c1",
+            "r1c0"
+          ]
+        },
+        {
+          "id": "cage-1",
+          "sum": 14,
+          "cells": [
+            "r0c2",
+            "r0c3"
+          ]
+        },
+        {
+          "id": "cage-2",
+          "sum": 16,
+          "cells": [
+            "r0c4",
+            "r0c5",
+            "r1c4"
+          ]
+        },
+        {
+          "id": "cage-3",
+          "sum": 23,
+          "cells": [
+            "r0c6",
+            "r1c6",
+            "r1c7",
+            "r0c7",
+            "r2c7"
+          ]
+        },
+        {
+          "id": "cage-4",
+          "sum": 19,
+          "cells": [
+            "r0c8",
+            "r1c8",
+            "r2c8",
+            "r3c8"
+          ]
+        },
+        {
+          "id": "cage-5",
+          "sum": 4,
+          "cells": [
+            "r1c2",
+            "r2c2"
+          ]
+        },
+        {
+          "id": "cage-6",
+          "sum": 21,
+          "cells": [
+            "r1c3",
+            "r2c3",
+            "r2c4",
+            "r3c3",
+            "r3c4"
+          ]
+        },
+        {
+          "id": "cage-7",
+          "sum": 25,
+          "cells": [
+            "r1c5",
+            "r2c5",
+            "r3c5",
+            "r2c6",
+            "r3c6"
+          ]
+        },
+        {
+          "id": "cage-8",
+          "sum": 29,
+          "cells": [
+            "r2c0",
+            "r3c0",
+            "r3c1",
+            "r3c2"
+          ]
+        },
+        {
+          "id": "cage-9",
+          "sum": 7,
+          "cells": [
+            "r2c1"
+          ]
+        },
+        {
+          "id": "cage-10",
+          "sum": 5,
+          "cells": [
+            "r3c7",
+            "r4c7"
+          ]
+        },
+        {
+          "id": "cage-11",
+          "sum": 16,
+          "cells": [
+            "r4c0",
+            "r5c0",
+            "r5c1",
+            "r4c1",
+            "r5c2"
+          ]
+        },
+        {
+          "id": "cage-12",
+          "sum": 25,
+          "cells": [
+            "r4c2",
+            "r4c3",
+            "r5c3",
+            "r6c3"
+          ]
+        },
+        {
+          "id": "cage-13",
+          "sum": 9,
+          "cells": [
+            "r4c4",
+            "r4c5"
+          ]
+        },
+        {
+          "id": "cage-14",
+          "sum": 26,
+          "cells": [
+            "r4c6",
+            "r5c6",
+            "r5c7",
+            "r5c5",
+            "r5c4"
+          ]
+        },
+        {
+          "id": "cage-15",
+          "sum": 21,
+          "cells": [
+            "r4c8",
+            "r5c8",
+            "r6c8"
+          ]
+        },
+        {
+          "id": "cage-16",
+          "sum": 3,
+          "cells": [
+            "r6c0",
+            "r6c1"
+          ]
+        },
+        {
+          "id": "cage-17",
+          "sum": 13,
+          "cells": [
+            "r6c2",
+            "r7c2"
+          ]
+        },
+        {
+          "id": "cage-18",
+          "sum": 25,
+          "cells": [
+            "r6c4",
+            "r6c5",
+            "r7c5",
+            "r7c6"
+          ]
+        },
+        {
+          "id": "cage-19",
+          "sum": 30,
+          "cells": [
+            "r6c6",
+            "r6c7",
+            "r7c7",
+            "r8c7",
+            "r8c6"
+          ]
+        },
+        {
+          "id": "cage-20",
+          "sum": 29,
+          "cells": [
+            "r7c0",
+            "r7c1",
+            "r8c0",
+            "r8c1",
+            "r8c2"
+          ]
+        },
+        {
+          "id": "cage-21",
+          "sum": 20,
+          "cells": [
+            "r7c3",
+            "r8c3",
+            "r7c4",
+            "r8c4",
+            "r8c5"
+          ]
+        },
+        {
+          "id": "cage-22",
+          "sum": 5,
+          "cells": [
+            "r7c8",
+            "r8c8"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "it44e",
+      "difficulty": "medium",
+      "cells": [
+        {
+          "id": "r0c0",
+          "solution": 7,
+          "cageId": "cage-0"
+        },
+        {
+          "id": "r0c1",
+          "solution": 9,
+          "cageId": "cage-0"
+        },
+        {
+          "id": "r0c2",
+          "solution": 8,
+          "cageId": "cage-1"
+        },
+        {
+          "id": "r0c3",
+          "solution": 6,
+          "cageId": "cage-2"
+        },
+        {
+          "id": "r0c4",
+          "solution": 3,
+          "cageId": "cage-2"
+        },
+        {
+          "id": "r0c5",
+          "solution": 1,
+          "cageId": "cage-2"
+        },
+        {
+          "id": "r0c6",
+          "solution": 2,
+          "cageId": "cage-3"
+        },
+        {
+          "id": "r0c7",
+          "solution": 5,
+          "cageId": "cage-3"
+        },
+        {
+          "id": "r0c8",
+          "solution": 4,
+          "cageId": "cage-4"
+        },
+        {
+          "id": "r1c0",
+          "solution": 3,
+          "cageId": "cage-1"
+        },
+        {
+          "id": "r1c1",
+          "solution": 4,
+          "cageId": "cage-1"
+        },
+        {
+          "id": "r1c2",
+          "solution": 6,
+          "cageId": "cage-1"
+        },
+        {
+          "id": "r1c3",
+          "solution": 2,
+          "cageId": "cage-1"
+        },
+        {
+          "id": "r1c4",
+          "solution": 8,
+          "cageId": "cage-2"
+        },
+        {
+          "id": "r1c5",
+          "solution": 5,
+          "cageId": "cage-2"
+        },
+        {
+          "id": "r1c6",
+          "solution": 7,
+          "cageId": "cage-5"
+        },
+        {
+          "id": "r1c7",
+          "solution": 1,
+          "cageId": "cage-4"
+        },
+        {
+          "id": "r1c8",
+          "solution": 9,
+          "cageId": "cage-4"
+        },
+        {
+          "id": "r2c0",
+          "solution": 5,
+          "cageId": "cage-6"
+        },
+        {
+          "id": "r2c1",
+          "solution": 1,
+          "cageId": "cage-6"
+        },
+        {
+          "id": "r2c2",
+          "solution": 2,
+          "cageId": "cage-7"
+        },
+        {
+          "id": "r2c3",
+          "solution": 4,
+          "cageId": "cage-8"
+        },
+        {
+          "id": "r2c4",
+          "solution": 7,
+          "cageId": "cage-8"
+        },
+        {
+          "id": "r2c5",
+          "solution": 9,
+          "cageId": "cage-8"
+        },
+        {
+          "id": "r2c6",
+          "solution": 6,
+          "cageId": "cage-5"
+        },
+        {
+          "id": "r2c7",
+          "solution": 8,
+          "cageId": "cage-5"
+        },
+        {
+          "id": "r2c8",
+          "solution": 3,
+          "cageId": "cage-9"
+        },
+        {
+          "id": "r3c0",
+          "solution": 2,
+          "cageId": "cage-6"
+        },
+        {
+          "id": "r3c1",
+          "solution": 8,
+          "cageId": "cage-6"
+        },
+        {
+          "id": "r3c2",
+          "solution": 3,
+          "cageId": "cage-7"
+        },
+        {
+          "id": "r3c3",
+          "solution": 9,
+          "cageId": "cage-7"
+        },
+        {
+          "id": "r3c4",
+          "solution": 5,
+          "cageId": "cage-7"
+        },
+        {
+          "id": "r3c5",
+          "solution": 4,
+          "cageId": "cage-5"
+        },
+        {
+          "id": "r3c6",
+          "solution": 1,
+          "cageId": "cage-5"
+        },
+        {
+          "id": "r3c7",
+          "solution": 7,
+          "cageId": "cage-9"
+        },
+        {
+          "id": "r3c8",
+          "solution": 6,
+          "cageId": "cage-9"
+        },
+        {
+          "id": "r4c0",
+          "solution": 9,
+          "cageId": "cage-6"
+        },
+        {
+          "id": "r4c1",
+          "solution": 5,
+          "cageId": "cage-10"
+        },
+        {
+          "id": "r4c2",
+          "solution": 1,
+          "cageId": "cage-10"
+        },
+        {
+          "id": "r4c3",
+          "solution": 8,
+          "cageId": "cage-10"
+        },
+        {
+          "id": "r4c4",
+          "solution": 6,
+          "cageId": "cage-11"
+        },
+        {
+          "id": "r4c5",
+          "solution": 7,
+          "cageId": "cage-11"
+        },
+        {
+          "id": "r4c6",
+          "solution": 4,
+          "cageId": "cage-12"
+        },
+        {
+          "id": "r4c7",
+          "solution": 3,
+          "cageId": "cage-13"
+        },
+        {
+          "id": "r4c8",
+          "solution": 2,
+          "cageId": "cage-13"
+        },
+        {
+          "id": "r5c0",
+          "solution": 4,
+          "cageId": "cage-14"
+        },
+        {
+          "id": "r5c1",
+          "solution": 6,
+          "cageId": "cage-15"
+        },
+        {
+          "id": "r5c2",
+          "solution": 7,
+          "cageId": "cage-16"
+        },
+        {
+          "id": "r5c3",
+          "solution": 1,
+          "cageId": "cage-16"
+        },
+        {
+          "id": "r5c4",
+          "solution": 2,
+          "cageId": "cage-11"
+        },
+        {
+          "id": "r5c5",
+          "solution": 3,
+          "cageId": "cage-12"
+        },
+        {
+          "id": "r5c6",
+          "solution": 8,
+          "cageId": "cage-12"
+        },
+        {
+          "id": "r5c7",
+          "solution": 9,
+          "cageId": "cage-17"
+        },
+        {
+          "id": "r5c8",
+          "solution": 5,
+          "cageId": "cage-13"
+        },
+        {
+          "id": "r6c0",
+          "solution": 6,
+          "cageId": "cage-14"
+        },
+        {
+          "id": "r6c1",
+          "solution": 7,
+          "cageId": "cage-15"
+        },
+        {
+          "id": "r6c2",
+          "solution": 5,
+          "cageId": "cage-15"
+        },
+        {
+          "id": "r6c3",
+          "solution": 3,
+          "cageId": "cage-15"
+        },
+        {
+          "id": "r6c4",
+          "solution": 1,
+          "cageId": "cage-18"
+        },
+        {
+          "id": "r6c5",
+          "solution": 2,
+          "cageId": "cage-18"
+        },
+        {
+          "id": "r6c6",
+          "solution": 9,
+          "cageId": "cage-19"
+        },
+        {
+          "id": "r6c7",
+          "solution": 4,
+          "cageId": "cage-17"
+        },
+        {
+          "id": "r6c8",
+          "solution": 8,
+          "cageId": "cage-20"
+        },
+        {
+          "id": "r7c0",
+          "solution": 1,
+          "cageId": "cage-21"
+        },
+        {
+          "id": "r7c1",
+          "solution": 2,
+          "cageId": "cage-21"
+        },
+        {
+          "id": "r7c2",
+          "solution": 9,
+          "cageId": "cage-22"
+        },
+        {
+          "id": "r7c3",
+          "solution": 5,
+          "cageId": "cage-22"
+        },
+        {
+          "id": "r7c4",
+          "solution": 4,
+          "cageId": "cage-23"
+        },
+        {
+          "id": "r7c5",
+          "solution": 8,
+          "cageId": "cage-19"
+        },
+        {
+          "id": "r7c6",
+          "solution": 3,
+          "cageId": "cage-19"
+        },
+        {
+          "id": "r7c7",
+          "solution": 6,
+          "cageId": "cage-24"
+        },
+        {
+          "id": "r7c8",
+          "solution": 7,
+          "cageId": "cage-20"
+        },
+        {
+          "id": "r8c0",
+          "solution": 8,
+          "cageId": "cage-21"
+        },
+        {
+          "id": "r8c1",
+          "solution": 3,
+          "cageId": "cage-25"
+        },
+        {
+          "id": "r8c2",
+          "solution": 4,
+          "cageId": "cage-25"
+        },
+        {
+          "id": "r8c3",
+          "solution": 7,
+          "cageId": "cage-23"
+        },
+        {
+          "id": "r8c4",
+          "solution": 9,
+          "cageId": "cage-23"
+        },
+        {
+          "id": "r8c5",
+          "solution": 6,
+          "cageId": "cage-19"
+        },
+        {
+          "id": "r8c6",
+          "solution": 5,
+          "cageId": "cage-24"
+        },
+        {
+          "id": "r8c7",
+          "solution": 2,
+          "cageId": "cage-24"
+        },
+        {
+          "id": "r8c8",
+          "solution": 1,
+          "cageId": "cage-24"
+        }
+      ],
+      "cages": [
+        {
+          "id": "cage-0",
+          "sum": 16,
+          "cells": [
+            "r0c0",
+            "r0c1"
+          ]
+        },
+        {
+          "id": "cage-1",
+          "sum": 23,
+          "cells": [
+            "r0c2",
+            "r1c2",
+            "r1c1",
+            "r1c3",
+            "r1c0"
+          ]
+        },
+        {
+          "id": "cage-2",
+          "sum": 23,
+          "cells": [
+            "r0c3",
+            "r0c4",
+            "r0c5",
+            "r1c5",
+            "r1c4"
+          ]
+        },
+        {
+          "id": "cage-3",
+          "sum": 7,
+          "cells": [
+            "r0c6",
+            "r0c7"
+          ]
+        },
+        {
+          "id": "cage-4",
+          "sum": 14,
+          "cells": [
+            "r0c8",
+            "r1c8",
+            "r1c7"
+          ]
+        },
+        {
+          "id": "cage-5",
+          "sum": 26,
+          "cells": [
+            "r1c6",
+            "r2c6",
+            "r3c6",
+            "r3c5",
+            "r2c7"
+          ]
+        },
+        {
+          "id": "cage-6",
+          "sum": 25,
+          "cells": [
+            "r2c0",
+            "r3c0",
+            "r2c1",
+            "r4c0",
+            "r3c1"
+          ]
+        },
+        {
+          "id": "cage-7",
+          "sum": 19,
+          "cells": [
+            "r2c2",
+            "r3c2",
+            "r3c3",
+            "r3c4"
+          ]
+        },
+        {
+          "id": "cage-8",
+          "sum": 20,
+          "cells": [
+            "r2c3",
+            "r2c4",
+            "r2c5"
+          ]
+        },
+        {
+          "id": "cage-9",
+          "sum": 16,
+          "cells": [
+            "r2c8",
+            "r3c8",
+            "r3c7"
+          ]
+        },
+        {
+          "id": "cage-10",
+          "sum": 14,
+          "cells": [
+            "r4c1",
+            "r4c2",
+            "r4c3"
+          ]
+        },
+        {
+          "id": "cage-11",
+          "sum": 15,
+          "cells": [
+            "r4c4",
+            "r5c4",
+            "r4c5"
+          ]
+        },
+        {
+          "id": "cage-12",
+          "sum": 15,
+          "cells": [
+            "r4c6",
+            "r5c6",
+            "r5c5"
+          ]
+        },
+        {
+          "id": "cage-13",
+          "sum": 10,
+          "cells": [
+            "r4c7",
+            "r4c8",
+            "r5c8"
+          ]
+        },
+        {
+          "id": "cage-14",
+          "sum": 10,
+          "cells": [
+            "r5c0",
+            "r6c0"
+          ]
+        },
+        {
+          "id": "cage-15",
+          "sum": 21,
+          "cells": [
+            "r5c1",
+            "r6c1",
+            "r6c2",
+            "r6c3"
+          ]
+        },
+        {
+          "id": "cage-16",
+          "sum": 8,
+          "cells": [
+            "r5c2",
+            "r5c3"
+          ]
+        },
+        {
+          "id": "cage-17",
+          "sum": 13,
+          "cells": [
+            "r5c7",
+            "r6c7"
+          ]
+        },
+        {
+          "id": "cage-18",
+          "sum": 3,
+          "cells": [
+            "r6c4",
+            "r6c5"
+          ]
+        },
+        {
+          "id": "cage-19",
+          "sum": 26,
+          "cells": [
+            "r6c6",
+            "r7c6",
+            "r7c5",
+            "r8c5"
+          ]
+        },
+        {
+          "id": "cage-20",
+          "sum": 15,
+          "cells": [
+            "r6c8",
+            "r7c8"
+          ]
+        },
+        {
+          "id": "cage-21",
+          "sum": 11,
+          "cells": [
+            "r7c0",
+            "r7c1",
+            "r8c0"
+          ]
+        },
+        {
+          "id": "cage-22",
+          "sum": 14,
+          "cells": [
+            "r7c2",
+            "r7c3"
+          ]
+        },
+        {
+          "id": "cage-23",
+          "sum": 20,
+          "cells": [
+            "r7c4",
+            "r8c4",
+            "r8c3"
+          ]
+        },
+        {
+          "id": "cage-24",
+          "sum": 14,
+          "cells": [
+            "r7c7",
+            "r8c7",
+            "r8c6",
+            "r8c8"
+          ]
+        },
+        {
+          "id": "cage-25",
+          "sum": 7,
+          "cells": [
+            "r8c1",
+            "r8c2"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mmo1fy2",
+      "difficulty": "medium",
+      "cells": [
+        {
+          "id": "r0c0",
+          "solution": 5,
+          "cageId": "cage-0"
+        },
+        {
+          "id": "r0c1",
+          "solution": 1,
+          "cageId": "cage-0"
+        },
+        {
+          "id": "r0c2",
+          "solution": 6,
+          "cageId": "cage-1"
+        },
+        {
+          "id": "r0c3",
+          "solution": 9,
+          "cageId": "cage-2"
+        },
+        {
+          "id": "r0c4",
+          "solution": 7,
+          "cageId": "cage-2"
+        },
+        {
+          "id": "r0c5",
+          "solution": 8,
+          "cageId": "cage-3"
+        },
+        {
+          "id": "r0c6",
+          "solution": 4,
+          "cageId": "cage-4"
+        },
+        {
+          "id": "r0c7",
+          "solution": 3,
+          "cageId": "cage-4"
+        },
+        {
+          "id": "r0c8",
+          "solution": 2,
+          "cageId": "cage-5"
+        },
+        {
+          "id": "r1c0",
+          "solution": 7,
+          "cageId": "cage-0"
+        },
+        {
+          "id": "r1c1",
+          "solution": 8,
+          "cageId": "cage-1"
+        },
+        {
+          "id": "r1c2",
+          "solution": 9,
+          "cageId": "cage-1"
+        },
+        {
+          "id": "r1c3",
+          "solution": 3,
+          "cageId": "cage-6"
+        },
+        {
+          "id": "r1c4",
+          "solution": 4,
+          "cageId": "cage-6"
+        },
+        {
+          "id": "r1c5",
+          "solution": 2,
+          "cageId": "cage-3"
+        },
+        {
+          "id": "r1c6",
+          "solution": 6,
+          "cageId": "cage-3"
+        },
+        {
+          "id": "r1c7",
+          "solution": 1,
+          "cageId": "cage-4"
+        },
+        {
+          "id": "r1c8",
+          "solution": 5,
+          "cageId": "cage-5"
+        },
+        {
+          "id": "r2c0",
+          "solution": 2,
+          "cageId": "cage-7"
+        },
+        {
+          "id": "r2c1",
+          "solution": 4,
+          "cageId": "cage-1"
+        },
+        {
+          "id": "r2c2",
+          "solution": 3,
+          "cageId": "cage-1"
+        },
+        {
+          "id": "r2c3",
+          "solution": 1,
+          "cageId": "cage-6"
+        },
+        {
+          "id": "r2c4",
+          "solution": 6,
+          "cageId": "cage-6"
+        },
+        {
+          "id": "r2c5",
+          "solution": 5,
+          "cageId": "cage-8"
+        },
+        {
+          "id": "r2c6",
+          "solution": 9,
+          "cageId": "cage-8"
+        },
+        {
+          "id": "r2c7",
+          "solution": 7,
+          "cageId": "cage-9"
+        },
+        {
+          "id": "r2c8",
+          "solution": 8,
+          "cageId": "cage-5"
+        },
+        {
+          "id": "r3c0",
+          "solution": 6,
+          "cageId": "cage-7"
+        },
+        {
+          "id": "r3c1",
+          "solution": 7,
+          "cageId": "cage-7"
+        },
+        {
+          "id": "r3c2",
+          "solution": 5,
+          "cageId": "cage-10"
+        },
+        {
+          "id": "r3c3",
+          "solution": 8,
+          "cageId": "cage-11"
+        },
+        {
+          "id": "r3c4",
+          "solution": 2,
+          "cageId": "cage-11"
+        },
+        {
+          "id": "r3c5",
+          "solution": 4,
+          "cageId": "cage-11"
+        },
+        {
+          "id": "r3c6",
+          "solution": 1,
+          "cageId": "cage-8"
+        },
+        {
+          "id": "r3c7",
+          "solution": 9,
+          "cageId": "cage-9"
+        },
+        {
+          "id": "r3c8",
+          "solution": 3,
+          "cageId": "cage-5"
+        },
+        {
+          "id": "r4c0",
+          "solution": 9,
+          "cageId": "cage-7"
+        },
+        {
+          "id": "r4c1",
+          "solution": 3,
+          "cageId": "cage-12"
+        },
+        {
+          "id": "r4c2",
+          "solution": 8,
+          "cageId": "cage-10"
+        },
+        {
+          "id": "r4c3",
+          "solution": 6,
+          "cageId": "cage-13"
+        },
+        {
+          "id": "r4c4",
+          "solution": 5,
+          "cageId": "cage-13"
+        },
+        {
+          "id": "r4c5",
+          "solution": 1,
+          "cageId": "cage-14"
+        },
+        {
+          "id": "r4c6",
+          "solution": 2,
+          "cageId": "cage-14"
+        },
+        {
+          "id": "r4c7",
+          "solution": 4,
+          "cageId": "cage-9"
+        },
+        {
+          "id": "r4c8",
+          "solution": 7,
+          "cageId": "cage-15"
+        },
+        {
+          "id": "r5c0",
+          "solution": 1,
+          "cageId": "cage-12"
+        },
+        {
+          "id": "r5c1",
+          "solution": 2,
+          "cageId": "cage-12"
+        },
+        {
+          "id": "r5c2",
+          "solution": 4,
+          "cageId": "cage-10"
+        },
+        {
+          "id": "r5c3",
+          "solution": 7,
+          "cageId": "cage-14"
+        },
+        {
+          "id": "r5c4",
+          "solution": 3,
+          "cageId": "cage-14"
+        },
+        {
+          "id": "r5c5",
+          "solution": 9,
+          "cageId": "cage-14"
+        },
+        {
+          "id": "r5c6",
+          "solution": 8,
+          "cageId": "cage-16"
+        },
+        {
+          "id": "r5c7",
+          "solution": 5,
+          "cageId": "cage-15"
+        },
+        {
+          "id": "r5c8",
+          "solution": 6,
+          "cageId": "cage-15"
+        },
+        {
+          "id": "r6c0",
+          "solution": 3,
+          "cageId": "cage-17"
+        },
+        {
+          "id": "r6c1",
+          "solution": 6,
+          "cageId": "cage-10"
+        },
+        {
+          "id": "r6c2",
+          "solution": 2,
+          "cageId": "cage-10"
+        },
+        {
+          "id": "r6c3",
+          "solution": 4,
+          "cageId": "cage-18"
+        },
+        {
+          "id": "r6c4",
+          "solution": 9,
+          "cageId": "cage-18"
+        },
+        {
+          "id": "r6c5",
+          "solution": 7,
+          "cageId": "cage-18"
+        },
+        {
+          "id": "r6c6",
+          "solution": 5,
+          "cageId": "cage-16"
+        },
+        {
+          "id": "r6c7",
+          "solution": 8,
+          "cageId": "cage-15"
+        },
+        {
+          "id": "r6c8",
+          "solution": 1,
+          "cageId": "cage-19"
+        },
+        {
+          "id": "r7c0",
+          "solution": 8,
+          "cageId": "cage-17"
+        },
+        {
+          "id": "r7c1",
+          "solution": 9,
+          "cageId": "cage-17"
+        },
+        {
+          "id": "r7c2",
+          "solution": 7,
+          "cageId": "cage-20"
+        },
+        {
+          "id": "r7c3",
+          "solution": 5,
+          "cageId": "cage-18"
+        },
+        {
+          "id": "r7c4",
+          "solution": 1,
+          "cageId": "cage-21"
+        },
+        {
+          "id": "r7c5",
+          "solution": 6,
+          "cageId": "cage-18"
+        },
+        {
+          "id": "r7c6",
+          "solution": 3,
+          "cageId": "cage-16"
+        },
+        {
+          "id": "r7c7",
+          "solution": 2,
+          "cageId": "cage-15"
+        },
+        {
+          "id": "r7c8",
+          "solution": 4,
+          "cageId": "cage-19"
+        },
+        {
+          "id": "r8c0",
+          "solution": 4,
+          "cageId": "cage-17"
+        },
+        {
+          "id": "r8c1",
+          "solution": 5,
+          "cageId": "cage-20"
+        },
+        {
+          "id": "r8c2",
+          "solution": 1,
+          "cageId": "cage-20"
+        },
+        {
+          "id": "r8c3",
+          "solution": 2,
+          "cageId": "cage-20"
+        },
+        {
+          "id": "r8c4",
+          "solution": 8,
+          "cageId": "cage-21"
+        },
+        {
+          "id": "r8c5",
+          "solution": 3,
+          "cageId": "cage-21"
+        },
+        {
+          "id": "r8c6",
+          "solution": 7,
+          "cageId": "cage-19"
+        },
+        {
+          "id": "r8c7",
+          "solution": 6,
+          "cageId": "cage-19"
+        },
+        {
+          "id": "r8c8",
+          "solution": 9,
+          "cageId": "cage-19"
+        }
+      ],
+      "cages": [
+        {
+          "id": "cage-0",
+          "sum": 13,
+          "cells": [
+            "r0c0",
+            "r1c0",
+            "r0c1"
+          ]
+        },
+        {
+          "id": "cage-1",
+          "sum": 30,
+          "cells": [
+            "r0c2",
+            "r1c2",
+            "r1c1",
+            "r2c2",
+            "r2c1"
+          ]
+        },
+        {
+          "id": "cage-2",
+          "sum": 16,
+          "cells": [
+            "r0c3",
+            "r0c4"
+          ]
+        },
+        {
+          "id": "cage-3",
+          "sum": 16,
+          "cells": [
+            "r0c5",
+            "r1c5",
+            "r1c6"
+          ]
+        },
+        {
+          "id": "cage-4",
+          "sum": 8,
+          "cells": [
+            "r0c6",
+            "r0c7",
+            "r1c7"
+          ]
+        },
+        {
+          "id": "cage-5",
+          "sum": 18,
+          "cells": [
+            "r0c8",
+            "r1c8",
+            "r2c8",
+            "r3c8"
+          ]
+        },
+        {
+          "id": "cage-6",
+          "sum": 14,
+          "cells": [
+            "r1c3",
+            "r1c4",
+            "r2c3",
+            "r2c4"
+          ]
+        },
+        {
+          "id": "cage-7",
+          "sum": 24,
+          "cells": [
+            "r2c0",
+            "r3c0",
+            "r4c0",
+            "r3c1"
+          ]
+        },
+        {
+          "id": "cage-8",
+          "sum": 15,
+          "cells": [
+            "r2c5",
+            "r2c6",
+            "r3c6"
+          ]
+        },
+        {
+          "id": "cage-9",
+          "sum": 20,
+          "cells": [
+            "r2c7",
+            "r3c7",
+            "r4c7"
+          ]
+        },
+        {
+          "id": "cage-10",
+          "sum": 25,
+          "cells": [
+            "r3c2",
+            "r4c2",
+            "r5c2",
+            "r6c2",
+            "r6c1"
+          ]
+        },
+        {
+          "id": "cage-11",
+          "sum": 14,
+          "cells": [
+            "r3c3",
+            "r3c4",
+            "r3c5"
+          ]
+        },
+        {
+          "id": "cage-12",
+          "sum": 6,
+          "cells": [
+            "r4c1",
+            "r5c1",
+            "r5c0"
+          ]
+        },
+        {
+          "id": "cage-13",
+          "sum": 11,
+          "cells": [
+            "r4c3",
+            "r4c4"
+          ]
+        },
+        {
+          "id": "cage-14",
+          "sum": 22,
+          "cells": [
+            "r4c5",
+            "r4c6",
+            "r5c5",
+            "r5c4",
+            "r5c3"
+          ]
+        },
+        {
+          "id": "cage-15",
+          "sum": 28,
+          "cells": [
+            "r4c8",
+            "r5c8",
+            "r5c7",
+            "r6c7",
+            "r7c7"
+          ]
+        },
+        {
+          "id": "cage-16",
+          "sum": 16,
+          "cells": [
+            "r5c6",
+            "r6c6",
+            "r7c6"
+          ]
+        },
+        {
+          "id": "cage-17",
+          "sum": 24,
+          "cells": [
+            "r6c0",
+            "r7c0",
+            "r7c1",
+            "r8c0"
+          ]
+        },
+        {
+          "id": "cage-18",
+          "sum": 31,
+          "cells": [
+            "r6c3",
+            "r7c3",
+            "r6c4",
+            "r6c5",
+            "r7c5"
+          ]
+        },
+        {
+          "id": "cage-19",
+          "sum": 27,
+          "cells": [
+            "r6c8",
+            "r7c8",
+            "r8c8",
+            "r8c7",
+            "r8c6"
+          ]
+        },
+        {
+          "id": "cage-20",
+          "sum": 15,
+          "cells": [
+            "r7c2",
+            "r8c2",
+            "r8c1",
+            "r8c3"
+          ]
+        },
+        {
+          "id": "cage-21",
+          "sum": 12,
+          "cells": [
+            "r7c4",
+            "r8c4",
+            "r8c5"
+          ]
+        }
+      ]
+    }
+  ],
+  "hard": [
+    {
+      "id": "3yk4co",
+      "difficulty": "hard",
+      "cells": [
+        {
+          "id": "r0c0",
+          "solution": 4,
+          "cageId": "cage-0"
+        },
+        {
+          "id": "r0c1",
+          "solution": 2,
+          "cageId": "cage-1"
+        },
+        {
+          "id": "r0c2",
+          "solution": 5,
+          "cageId": "cage-1"
+        },
+        {
+          "id": "r0c3",
+          "solution": 6,
+          "cageId": "cage-2"
+        },
+        {
+          "id": "r0c4",
+          "solution": 1,
+          "cageId": "cage-3"
+        },
+        {
+          "id": "r0c5",
+          "solution": 8,
+          "cageId": "cage-4"
+        },
+        {
+          "id": "r0c6",
+          "solution": 3,
+          "cageId": "cage-4"
+        },
+        {
+          "id": "r0c7",
+          "solution": 7,
+          "cageId": "cage-5"
+        },
+        {
+          "id": "r0c8",
+          "solution": 9,
+          "cageId": "cage-6"
+        },
+        {
+          "id": "r1c0",
+          "solution": 6,
+          "cageId": "cage-0"
+        },
+        {
+          "id": "r1c1",
+          "solution": 1,
+          "cageId": "cage-1"
+        },
+        {
+          "id": "r1c2",
+          "solution": 7,
+          "cageId": "cage-1"
+        },
+        {
+          "id": "r1c3",
+          "solution": 3,
+          "cageId": "cage-2"
+        },
+        {
+          "id": "r1c4",
+          "solution": 9,
+          "cageId": "cage-3"
+        },
+        {
+          "id": "r1c5",
+          "solution": 2,
+          "cageId": "cage-4"
+        },
+        {
+          "id": "r1c6",
+          "solution": 4,
+          "cageId": "cage-4"
+        },
+        {
+          "id": "r1c7",
+          "solution": 8,
+          "cageId": "cage-5"
+        },
+        {
+          "id": "r1c8",
+          "solution": 5,
+          "cageId": "cage-6"
+        },
+        {
+          "id": "r2c0",
+          "solution": 9,
+          "cageId": "cage-7"
+        },
+        {
+          "id": "r2c1",
+          "solution": 3,
+          "cageId": "cage-7"
+        },
+        {
+          "id": "r2c2",
+          "solution": 8,
+          "cageId": "cage-8"
+        },
+        {
+          "id": "r2c3",
+          "solution": 5,
+          "cageId": "cage-8"
+        },
+        {
+          "id": "r2c4",
+          "solution": 4,
+          "cageId": "cage-3"
+        },
+        {
+          "id": "r2c5",
+          "solution": 7,
+          "cageId": "cage-9"
+        },
+        {
+          "id": "r2c6",
+          "solution": 1,
+          "cageId": "cage-9"
+        },
+        {
+          "id": "r2c7",
+          "solution": 6,
+          "cageId": "cage-10"
+        },
+        {
+          "id": "r2c8",
+          "solution": 2,
+          "cageId": "cage-10"
+        },
+        {
+          "id": "r3c0",
+          "solution": 2,
+          "cageId": "cage-7"
+        },
+        {
+          "id": "r3c1",
+          "solution": 7,
+          "cageId": "cage-7"
+        },
+        {
+          "id": "r3c2",
+          "solution": 6,
+          "cageId": "cage-8"
+        },
+        {
+          "id": "r3c3",
+          "solution": 1,
+          "cageId": "cage-8"
+        },
+        {
+          "id": "r3c4",
+          "solution": 5,
+          "cageId": "cage-3"
+        },
+        {
+          "id": "r3c5",
+          "solution": 3,
+          "cageId": "cage-11"
+        },
+        {
+          "id": "r3c6",
+          "solution": 9,
+          "cageId": "cage-9"
+        },
+        {
+          "id": "r3c7",
+          "solution": 4,
+          "cageId": "cage-9"
+        },
+        {
+          "id": "r3c8",
+          "solution": 8,
+          "cageId": "cage-10"
+        },
+        {
+          "id": "r4c0",
+          "solution": 8,
+          "cageId": "cage-7"
+        },
+        {
+          "id": "r4c1",
+          "solution": 9,
+          "cageId": "cage-12"
+        },
+        {
+          "id": "r4c2",
+          "solution": 3,
+          "cageId": "cage-12"
+        },
+        {
+          "id": "r4c3",
+          "solution": 7,
+          "cageId": "cage-12"
+        },
+        {
+          "id": "r4c4",
+          "solution": 2,
+          "cageId": "cage-13"
+        },
+        {
+          "id": "r4c5",
+          "solution": 4,
+          "cageId": "cage-11"
+        },
+        {
+          "id": "r4c6",
+          "solution": 6,
+          "cageId": "cage-11"
+        },
+        {
+          "id": "r4c7",
+          "solution": 5,
+          "cageId": "cage-14"
+        },
+        {
+          "id": "r4c8",
+          "solution": 1,
+          "cageId": "cage-15"
+        },
+        {
+          "id": "r5c0",
+          "solution": 1,
+          "cageId": "cage-16"
+        },
+        {
+          "id": "r5c1",
+          "solution": 5,
+          "cageId": "cage-12"
+        },
+        {
+          "id": "r5c2",
+          "solution": 4,
+          "cageId": "cage-17"
+        },
+        {
+          "id": "r5c3",
+          "solution": 9,
+          "cageId": "cage-18"
+        },
+        {
+          "id": "r5c4",
+          "solution": 8,
+          "cageId": "cage-13"
+        },
+        {
+          "id": "r5c5",
+          "solution": 6,
+          "cageId": "cage-19"
+        },
+        {
+          "id": "r5c6",
+          "solution": 2,
+          "cageId": "cage-19"
+        },
+        {
+          "id": "r5c7",
+          "solution": 3,
+          "cageId": "cage-14"
+        },
+        {
+          "id": "r5c8",
+          "solution": 7,
+          "cageId": "cage-15"
+        },
+        {
+          "id": "r6c0",
+          "solution": 7,
+          "cageId": "cage-16"
+        },
+        {
+          "id": "r6c1",
+          "solution": 4,
+          "cageId": "cage-16"
+        },
+        {
+          "id": "r6c2",
+          "solution": 2,
+          "cageId": "cage-17"
+        },
+        {
+          "id": "r6c3",
+          "solution": 8,
+          "cageId": "cage-17"
+        },
+        {
+          "id": "r6c4",
+          "solution": 3,
+          "cageId": "cage-13"
+        },
+        {
+          "id": "r6c5",
+          "solution": 9,
+          "cageId": "cage-13"
+        },
+        {
+          "id": "r6c6",
+          "solution": 5,
+          "cageId": "cage-19"
+        },
+        {
+          "id": "r6c7",
+          "solution": 1,
+          "cageId": "cage-14"
+        },
+        {
+          "id": "r6c8",
+          "solution": 6,
+          "cageId": "cage-15"
+        },
+        {
+          "id": "r7c0",
+          "solution": 5,
+          "cageId": "cage-16"
+        },
+        {
+          "id": "r7c1",
+          "solution": 8,
+          "cageId": "cage-16"
+        },
+        {
+          "id": "r7c2",
+          "solution": 9,
+          "cageId": "cage-20"
+        },
+        {
+          "id": "r7c3",
+          "solution": 4,
+          "cageId": "cage-20"
+        },
+        {
+          "id": "r7c4",
+          "solution": 6,
+          "cageId": "cage-13"
+        },
+        {
+          "id": "r7c5",
+          "solution": 1,
+          "cageId": "cage-21"
+        },
+        {
+          "id": "r7c6",
+          "solution": 7,
+          "cageId": "cage-21"
+        },
+        {
+          "id": "r7c7",
+          "solution": 2,
+          "cageId": "cage-22"
+        },
+        {
+          "id": "r7c8",
+          "solution": 3,
+          "cageId": "cage-22"
+        },
+        {
+          "id": "r8c0",
+          "solution": 3,
+          "cageId": "cage-23"
+        },
+        {
+          "id": "r8c1",
+          "solution": 6,
+          "cageId": "cage-23"
+        },
+        {
+          "id": "r8c2",
+          "solution": 1,
+          "cageId": "cage-20"
+        },
+        {
+          "id": "r8c3",
+          "solution": 2,
+          "cageId": "cage-24"
+        },
+        {
+          "id": "r8c4",
+          "solution": 7,
+          "cageId": "cage-24"
+        },
+        {
+          "id": "r8c5",
+          "solution": 5,
+          "cageId": "cage-21"
+        },
+        {
+          "id": "r8c6",
+          "solution": 8,
+          "cageId": "cage-21"
+        },
+        {
+          "id": "r8c7",
+          "solution": 9,
+          "cageId": "cage-22"
+        },
+        {
+          "id": "r8c8",
+          "solution": 4,
+          "cageId": "cage-25"
+        }
+      ],
+      "cages": [
+        {
+          "id": "cage-0",
+          "sum": 10,
+          "cells": [
+            "r0c0",
+            "r1c0"
+          ]
+        },
+        {
+          "id": "cage-1",
+          "sum": 15,
+          "cells": [
+            "r0c1",
+            "r0c2",
+            "r1c2",
+            "r1c1"
+          ]
+        },
+        {
+          "id": "cage-2",
+          "sum": 9,
+          "cells": [
+            "r0c3",
+            "r1c3"
+          ]
+        },
+        {
+          "id": "cage-3",
+          "sum": 19,
+          "cells": [
+            "r0c4",
+            "r1c4",
+            "r2c4",
+            "r3c4"
+          ]
+        },
+        {
+          "id": "cage-4",
+          "sum": 17,
+          "cells": [
+            "r0c5",
+            "r0c6",
+            "r1c6",
+            "r1c5"
+          ]
+        },
+        {
+          "id": "cage-5",
+          "sum": 15,
+          "cells": [
+            "r0c7",
+            "r1c7"
+          ]
+        },
+        {
+          "id": "cage-6",
+          "sum": 14,
+          "cells": [
+            "r0c8",
+            "r1c8"
+          ]
+        },
+        {
+          "id": "cage-7",
+          "sum": 29,
+          "cells": [
+            "r2c0",
+            "r2c1",
+            "r3c1",
+            "r3c0",
+            "r4c0"
+          ]
+        },
+        {
+          "id": "cage-8",
+          "sum": 20,
+          "cells": [
+            "r2c2",
+            "r2c3",
+            "r3c3",
+            "r3c2"
+          ]
+        },
+        {
+          "id": "cage-9",
+          "sum": 21,
+          "cells": [
+            "r2c5",
+            "r2c6",
+            "r3c6",
+            "r3c7"
+          ]
+        },
+        {
+          "id": "cage-10",
+          "sum": 16,
+          "cells": [
+            "r2c7",
+            "r2c8",
+            "r3c8"
+          ]
+        },
+        {
+          "id": "cage-11",
+          "sum": 13,
+          "cells": [
+            "r3c5",
+            "r4c5",
+            "r4c6"
+          ]
+        },
+        {
+          "id": "cage-12",
+          "sum": 24,
+          "cells": [
+            "r4c1",
+            "r4c2",
+            "r4c3",
+            "r5c1"
+          ]
+        },
+        {
+          "id": "cage-13",
+          "sum": 28,
+          "cells": [
+            "r4c4",
+            "r5c4",
+            "r6c4",
+            "r6c5",
+            "r7c4"
+          ]
+        },
+        {
+          "id": "cage-14",
+          "sum": 9,
+          "cells": [
+            "r4c7",
+            "r5c7",
+            "r6c7"
+          ]
+        },
+        {
+          "id": "cage-15",
+          "sum": 14,
+          "cells": [
+            "r4c8",
+            "r5c8",
+            "r6c8"
+          ]
+        },
+        {
+          "id": "cage-16",
+          "sum": 25,
+          "cells": [
+            "r5c0",
+            "r6c0",
+            "r6c1",
+            "r7c0",
+            "r7c1"
+          ]
+        },
+        {
+          "id": "cage-17",
+          "sum": 14,
+          "cells": [
+            "r5c2",
+            "r6c2",
+            "r6c3"
+          ]
+        },
+        {
+          "id": "cage-18",
+          "sum": 9,
+          "cells": [
+            "r5c3"
+          ]
+        },
+        {
+          "id": "cage-19",
+          "sum": 13,
+          "cells": [
+            "r5c5",
+            "r5c6",
+            "r6c6"
+          ]
+        },
+        {
+          "id": "cage-20",
+          "sum": 14,
+          "cells": [
+            "r7c2",
+            "r8c2",
+            "r7c3"
+          ]
+        },
+        {
+          "id": "cage-21",
+          "sum": 21,
+          "cells": [
+            "r7c5",
+            "r8c5",
+            "r8c6",
+            "r7c6"
+          ]
+        },
+        {
+          "id": "cage-22",
+          "sum": 14,
+          "cells": [
+            "r7c7",
+            "r7c8",
+            "r8c7"
+          ]
+        },
+        {
+          "id": "cage-23",
+          "sum": 9,
+          "cells": [
+            "r8c0",
+            "r8c1"
+          ]
+        },
+        {
+          "id": "cage-24",
+          "sum": 9,
+          "cells": [
+            "r8c3",
+            "r8c4"
+          ]
+        },
+        {
+          "id": "cage-25",
+          "sum": 4,
+          "cells": [
+            "r8c8"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lqjkzi",
+      "difficulty": "hard",
+      "cells": [
+        {
+          "id": "r0c0",
+          "solution": 4,
+          "cageId": "cage-0"
+        },
+        {
+          "id": "r0c1",
+          "solution": 3,
+          "cageId": "cage-0"
+        },
+        {
+          "id": "r0c2",
+          "solution": 2,
+          "cageId": "cage-1"
+        },
+        {
+          "id": "r0c3",
+          "solution": 8,
+          "cageId": "cage-1"
+        },
+        {
+          "id": "r0c4",
+          "solution": 5,
+          "cageId": "cage-1"
+        },
+        {
+          "id": "r0c5",
+          "solution": 9,
+          "cageId": "cage-2"
+        },
+        {
+          "id": "r0c6",
+          "solution": 1,
+          "cageId": "cage-3"
+        },
+        {
+          "id": "r0c7",
+          "solution": 6,
+          "cageId": "cage-4"
+        },
+        {
+          "id": "r0c8",
+          "solution": 7,
+          "cageId": "cage-4"
+        },
+        {
+          "id": "r1c0",
+          "solution": 9,
+          "cageId": "cage-0"
+        },
+        {
+          "id": "r1c1",
+          "solution": 5,
+          "cageId": "cage-0"
+        },
+        {
+          "id": "r1c2",
+          "solution": 8,
+          "cageId": "cage-5"
+        },
+        {
+          "id": "r1c3",
+          "solution": 6,
+          "cageId": "cage-6"
+        },
+        {
+          "id": "r1c4",
+          "solution": 7,
+          "cageId": "cage-2"
+        },
+        {
+          "id": "r1c5",
+          "solution": 1,
+          "cageId": "cage-2"
+        },
+        {
+          "id": "r1c6",
+          "solution": 2,
+          "cageId": "cage-3"
+        },
+        {
+          "id": "r1c7",
+          "solution": 3,
+          "cageId": "cage-4"
+        },
+        {
+          "id": "r1c8",
+          "solution": 4,
+          "cageId": "cage-7"
+        },
+        {
+          "id": "r2c0",
+          "solution": 1,
+          "cageId": "cage-0"
+        },
+        {
+          "id": "r2c1",
+          "solution": 7,
+          "cageId": "cage-8"
+        },
+        {
+          "id": "r2c2",
+          "solution": 6,
+          "cageId": "cage-5"
+        },
+        {
+          "id": "r2c3",
+          "solution": 4,
+          "cageId": "cage-5"
+        },
+        {
+          "id": "r2c4",
+          "solution": 3,
+          "cageId": "cage-5"
+        },
+        {
+          "id": "r2c5",
+          "solution": 2,
+          "cageId": "cage-7"
+        },
+        {
+          "id": "r2c6",
+          "solution": 5,
+          "cageId": "cage-7"
+        },
+        {
+          "id": "r2c7",
+          "solution": 8,
+          "cageId": "cage-7"
+        },
+        {
+          "id": "r2c8",
+          "solution": 9,
+          "cageId": "cage-7"
+        },
+        {
+          "id": "r3c0",
+          "solution": 3,
+          "cageId": "cage-9"
+        },
+        {
+          "id": "r3c1",
+          "solution": 8,
+          "cageId": "cage-8"
+        },
+        {
+          "id": "r3c2",
+          "solution": 5,
+          "cageId": "cage-8"
+        },
+        {
+          "id": "r3c3",
+          "solution": 1,
+          "cageId": "cage-5"
+        },
+        {
+          "id": "r3c4",
+          "solution": 2,
+          "cageId": "cage-10"
+        },
+        {
+          "id": "r3c5",
+          "solution": 7,
+          "cageId": "cage-10"
+        },
+        {
+          "id": "r3c6",
+          "solution": 4,
+          "cageId": "cage-11"
+        },
+        {
+          "id": "r3c7",
+          "solution": 9,
+          "cageId": "cage-11"
+        },
+        {
+          "id": "r3c8",
+          "solution": 6,
+          "cageId": "cage-12"
+        },
+        {
+          "id": "r4c0",
+          "solution": 2,
+          "cageId": "cage-8"
+        },
+        {
+          "id": "r4c1",
+          "solution": 1,
+          "cageId": "cage-8"
+        },
+        {
+          "id": "r4c2",
+          "solution": 7,
+          "cageId": "cage-13"
+        },
+        {
+          "id": "r4c3",
+          "solution": 9,
+          "cageId": "cage-14"
+        },
+        {
+          "id": "r4c4",
+          "solution": 6,
+          "cageId": "cage-10"
+        },
+        {
+          "id": "r4c5",
+          "solution": 4,
+          "cageId": "cage-10"
+        },
+        {
+          "id": "r4c6",
+          "solution": 8,
+          "cageId": "cage-11"
+        },
+        {
+          "id": "r4c7",
+          "solution": 5,
+          "cageId": "cage-11"
+        },
+        {
+          "id": "r4c8",
+          "solution": 3,
+          "cageId": "cage-12"
+        },
+        {
+          "id": "r5c0",
+          "solution": 6,
+          "cageId": "cage-15"
+        },
+        {
+          "id": "r5c1",
+          "solution": 4,
+          "cageId": "cage-16"
+        },
+        {
+          "id": "r5c2",
+          "solution": 9,
+          "cageId": "cage-13"
+        },
+        {
+          "id": "r5c3",
+          "solution": 5,
+          "cageId": "cage-13"
+        },
+        {
+          "id": "r5c4",
+          "solution": 8,
+          "cageId": "cage-10"
+        },
+        {
+          "id": "r5c5",
+          "solution": 3,
+          "cageId": "cage-17"
+        },
+        {
+          "id": "r5c6",
+          "solution": 7,
+          "cageId": "cage-17"
+        },
+        {
+          "id": "r5c7",
+          "solution": 2,
+          "cageId": "cage-17"
+        },
+        {
+          "id": "r5c8",
+          "solution": 1,
+          "cageId": "cage-12"
+        },
+        {
+          "id": "r6c0",
+          "solution": 7,
+          "cageId": "cage-15"
+        },
+        {
+          "id": "r6c1",
+          "solution": 6,
+          "cageId": "cage-16"
+        },
+        {
+          "id": "r6c2",
+          "solution": 3,
+          "cageId": "cage-13"
+        },
+        {
+          "id": "r6c3",
+          "solution": 2,
+          "cageId": "cage-18"
+        },
+        {
+          "id": "r6c4",
+          "solution": 1,
+          "cageId": "cage-19"
+        },
+        {
+          "id": "r6c5",
+          "solution": 8,
+          "cageId": "cage-17"
+        },
+        {
+          "id": "r6c6",
+          "solution": 9,
+          "cageId": "cage-20"
+        },
+        {
+          "id": "r6c7",
+          "solution": 4,
+          "cageId": "cage-17"
+        },
+        {
+          "id": "r6c8",
+          "solution": 5,
+          "cageId": "cage-21"
+        },
+        {
+          "id": "r7c0",
+          "solution": 8,
+          "cageId": "cage-15"
+        },
+        {
+          "id": "r7c1",
+          "solution": 9,
+          "cageId": "cage-16"
+        },
+        {
+          "id": "r7c2",
+          "solution": 1,
+          "cageId": "cage-22"
+        },
+        {
+          "id": "r7c3",
+          "solution": 3,
+          "cageId": "cage-18"
+        },
+        {
+          "id": "r7c4",
+          "solution": 4,
+          "cageId": "cage-19"
+        },
+        {
+          "id": "r7c5",
+          "solution": 5,
+          "cageId": "cage-19"
+        },
+        {
+          "id": "r7c6",
+          "solution": 6,
+          "cageId": "cage-20"
+        },
+        {
+          "id": "r7c7",
+          "solution": 7,
+          "cageId": "cage-20"
+        },
+        {
+          "id": "r7c8",
+          "solution": 2,
+          "cageId": "cage-21"
+        },
+        {
+          "id": "r8c0",
+          "solution": 5,
+          "cageId": "cage-23"
+        },
+        {
+          "id": "r8c1",
+          "solution": 2,
+          "cageId": "cage-23"
+        },
+        {
+          "id": "r8c2",
+          "solution": 4,
+          "cageId": "cage-18"
+        },
+        {
+          "id": "r8c3",
+          "solution": 7,
+          "cageId": "cage-18"
+        },
+        {
+          "id": "r8c4",
+          "solution": 9,
+          "cageId": "cage-24"
+        },
+        {
+          "id": "r8c5",
+          "solution": 6,
+          "cageId": "cage-24"
+        },
+        {
+          "id": "r8c6",
+          "solution": 3,
+          "cageId": "cage-24"
+        },
+        {
+          "id": "r8c7",
+          "solution": 1,
+          "cageId": "cage-20"
+        },
+        {
+          "id": "r8c8",
+          "solution": 8,
+          "cageId": "cage-20"
+        }
+      ],
+      "cages": [
+        {
+          "id": "cage-0",
+          "sum": 22,
+          "cells": [
+            "r0c0",
+            "r1c0",
+            "r2c0",
+            "r0c1",
+            "r1c1"
+          ]
+        },
+        {
+          "id": "cage-1",
+          "sum": 15,
+          "cells": [
+            "r0c2",
+            "r0c3",
+            "r0c4"
+          ]
+        },
+        {
+          "id": "cage-2",
+          "sum": 17,
+          "cells": [
+            "r0c5",
+            "r1c5",
+            "r1c4"
+          ]
+        },
+        {
+          "id": "cage-3",
+          "sum": 3,
+          "cells": [
+            "r0c6",
+            "r1c6"
+          ]
+        },
+        {
+          "id": "cage-4",
+          "sum": 16,
+          "cells": [
+            "r0c7",
+            "r0c8",
+            "r1c7"
+          ]
+        },
+        {
+          "id": "cage-5",
+          "sum": 22,
+          "cells": [
+            "r1c2",
+            "r2c2",
+            "r2c3",
+            "r3c3",
+            "r2c4"
+          ]
+        },
+        {
+          "id": "cage-6",
+          "sum": 6,
+          "cells": [
+            "r1c3"
+          ]
+        },
+        {
+          "id": "cage-7",
+          "sum": 28,
+          "cells": [
+            "r1c8",
+            "r2c8",
+            "r2c7",
+            "r2c6",
+            "r2c5"
+          ]
+        },
+        {
+          "id": "cage-8",
+          "sum": 23,
+          "cells": [
+            "r2c1",
+            "r3c1",
+            "r4c1",
+            "r4c0",
+            "r3c2"
+          ]
+        },
+        {
+          "id": "cage-9",
+          "sum": 3,
+          "cells": [
+            "r3c0"
+          ]
+        },
+        {
+          "id": "cage-10",
+          "sum": 27,
+          "cells": [
+            "r3c4",
+            "r3c5",
+            "r4c4",
+            "r4c5",
+            "r5c4"
+          ]
+        },
+        {
+          "id": "cage-11",
+          "sum": 26,
+          "cells": [
+            "r3c6",
+            "r3c7",
+            "r4c7",
+            "r4c6"
+          ]
+        },
+        {
+          "id": "cage-12",
+          "sum": 10,
+          "cells": [
+            "r3c8",
+            "r4c8",
+            "r5c8"
+          ]
+        },
+        {
+          "id": "cage-13",
+          "sum": 24,
+          "cells": [
+            "r4c2",
+            "r5c2",
+            "r5c3",
+            "r6c2"
+          ]
+        },
+        {
+          "id": "cage-14",
+          "sum": 9,
+          "cells": [
+            "r4c3"
+          ]
+        },
+        {
+          "id": "cage-15",
+          "sum": 21,
+          "cells": [
+            "r5c0",
+            "r6c0",
+            "r7c0"
+          ]
+        },
+        {
+          "id": "cage-16",
+          "sum": 19,
+          "cells": [
+            "r5c1",
+            "r6c1",
+            "r7c1"
+          ]
+        },
+        {
+          "id": "cage-17",
+          "sum": 24,
+          "cells": [
+            "r5c5",
+            "r6c5",
+            "r5c6",
+            "r5c7",
+            "r6c7"
+          ]
+        },
+        {
+          "id": "cage-18",
+          "sum": 16,
+          "cells": [
+            "r6c3",
+            "r7c3",
+            "r8c3",
+            "r8c2"
+          ]
+        },
+        {
+          "id": "cage-19",
+          "sum": 10,
+          "cells": [
+            "r6c4",
+            "r7c4",
+            "r7c5"
+          ]
+        },
+        {
+          "id": "cage-20",
+          "sum": 31,
+          "cells": [
+            "r6c6",
+            "r7c6",
+            "r7c7",
+            "r8c7",
+            "r8c8"
+          ]
+        },
+        {
+          "id": "cage-21",
+          "sum": 7,
+          "cells": [
+            "r6c8",
+            "r7c8"
+          ]
+        },
+        {
+          "id": "cage-22",
+          "sum": 1,
+          "cells": [
+            "r7c2"
+          ]
+        },
+        {
+          "id": "cage-23",
+          "sum": 7,
+          "cells": [
+            "r8c0",
+            "r8c1"
+          ]
+        },
+        {
+          "id": "cage-24",
+          "sum": 18,
+          "cells": [
+            "r8c4",
+            "r8c5",
+            "r8c6"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "qea71e",
+      "difficulty": "hard",
+      "cells": [
+        {
+          "id": "r0c0",
+          "solution": 4,
+          "cageId": "cage-0"
+        },
+        {
+          "id": "r0c1",
+          "solution": 5,
+          "cageId": "cage-0"
+        },
+        {
+          "id": "r0c2",
+          "solution": 7,
+          "cageId": "cage-1"
+        },
+        {
+          "id": "r0c3",
+          "solution": 9,
+          "cageId": "cage-1"
+        },
+        {
+          "id": "r0c4",
+          "solution": 3,
+          "cageId": "cage-1"
+        },
+        {
+          "id": "r0c5",
+          "solution": 8,
+          "cageId": "cage-2"
+        },
+        {
+          "id": "r0c6",
+          "solution": 6,
+          "cageId": "cage-2"
+        },
+        {
+          "id": "r0c7",
+          "solution": 1,
+          "cageId": "cage-3"
+        },
+        {
+          "id": "r0c8",
+          "solution": 2,
+          "cageId": "cage-4"
+        },
+        {
+          "id": "r1c0",
+          "solution": 1,
+          "cageId": "cage-5"
+        },
+        {
+          "id": "r1c1",
+          "solution": 6,
+          "cageId": "cage-0"
+        },
+        {
+          "id": "r1c2",
+          "solution": 2,
+          "cageId": "cage-0"
+        },
+        {
+          "id": "r1c3",
+          "solution": 7,
+          "cageId": "cage-2"
+        },
+        {
+          "id": "r1c4",
+          "solution": 5,
+          "cageId": "cage-2"
+        },
+        {
+          "id": "r1c5",
+          "solution": 4,
+          "cageId": "cage-2"
+        },
+        {
+          "id": "r1c6",
+          "solution": 9,
+          "cageId": "cage-6"
+        },
+        {
+          "id": "r1c7",
+          "solution": 3,
+          "cageId": "cage-3"
+        },
+        {
+          "id": "r1c8",
+          "solution": 8,
+          "cageId": "cage-4"
+        },
+        {
+          "id": "r2c0",
+          "solution": 3,
+          "cageId": "cage-5"
+        },
+        {
+          "id": "r2c1",
+          "solution": 8,
+          "cageId": "cage-0"
+        },
+        {
+          "id": "r2c2",
+          "solution": 9,
+          "cageId": "cage-7"
+        },
+        {
+          "id": "r2c3",
+          "solution": 1,
+          "cageId": "cage-8"
+        },
+        {
+          "id": "r2c4",
+          "solution": 6,
+          "cageId": "cage-8"
+        },
+        {
+          "id": "r2c5",
+          "solution": 2,
+          "cageId": "cage-6"
+        },
+        {
+          "id": "r2c6",
+          "solution": 4,
+          "cageId": "cage-6"
+        },
+        {
+          "id": "r2c7",
+          "solution": 7,
+          "cageId": "cage-3"
+        },
+        {
+          "id": "r2c8",
+          "solution": 5,
+          "cageId": "cage-4"
+        },
+        {
+          "id": "r3c0",
+          "solution": 5,
+          "cageId": "cage-5"
+        },
+        {
+          "id": "r3c1",
+          "solution": 4,
+          "cageId": "cage-7"
+        },
+        {
+          "id": "r3c2",
+          "solution": 1,
+          "cageId": "cage-7"
+        },
+        {
+          "id": "r3c3",
+          "solution": 8,
+          "cageId": "cage-9"
+        },
+        {
+          "id": "r3c4",
+          "solution": 9,
+          "cageId": "cage-8"
+        },
+        {
+          "id": "r3c5",
+          "solution": 3,
+          "cageId": "cage-8"
+        },
+        {
+          "id": "r3c6",
+          "solution": 2,
+          "cageId": "cage-10"
+        },
+        {
+          "id": "r3c7",
+          "solution": 6,
+          "cageId": "cage-4"
+        },
+        {
+          "id": "r3c8",
+          "solution": 7,
+          "cageId": "cage-4"
+        },
+        {
+          "id": "r4c0",
+          "solution": 9,
+          "cageId": "cage-11"
+        },
+        {
+          "id": "r4c1",
+          "solution": 3,
+          "cageId": "cage-7"
+        },
+        {
+          "id": "r4c2",
+          "solution": 6,
+          "cageId": "cage-7"
+        },
+        {
+          "id": "r4c3",
+          "solution": 4,
+          "cageId": "cage-9"
+        },
+        {
+          "id": "r4c4",
+          "solution": 2,
+          "cageId": "cage-8"
+        },
+        {
+          "id": "r4c5",
+          "solution": 7,
+          "cageId": "cage-12"
+        },
+        {
+          "id": "r4c6",
+          "solution": 5,
+          "cageId": "cage-10"
+        },
+        {
+          "id": "r4c7",
+          "solution": 8,
+          "cageId": "cage-10"
+        },
+        {
+          "id": "r4c8",
+          "solution": 1,
+          "cageId": "cage-13"
+        },
+        {
+          "id": "r5c0",
+          "solution": 7,
+          "cageId": "cage-11"
+        },
+        {
+          "id": "r5c1",
+          "solution": 2,
+          "cageId": "cage-11"
+        },
+        {
+          "id": "r5c2",
+          "solution": 8,
+          "cageId": "cage-14"
+        },
+        {
+          "id": "r5c3",
+          "solution": 6,
+          "cageId": "cage-9"
+        },
+        {
+          "id": "r5c4",
+          "solution": 1,
+          "cageId": "cage-9"
+        },
+        {
+          "id": "r5c5",
+          "solution": 5,
+          "cageId": "cage-12"
+        },
+        {
+          "id": "r5c6",
+          "solution": 3,
+          "cageId": "cage-10"
+        },
+        {
+          "id": "r5c7",
+          "solution": 4,
+          "cageId": "cage-13"
+        },
+        {
+          "id": "r5c8",
+          "solution": 9,
+          "cageId": "cage-13"
+        },
+        {
+          "id": "r6c0",
+          "solution": 6,
+          "cageId": "cage-15"
+        },
+        {
+          "id": "r6c1",
+          "solution": 7,
+          "cageId": "cage-16"
+        },
+        {
+          "id": "r6c2",
+          "solution": 3,
+          "cageId": "cage-14"
+        },
+        {
+          "id": "r6c3",
+          "solution": 5,
+          "cageId": "cage-9"
+        },
+        {
+          "id": "r6c4",
+          "solution": 8,
+          "cageId": "cage-17"
+        },
+        {
+          "id": "r6c5",
+          "solution": 9,
+          "cageId": "cage-12"
+        },
+        {
+          "id": "r6c6",
+          "solution": 1,
+          "cageId": "cage-18"
+        },
+        {
+          "id": "r6c7",
+          "solution": 2,
+          "cageId": "cage-13"
+        },
+        {
+          "id": "r6c8",
+          "solution": 4,
+          "cageId": "cage-19"
+        },
+        {
+          "id": "r7c0",
+          "solution": 8,
+          "cageId": "cage-15"
+        },
+        {
+          "id": "r7c1",
+          "solution": 1,
+          "cageId": "cage-16"
+        },
+        {
+          "id": "r7c2",
+          "solution": 5,
+          "cageId": "cage-14"
+        },
+        {
+          "id": "r7c3",
+          "solution": 2,
+          "cageId": "cage-17"
+        },
+        {
+          "id": "r7c4",
+          "solution": 4,
+          "cageId": "cage-17"
+        },
+        {
+          "id": "r7c5",
+          "solution": 6,
+          "cageId": "cage-20"
+        },
+        {
+          "id": "r7c6",
+          "solution": 7,
+          "cageId": "cage-18"
+        },
+        {
+          "id": "r7c7",
+          "solution": 9,
+          "cageId": "cage-19"
+        },
+        {
+          "id": "r7c8",
+          "solution": 3,
+          "cageId": "cage-19"
+        },
+        {
+          "id": "r8c0",
+          "solution": 2,
+          "cageId": "cage-15"
+        },
+        {
+          "id": "r8c1",
+          "solution": 9,
+          "cageId": "cage-21"
+        },
+        {
+          "id": "r8c2",
+          "solution": 4,
+          "cageId": "cage-21"
+        },
+        {
+          "id": "r8c3",
+          "solution": 3,
+          "cageId": "cage-21"
+        },
+        {
+          "id": "r8c4",
+          "solution": 7,
+          "cageId": "cage-22"
+        },
+        {
+          "id": "r8c5",
+          "solution": 1,
+          "cageId": "cage-20"
+        },
+        {
+          "id": "r8c6",
+          "solution": 8,
+          "cageId": "cage-20"
+        },
+        {
+          "id": "r8c7",
+          "solution": 5,
+          "cageId": "cage-19"
+        },
+        {
+          "id": "r8c8",
+          "solution": 6,
+          "cageId": "cage-23"
+        }
+      ],
+      "cages": [
+        {
+          "id": "cage-0",
+          "sum": 25,
+          "cells": [
+            "r0c0",
+            "r0c1",
+            "r1c1",
+            "r2c1",
+            "r1c2"
+          ]
+        },
+        {
+          "id": "cage-1",
+          "sum": 19,
+          "cells": [
+            "r0c2",
+            "r0c3",
+            "r0c4"
+          ]
+        },
+        {
+          "id": "cage-2",
+          "sum": 30,
+          "cells": [
+            "r0c5",
+            "r0c6",
+            "r1c5",
+            "r1c4",
+            "r1c3"
+          ]
+        },
+        {
+          "id": "cage-3",
+          "sum": 11,
+          "cells": [
+            "r0c7",
+            "r1c7",
+            "r2c7"
+          ]
+        },
+        {
+          "id": "cage-4",
+          "sum": 28,
+          "cells": [
+            "r0c8",
+            "r1c8",
+            "r2c8",
+            "r3c8",
+            "r3c7"
+          ]
+        },
+        {
+          "id": "cage-5",
+          "sum": 9,
+          "cells": [
+            "r1c0",
+            "r2c0",
+            "r3c0"
+          ]
+        },
+        {
+          "id": "cage-6",
+          "sum": 15,
+          "cells": [
+            "r1c6",
+            "r2c6",
+            "r2c5"
+          ]
+        },
+        {
+          "id": "cage-7",
+          "sum": 23,
+          "cells": [
+            "r2c2",
+            "r3c2",
+            "r3c1",
+            "r4c1",
+            "r4c2"
+          ]
+        },
+        {
+          "id": "cage-8",
+          "sum": 21,
+          "cells": [
+            "r2c3",
+            "r2c4",
+            "r3c4",
+            "r4c4",
+            "r3c5"
+          ]
+        },
+        {
+          "id": "cage-9",
+          "sum": 24,
+          "cells": [
+            "r3c3",
+            "r4c3",
+            "r5c3",
+            "r6c3",
+            "r5c4"
+          ]
+        },
+        {
+          "id": "cage-10",
+          "sum": 18,
+          "cells": [
+            "r3c6",
+            "r4c6",
+            "r4c7",
+            "r5c6"
+          ]
+        },
+        {
+          "id": "cage-11",
+          "sum": 18,
+          "cells": [
+            "r4c0",
+            "r5c0",
+            "r5c1"
+          ]
+        },
+        {
+          "id": "cage-12",
+          "sum": 21,
+          "cells": [
+            "r4c5",
+            "r5c5",
+            "r6c5"
+          ]
+        },
+        {
+          "id": "cage-13",
+          "sum": 16,
+          "cells": [
+            "r4c8",
+            "r5c8",
+            "r5c7",
+            "r6c7"
+          ]
+        },
+        {
+          "id": "cage-14",
+          "sum": 16,
+          "cells": [
+            "r5c2",
+            "r6c2",
+            "r7c2"
+          ]
+        },
+        {
+          "id": "cage-15",
+          "sum": 16,
+          "cells": [
+            "r6c0",
+            "r7c0",
+            "r8c0"
+          ]
+        },
+        {
+          "id": "cage-16",
+          "sum": 8,
+          "cells": [
+            "r6c1",
+            "r7c1"
+          ]
+        },
+        {
+          "id": "cage-17",
+          "sum": 14,
+          "cells": [
+            "r6c4",
+            "r7c4",
+            "r7c3"
+          ]
+        },
+        {
+          "id": "cage-18",
+          "sum": 8,
+          "cells": [
+            "r6c6",
+            "r7c6"
+          ]
+        },
+        {
+          "id": "cage-19",
+          "sum": 21,
+          "cells": [
+            "r6c8",
+            "r7c8",
+            "r7c7",
+            "r8c7"
+          ]
+        },
+        {
+          "id": "cage-20",
+          "sum": 15,
+          "cells": [
+            "r7c5",
+            "r8c5",
+            "r8c6"
+          ]
+        },
+        {
+          "id": "cage-21",
+          "sum": 16,
+          "cells": [
+            "r8c1",
+            "r8c2",
+            "r8c3"
+          ]
+        },
+        {
+          "id": "cage-22",
+          "sum": 7,
+          "cells": [
+            "r8c4"
+          ]
+        },
+        {
+          "id": "cage-23",
+          "sum": 6,
+          "cells": [
+            "r8c8"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m2gxrt",
+      "difficulty": "hard",
+      "cells": [
+        {
+          "id": "r0c0",
+          "solution": 9,
+          "cageId": "cage-0"
+        },
+        {
+          "id": "r0c1",
+          "solution": 8,
+          "cageId": "cage-0"
+        },
+        {
+          "id": "r0c2",
+          "solution": 1,
+          "cageId": "cage-1"
+        },
+        {
+          "id": "r0c3",
+          "solution": 7,
+          "cageId": "cage-1"
+        },
+        {
+          "id": "r0c4",
+          "solution": 6,
+          "cageId": "cage-2"
+        },
+        {
+          "id": "r0c5",
+          "solution": 5,
+          "cageId": "cage-3"
+        },
+        {
+          "id": "r0c6",
+          "solution": 4,
+          "cageId": "cage-3"
+        },
+        {
+          "id": "r0c7",
+          "solution": 3,
+          "cageId": "cage-3"
+        },
+        {
+          "id": "r0c8",
+          "solution": 2,
+          "cageId": "cage-4"
+        },
+        {
+          "id": "r1c0",
+          "solution": 5,
+          "cageId": "cage-0"
+        },
+        {
+          "id": "r1c1",
+          "solution": 7,
+          "cageId": "cage-0"
+        },
+        {
+          "id": "r1c2",
+          "solution": 6,
+          "cageId": "cage-1"
+        },
+        {
+          "id": "r1c3",
+          "solution": 3,
+          "cageId": "cage-1"
+        },
+        {
+          "id": "r1c4",
+          "solution": 4,
+          "cageId": "cage-2"
+        },
+        {
+          "id": "r1c5",
+          "solution": 2,
+          "cageId": "cage-3"
+        },
+        {
+          "id": "r1c6",
+          "solution": 1,
+          "cageId": "cage-3"
+        },
+        {
+          "id": "r1c7",
+          "solution": 8,
+          "cageId": "cage-4"
+        },
+        {
+          "id": "r1c8",
+          "solution": 9,
+          "cageId": "cage-4"
+        },
+        {
+          "id": "r2c0",
+          "solution": 4,
+          "cageId": "cage-0"
+        },
+        {
+          "id": "r2c1",
+          "solution": 3,
+          "cageId": "cage-5"
+        },
+        {
+          "id": "r2c2",
+          "solution": 2,
+          "cageId": "cage-5"
+        },
+        {
+          "id": "r2c3",
+          "solution": 8,
+          "cageId": "cage-1"
+        },
+        {
+          "id": "r2c4",
+          "solution": 9,
+          "cageId": "cage-6"
+        },
+        {
+          "id": "r2c5",
+          "solution": 1,
+          "cageId": "cage-7"
+        },
+        {
+          "id": "r2c6",
+          "solution": 5,
+          "cageId": "cage-7"
+        },
+        {
+          "id": "r2c7",
+          "solution": 7,
+          "cageId": "cage-8"
+        },
+        {
+          "id": "r2c8",
+          "solution": 6,
+          "cageId": "cage-9"
+        },
+        {
+          "id": "r3c0",
+          "solution": 2,
+          "cageId": "cage-10"
+        },
+        {
+          "id": "r3c1",
+          "solution": 4,
+          "cageId": "cage-5"
+        },
+        {
+          "id": "r3c2",
+          "solution": 7,
+          "cageId": "cage-5"
+        },
+        {
+          "id": "r3c3",
+          "solution": 9,
+          "cageId": "cage-11"
+        },
+        {
+          "id": "r3c4",
+          "solution": 3,
+          "cageId": "cage-6"
+        },
+        {
+          "id": "r3c5",
+          "solution": 6,
+          "cageId": "cage-12"
+        },
+        {
+          "id": "r3c6",
+          "solution": 8,
+          "cageId": "cage-8"
+        },
+        {
+          "id": "r3c7",
+          "solution": 1,
+          "cageId": "cage-8"
+        },
+        {
+          "id": "r3c8",
+          "solution": 5,
+          "cageId": "cage-9"
+        },
+        {
+          "id": "r4c0",
+          "solution": 6,
+          "cageId": "cage-10"
+        },
+        {
+          "id": "r4c1",
+          "solution": 9,
+          "cageId": "cage-13"
+        },
+        {
+          "id": "r4c2",
+          "solution": 8,
+          "cageId": "cage-14"
+        },
+        {
+          "id": "r4c3",
+          "solution": 5,
+          "cageId": "cage-11"
+        },
+        {
+          "id": "r4c4",
+          "solution": 1,
+          "cageId": "cage-12"
+        },
+        {
+          "id": "r4c5",
+          "solution": 7,
+          "cageId": "cage-12"
+        },
+        {
+          "id": "r4c6",
+          "solution": 3,
+          "cageId": "cage-15"
+        },
+        {
+          "id": "r4c7",
+          "solution": 2,
+          "cageId": "cage-8"
+        },
+        {
+          "id": "r4c8",
+          "solution": 4,
+          "cageId": "cage-9"
+        },
+        {
+          "id": "r5c0",
+          "solution": 1,
+          "cageId": "cage-16"
+        },
+        {
+          "id": "r5c1",
+          "solution": 5,
+          "cageId": "cage-13"
+        },
+        {
+          "id": "r5c2",
+          "solution": 3,
+          "cageId": "cage-14"
+        },
+        {
+          "id": "r5c3",
+          "solution": 2,
+          "cageId": "cage-14"
+        },
+        {
+          "id": "r5c4",
+          "solution": 8,
+          "cageId": "cage-12"
+        },
+        {
+          "id": "r5c5",
+          "solution": 4,
+          "cageId": "cage-17"
+        },
+        {
+          "id": "r5c6",
+          "solution": 6,
+          "cageId": "cage-15"
+        },
+        {
+          "id": "r5c7",
+          "solution": 9,
+          "cageId": "cage-18"
+        },
+        {
+          "id": "r5c8",
+          "solution": 7,
+          "cageId": "cage-18"
+        },
+        {
+          "id": "r6c0",
+          "solution": 8,
+          "cageId": "cage-16"
+        },
+        {
+          "id": "r6c1",
+          "solution": 1,
+          "cageId": "cage-13"
+        },
+        {
+          "id": "r6c2",
+          "solution": 4,
+          "cageId": "cage-14"
+        },
+        {
+          "id": "r6c3",
+          "solution": 6,
+          "cageId": "cage-19"
+        },
+        {
+          "id": "r6c4",
+          "solution": 2,
+          "cageId": "cage-20"
+        },
+        {
+          "id": "r6c5",
+          "solution": 9,
+          "cageId": "cage-17"
+        },
+        {
+          "id": "r6c6",
+          "solution": 7,
+          "cageId": "cage-15"
+        },
+        {
+          "id": "r6c7",
+          "solution": 5,
+          "cageId": "cage-15"
+        },
+        {
+          "id": "r6c8",
+          "solution": 3,
+          "cageId": "cage-18"
+        },
+        {
+          "id": "r7c0",
+          "solution": 3,
+          "cageId": "cage-21"
+        },
+        {
+          "id": "r7c1",
+          "solution": 2,
+          "cageId": "cage-22"
+        },
+        {
+          "id": "r7c2",
+          "solution": 5,
+          "cageId": "cage-14"
+        },
+        {
+          "id": "r7c3",
+          "solution": 4,
+          "cageId": "cage-19"
+        },
+        {
+          "id": "r7c4",
+          "solution": 7,
+          "cageId": "cage-19"
+        },
+        {
+          "id": "r7c5",
+          "solution": 8,
+          "cageId": "cage-17"
+        },
+        {
+          "id": "r7c6",
+          "solution": 9,
+          "cageId": "cage-23"
+        },
+        {
+          "id": "r7c7",
+          "solution": 6,
+          "cageId": "cage-23"
+        },
+        {
+          "id": "r7c8",
+          "solution": 1,
+          "cageId": "cage-18"
+        },
+        {
+          "id": "r8c0",
+          "solution": 7,
+          "cageId": "cage-21"
+        },
+        {
+          "id": "r8c1",
+          "solution": 6,
+          "cageId": "cage-22"
+        },
+        {
+          "id": "r8c2",
+          "solution": 9,
+          "cageId": "cage-22"
+        },
+        {
+          "id": "r8c3",
+          "solution": 1,
+          "cageId": "cage-24"
+        },
+        {
+          "id": "r8c4",
+          "solution": 5,
+          "cageId": "cage-17"
+        },
+        {
+          "id": "r8c5",
+          "solution": 3,
+          "cageId": "cage-17"
+        },
+        {
+          "id": "r8c6",
+          "solution": 2,
+          "cageId": "cage-25"
+        },
+        {
+          "id": "r8c7",
+          "solution": 4,
+          "cageId": "cage-25"
+        },
+        {
+          "id": "r8c8",
+          "solution": 8,
+          "cageId": "cage-26"
+        }
+      ],
+      "cages": [
+        {
+          "id": "cage-0",
+          "sum": 33,
+          "cells": [
+            "r0c0",
+            "r1c0",
+            "r2c0",
+            "r0c1",
+            "r1c1"
+          ]
+        },
+        {
+          "id": "cage-1",
+          "sum": 25,
+          "cells": [
+            "r0c2",
+            "r1c2",
+            "r1c3",
+            "r2c3",
+            "r0c3"
+          ]
+        },
+        {
+          "id": "cage-2",
+          "sum": 10,
+          "cells": [
+            "r0c4",
+            "r1c4"
+          ]
+        },
+        {
+          "id": "cage-3",
+          "sum": 15,
+          "cells": [
+            "r0c5",
+            "r1c5",
+            "r0c6",
+            "r1c6",
+            "r0c7"
+          ]
+        },
+        {
+          "id": "cage-4",
+          "sum": 19,
+          "cells": [
+            "r0c8",
+            "r1c8",
+            "r1c7"
+          ]
+        },
+        {
+          "id": "cage-5",
+          "sum": 16,
+          "cells": [
+            "r2c1",
+            "r2c2",
+            "r3c1",
+            "r3c2"
+          ]
+        },
+        {
+          "id": "cage-6",
+          "sum": 12,
+          "cells": [
+            "r2c4",
+            "r3c4"
+          ]
+        },
+        {
+          "id": "cage-7",
+          "sum": 6,
+          "cells": [
+            "r2c5",
+            "r2c6"
+          ]
+        },
+        {
+          "id": "cage-8",
+          "sum": 18,
+          "cells": [
+            "r2c7",
+            "r3c7",
+            "r4c7",
+            "r3c6"
+          ]
+        },
+        {
+          "id": "cage-9",
+          "sum": 15,
+          "cells": [
+            "r2c8",
+            "r3c8",
+            "r4c8"
+          ]
+        },
+        {
+          "id": "cage-10",
+          "sum": 8,
+          "cells": [
+            "r3c0",
+            "r4c0"
+          ]
+        },
+        {
+          "id": "cage-11",
+          "sum": 14,
+          "cells": [
+            "r3c3",
+            "r4c3"
+          ]
+        },
+        {
+          "id": "cage-12",
+          "sum": 22,
+          "cells": [
+            "r3c5",
+            "r4c5",
+            "r4c4",
+            "r5c4"
+          ]
+        },
+        {
+          "id": "cage-13",
+          "sum": 15,
+          "cells": [
+            "r4c1",
+            "r5c1",
+            "r6c1"
+          ]
+        },
+        {
+          "id": "cage-14",
+          "sum": 22,
+          "cells": [
+            "r4c2",
+            "r5c2",
+            "r6c2",
+            "r5c3",
+            "r7c2"
+          ]
+        },
+        {
+          "id": "cage-15",
+          "sum": 21,
+          "cells": [
+            "r4c6",
+            "r5c6",
+            "r6c6",
+            "r6c7"
+          ]
+        },
+        {
+          "id": "cage-16",
+          "sum": 9,
+          "cells": [
+            "r5c0",
+            "r6c0"
+          ]
+        },
+        {
+          "id": "cage-17",
+          "sum": 29,
+          "cells": [
+            "r5c5",
+            "r6c5",
+            "r7c5",
+            "r8c5",
+            "r8c4"
+          ]
+        },
+        {
+          "id": "cage-18",
+          "sum": 20,
+          "cells": [
+            "r5c7",
+            "r5c8",
+            "r6c8",
+            "r7c8"
+          ]
+        },
+        {
+          "id": "cage-19",
+          "sum": 17,
+          "cells": [
+            "r6c3",
+            "r7c3",
+            "r7c4"
+          ]
+        },
+        {
+          "id": "cage-20",
+          "sum": 2,
+          "cells": [
+            "r6c4"
+          ]
+        },
+        {
+          "id": "cage-21",
+          "sum": 10,
+          "cells": [
+            "r7c0",
+            "r8c0"
+          ]
+        },
+        {
+          "id": "cage-22",
+          "sum": 17,
+          "cells": [
+            "r7c1",
+            "r8c1",
+            "r8c2"
+          ]
+        },
+        {
+          "id": "cage-23",
+          "sum": 15,
+          "cells": [
+            "r7c6",
+            "r7c7"
+          ]
+        },
+        {
+          "id": "cage-24",
+          "sum": 1,
+          "cells": [
+            "r8c3"
+          ]
+        },
+        {
+          "id": "cage-25",
+          "sum": 6,
+          "cells": [
+            "r8c6",
+            "r8c7"
+          ]
+        },
+        {
+          "id": "cage-26",
+          "sum": 8,
+          "cells": [
+            "r8c8"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ud6xo",
+      "difficulty": "hard",
+      "cells": [
+        {
+          "id": "r0c0",
+          "solution": 2,
+          "cageId": "cage-0"
+        },
+        {
+          "id": "r0c1",
+          "solution": 5,
+          "cageId": "cage-0"
+        },
+        {
+          "id": "r0c2",
+          "solution": 9,
+          "cageId": "cage-1"
+        },
+        {
+          "id": "r0c3",
+          "solution": 1,
+          "cageId": "cage-1"
+        },
+        {
+          "id": "r0c4",
+          "solution": 4,
+          "cageId": "cage-2"
+        },
+        {
+          "id": "r0c5",
+          "solution": 8,
+          "cageId": "cage-2"
+        },
+        {
+          "id": "r0c6",
+          "solution": 6,
+          "cageId": "cage-3"
+        },
+        {
+          "id": "r0c7",
+          "solution": 7,
+          "cageId": "cage-3"
+        },
+        {
+          "id": "r0c8",
+          "solution": 3,
+          "cageId": "cage-3"
+        },
+        {
+          "id": "r1c0",
+          "solution": 6,
+          "cageId": "cage-0"
+        },
+        {
+          "id": "r1c1",
+          "solution": 3,
+          "cageId": "cage-0"
+        },
+        {
+          "id": "r1c2",
+          "solution": 8,
+          "cageId": "cage-1"
+        },
+        {
+          "id": "r1c3",
+          "solution": 5,
+          "cageId": "cage-1"
+        },
+        {
+          "id": "r1c4",
+          "solution": 2,
+          "cageId": "cage-2"
+        },
+        {
+          "id": "r1c5",
+          "solution": 7,
+          "cageId": "cage-2"
+        },
+        {
+          "id": "r1c6",
+          "solution": 1,
+          "cageId": "cage-4"
+        },
+        {
+          "id": "r1c7",
+          "solution": 4,
+          "cageId": "cage-3"
+        },
+        {
+          "id": "r1c8",
+          "solution": 9,
+          "cageId": "cage-5"
+        },
+        {
+          "id": "r2c0",
+          "solution": 7,
+          "cageId": "cage-0"
+        },
+        {
+          "id": "r2c1",
+          "solution": 1,
+          "cageId": "cage-6"
+        },
+        {
+          "id": "r2c2",
+          "solution": 4,
+          "cageId": "cage-1"
+        },
+        {
+          "id": "r2c3",
+          "solution": 3,
+          "cageId": "cage-7"
+        },
+        {
+          "id": "r2c4",
+          "solution": 9,
+          "cageId": "cage-4"
+        },
+        {
+          "id": "r2c5",
+          "solution": 6,
+          "cageId": "cage-4"
+        },
+        {
+          "id": "r2c6",
+          "solution": 5,
+          "cageId": "cage-4"
+        },
+        {
+          "id": "r2c7",
+          "solution": 2,
+          "cageId": "cage-4"
+        },
+        {
+          "id": "r2c8",
+          "solution": 8,
+          "cageId": "cage-5"
+        },
+        {
+          "id": "r3c0",
+          "solution": 9,
+          "cageId": "cage-6"
+        },
+        {
+          "id": "r3c1",
+          "solution": 8,
+          "cageId": "cage-6"
+        },
+        {
+          "id": "r3c2",
+          "solution": 7,
+          "cageId": "cage-8"
+        },
+        {
+          "id": "r3c3",
+          "solution": 4,
+          "cageId": "cage-7"
+        },
+        {
+          "id": "r3c4",
+          "solution": 3,
+          "cageId": "cage-9"
+        },
+        {
+          "id": "r3c5",
+          "solution": 1,
+          "cageId": "cage-9"
+        },
+        {
+          "id": "r3c6",
+          "solution": 2,
+          "cageId": "cage-10"
+        },
+        {
+          "id": "r3c7",
+          "solution": 6,
+          "cageId": "cage-5"
+        },
+        {
+          "id": "r3c8",
+          "solution": 5,
+          "cageId": "cage-5"
+        },
+        {
+          "id": "r4c0",
+          "solution": 4,
+          "cageId": "cage-11"
+        },
+        {
+          "id": "r4c1",
+          "solution": 6,
+          "cageId": "cage-11"
+        },
+        {
+          "id": "r4c2",
+          "solution": 1,
+          "cageId": "cage-8"
+        },
+        {
+          "id": "r4c3",
+          "solution": 8,
+          "cageId": "cage-12"
+        },
+        {
+          "id": "r4c4",
+          "solution": 5,
+          "cageId": "cage-9"
+        },
+        {
+          "id": "r4c5",
+          "solution": 2,
+          "cageId": "cage-13"
+        },
+        {
+          "id": "r4c6",
+          "solution": 3,
+          "cageId": "cage-10"
+        },
+        {
+          "id": "r4c7",
+          "solution": 9,
+          "cageId": "cage-14"
+        },
+        {
+          "id": "r4c8",
+          "solution": 7,
+          "cageId": "cage-15"
+        },
+        {
+          "id": "r5c0",
+          "solution": 3,
+          "cageId": "cage-16"
+        },
+        {
+          "id": "r5c1",
+          "solution": 2,
+          "cageId": "cage-16"
+        },
+        {
+          "id": "r5c2",
+          "solution": 5,
+          "cageId": "cage-12"
+        },
+        {
+          "id": "r5c3",
+          "solution": 6,
+          "cageId": "cage-12"
+        },
+        {
+          "id": "r5c4",
+          "solution": 7,
+          "cageId": "cage-13"
+        },
+        {
+          "id": "r5c5",
+          "solution": 9,
+          "cageId": "cage-13"
+        },
+        {
+          "id": "r5c6",
+          "solution": 4,
+          "cageId": "cage-10"
+        },
+        {
+          "id": "r5c7",
+          "solution": 8,
+          "cageId": "cage-14"
+        },
+        {
+          "id": "r5c8",
+          "solution": 1,
+          "cageId": "cage-15"
+        },
+        {
+          "id": "r6c0",
+          "solution": 5,
+          "cageId": "cage-16"
+        },
+        {
+          "id": "r6c1",
+          "solution": 9,
+          "cageId": "cage-16"
+        },
+        {
+          "id": "r6c2",
+          "solution": 6,
+          "cageId": "cage-17"
+        },
+        {
+          "id": "r6c3",
+          "solution": 7,
+          "cageId": "cage-12"
+        },
+        {
+          "id": "r6c4",
+          "solution": 1,
+          "cageId": "cage-13"
+        },
+        {
+          "id": "r6c5",
+          "solution": 4,
+          "cageId": "cage-18"
+        },
+        {
+          "id": "r6c6",
+          "solution": 8,
+          "cageId": "cage-18"
+        },
+        {
+          "id": "r6c7",
+          "solution": 3,
+          "cageId": "cage-14"
+        },
+        {
+          "id": "r6c8",
+          "solution": 2,
+          "cageId": "cage-19"
+        },
+        {
+          "id": "r7c0",
+          "solution": 8,
+          "cageId": "cage-16"
+        },
+        {
+          "id": "r7c1",
+          "solution": 7,
+          "cageId": "cage-20"
+        },
+        {
+          "id": "r7c2",
+          "solution": 3,
+          "cageId": "cage-17"
+        },
+        {
+          "id": "r7c3",
+          "solution": 2,
+          "cageId": "cage-21"
+        },
+        {
+          "id": "r7c4",
+          "solution": 6,
+          "cageId": "cage-21"
+        },
+        {
+          "id": "r7c5",
+          "solution": 5,
+          "cageId": "cage-18"
+        },
+        {
+          "id": "r7c6",
+          "solution": 9,
+          "cageId": "cage-22"
+        },
+        {
+          "id": "r7c7",
+          "solution": 1,
+          "cageId": "cage-23"
+        },
+        {
+          "id": "r7c8",
+          "solution": 4,
+          "cageId": "cage-19"
+        },
+        {
+          "id": "r8c0",
+          "solution": 1,
+          "cageId": "cage-24"
+        },
+        {
+          "id": "r8c1",
+          "solution": 4,
+          "cageId": "cage-20"
+        },
+        {
+          "id": "r8c2",
+          "solution": 2,
+          "cageId": "cage-25"
+        },
+        {
+          "id": "r8c3",
+          "solution": 9,
+          "cageId": "cage-21"
+        },
+        {
+          "id": "r8c4",
+          "solution": 8,
+          "cageId": "cage-21"
+        },
+        {
+          "id": "r8c5",
+          "solution": 3,
+          "cageId": "cage-26"
+        },
+        {
+          "id": "r8c6",
+          "solution": 7,
+          "cageId": "cage-22"
+        },
+        {
+          "id": "r8c7",
+          "solution": 5,
+          "cageId": "cage-23"
+        },
+        {
+          "id": "r8c8",
+          "solution": 6,
+          "cageId": "cage-19"
+        }
+      ],
+      "cages": [
+        {
+          "id": "cage-0",
+          "sum": 23,
+          "cells": [
+            "r0c0",
+            "r1c0",
+            "r0c1",
+            "r2c0",
+            "r1c1"
+          ]
+        },
+        {
+          "id": "cage-1",
+          "sum": 27,
+          "cells": [
+            "r0c2",
+            "r1c2",
+            "r1c3",
+            "r2c2",
+            "r0c3"
+          ]
+        },
+        {
+          "id": "cage-2",
+          "sum": 21,
+          "cells": [
+            "r0c4",
+            "r0c5",
+            "r1c5",
+            "r1c4"
+          ]
+        },
+        {
+          "id": "cage-3",
+          "sum": 20,
+          "cells": [
+            "r0c6",
+            "r0c7",
+            "r1c7",
+            "r0c8"
+          ]
+        },
+        {
+          "id": "cage-4",
+          "sum": 23,
+          "cells": [
+            "r1c6",
+            "r2c6",
+            "r2c5",
+            "r2c7",
+            "r2c4"
+          ]
+        },
+        {
+          "id": "cage-5",
+          "sum": 28,
+          "cells": [
+            "r1c8",
+            "r2c8",
+            "r3c8",
+            "r3c7"
+          ]
+        },
+        {
+          "id": "cage-6",
+          "sum": 18,
+          "cells": [
+            "r2c1",
+            "r3c1",
+            "r3c0"
+          ]
+        },
+        {
+          "id": "cage-7",
+          "sum": 7,
+          "cells": [
+            "r2c3",
+            "r3c3"
+          ]
+        },
+        {
+          "id": "cage-8",
+          "sum": 8,
+          "cells": [
+            "r3c2",
+            "r4c2"
+          ]
+        },
+        {
+          "id": "cage-9",
+          "sum": 9,
+          "cells": [
+            "r3c4",
+            "r4c4",
+            "r3c5"
+          ]
+        },
+        {
+          "id": "cage-10",
+          "sum": 9,
+          "cells": [
+            "r3c6",
+            "r4c6",
+            "r5c6"
+          ]
+        },
+        {
+          "id": "cage-11",
+          "sum": 10,
+          "cells": [
+            "r4c0",
+            "r4c1"
+          ]
+        },
+        {
+          "id": "cage-12",
+          "sum": 26,
+          "cells": [
+            "r4c3",
+            "r5c3",
+            "r6c3",
+            "r5c2"
+          ]
+        },
+        {
+          "id": "cage-13",
+          "sum": 19,
+          "cells": [
+            "r4c5",
+            "r5c5",
+            "r5c4",
+            "r6c4"
+          ]
+        },
+        {
+          "id": "cage-14",
+          "sum": 20,
+          "cells": [
+            "r4c7",
+            "r5c7",
+            "r6c7"
+          ]
+        },
+        {
+          "id": "cage-15",
+          "sum": 8,
+          "cells": [
+            "r4c8",
+            "r5c8"
+          ]
+        },
+        {
+          "id": "cage-16",
+          "sum": 27,
+          "cells": [
+            "r5c0",
+            "r5c1",
+            "r6c1",
+            "r6c0",
+            "r7c0"
+          ]
+        },
+        {
+          "id": "cage-17",
+          "sum": 9,
+          "cells": [
+            "r6c2",
+            "r7c2"
+          ]
+        },
+        {
+          "id": "cage-18",
+          "sum": 17,
+          "cells": [
+            "r6c5",
+            "r6c6",
+            "r7c5"
+          ]
+        },
+        {
+          "id": "cage-19",
+          "sum": 12,
+          "cells": [
+            "r6c8",
+            "r7c8",
+            "r8c8"
+          ]
+        },
+        {
+          "id": "cage-20",
+          "sum": 11,
+          "cells": [
+            "r7c1",
+            "r8c1"
+          ]
+        },
+        {
+          "id": "cage-21",
+          "sum": 25,
+          "cells": [
+            "r7c3",
+            "r7c4",
+            "r8c4",
+            "r8c3"
+          ]
+        },
+        {
+          "id": "cage-22",
+          "sum": 16,
+          "cells": [
+            "r7c6",
+            "r8c6"
+          ]
+        },
+        {
+          "id": "cage-23",
+          "sum": 6,
+          "cells": [
+            "r7c7",
+            "r8c7"
+          ]
+        },
+        {
+          "id": "cage-24",
+          "sum": 1,
+          "cells": [
+            "r8c0"
+          ]
+        },
+        {
+          "id": "cage-25",
+          "sum": 2,
+          "cells": [
+            "r8c2"
+          ]
+        },
+        {
+          "id": "cage-26",
+          "sum": 3,
+          "cells": [
+            "r8c5"
+          ]
+        }
+      ]
+    }
+  ]
+}

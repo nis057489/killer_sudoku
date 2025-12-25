@@ -1,0 +1,32 @@
+{
+    "loading": "加载中...",
+    "appTitle": "杀手数独",
+    "mistakes": "错误: {{current}}/{{max}}",
+    "settings": {
+        "label": "设置",
+        "title": "设置",
+        "startNewGame": "开始新游戏",
+        "close": "关闭",
+        "language": "语言"
+    },
+    "difficulty": {
+        "easy": "简单",
+        "medium": "中等",
+        "hard": "困难"
+    },
+    "gameOver": {
+        "title": "游戏结束",
+        "message": "错误太多了！",
+        "tryAgain": "重试："
+    },
+    "solved": {
+        "title": "已解决！",
+        "message": "干得好！",
+        "playAgain": "再玩一次："
+    },
+    "controls": {
+        "undo": "撤销",
+        "notesOn": "✎ 笔记: 开",
+        "notesOff": "✎ 笔记: 关"
+    }
+}

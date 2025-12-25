@@ -1,0 +1,32 @@
+{
+    "loading": "Loading...",
+    "appTitle": "Killer Sudoku",
+    "mistakes": "Mistakes: {{current}}/{{max}}",
+    "settings": {
+        "label": "Settings",
+        "title": "Settings",
+        "startNewGame": "Start New Game",
+        "close": "Close",
+        "language": "Language"
+    },
+    "difficulty": {
+        "easy": "Easy",
+        "medium": "Medium",
+        "hard": "Hard"
+    },
+    "gameOver": {
+        "title": "Game Over",
+        "message": "Too many mistakes!",
+        "tryAgain": "Try again:"
+    },
+    "solved": {
+        "title": "Solved!",
+        "message": "Great job!",
+        "playAgain": "Play again:"
+    },
+    "controls": {
+        "undo": "UNDO",
+        "notesOn": "✎ Notes: ON",
+        "notesOff": "✎ Notes: OFF"
+    }
+}
