@@ -1,5 +1,5 @@
 import { create } from 'zustand';
-import type { GameState, Difficulty, Cell, PuzzleData } from './types';
+import type { GameState, Difficulty, Cell, CompactPuzzleData, Cage } from './types';
 import puzzlesData from './data/puzzles.json';
 
 interface GameStore extends GameState {
@@ -38,28 +38,47 @@ export const useGameStore = create<GameStore>((set, get) => ({
   mistakes: 0,
 
   startGame: (difficulty) => {
-    const puzzles = (puzzlesData as Record<string, PuzzleData[]>)[difficulty];
+    const puzzles = (puzzlesData as Record<string, CompactPuzzleData[]>)[difficulty];
     const puzzle = puzzles[Math.floor(Math.random() * puzzles.length)];
     
     const cells: Record<string, Cell> = {};
-    puzzle.cells.forEach(pCell => {
-      const [_, r, c] = pCell.id.match(/r(\d+)c(\d+)/) || [];
-      cells[pCell.id] = {
-        id: pCell.id,
-        row: parseInt(r),
-        col: parseInt(c),
-        value: null,
-        solution: pCell.solution,
-        cageId: pCell.cageId,
-        notes: [],
-        isGiven: false // Killer Sudoku usually has no givens
+    const cages: Record<string, Cage> = {};
+
+    // Initialize cages
+    puzzle.c.forEach((sum, index) => {
+      const cageId = `cage-${index}`;
+      cages[cageId] = {
+        id: cageId,
+        sum,
+        cells: []
       };
     });
 
-    const cages: Record<string, any> = {};
-    puzzle.cages.forEach(cage => {
-      cages[cage.id] = cage;
-    });
+    // Initialize cells
+    for (let i = 0; i < 81; i++) {
+      const r = Math.floor(i / 9);
+      const c = i % 9;
+      const id = `r${r}c${c}`;
+      const cageIndex = puzzle.m[i];
+      const cageId = `cage-${cageIndex}`;
+      const solution = parseInt(puzzle.s[i]);
+
+      cells[id] = {
+        id,
+        row: r,
+        col: c,
+        value: null,
+        solution,
+        cageId,
+        notes: [],
+        isGiven: false
+      };
+
+      // Add cell to cage
+      if (cages[cageId]) {
+        cages[cageId].cells.push(id);
+      }
+    }
 
     set({
       puzzleId: puzzle.id,

@@ -32,6 +32,14 @@ export interface PuzzleData {
   }[];
 }
 
+export interface CompactPuzzleData {
+  id: string;
+  d: Difficulty;
+  s: string;     // solution string "123..."
+  m: number[];   // cage map: cellIndex -> cageIndex
+  c: number[];   // cage sums: cageIndex -> sum
+}
+
 export interface GameState {
   puzzleId: string;
   difficulty: Difficulty;

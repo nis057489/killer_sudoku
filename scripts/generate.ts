@@ -1,9 +1,10 @@
 import fs from 'fs';
 import path from 'path';
-import { PuzzleData, Difficulty } from '../src/types';
+import { CompactPuzzleData, Difficulty } from '../src/types';
 
 const ROWS = 9;
 const COLS = 9;
+const NUM_GAMES = 1000;
 
 function generateSudoku(): number[][] {
   const grid = Array.from({ length: ROWS }, () => Array(COLS).fill(0));
@@ -121,43 +122,51 @@ function parseCellId(id: string): [number, number] {
   return [parseInt(match[1]), parseInt(match[2])];
 }
 
-function generatePuzzle(difficulty: Difficulty): PuzzleData {
+function generatePuzzle(difficulty: Difficulty): CompactPuzzleData {
   const grid = generateSudoku();
   const cages = generateCages(grid);
   
-  const cells = [];
-  for(let r=0; r<9; r++) {
-    for(let c=0; c<9; c++) {
-      const id = `r${r}c${c}`;
-      const cage = cages.find(cage => cage.cells.includes(id));
-      if (!cage) throw new Error(`Cell ${id} not in any cage`);
-      cells.push({
-        id,
-        solution: grid[r][c],
-        cageId: cage.id
-      });
+  // 1. Solution String
+  let s = '';
+  for (let r = 0; r < 9; r++) {
+    for (let c = 0; c < 9; c++) {
+      s += grid[r][c];
     }
   }
 
+  // 2. Cage Map & Sums
+  const m = new Array(81).fill(0);
+  const cSums: number[] = [];
+
+  cages.forEach((cage, index) => {
+    cSums.push(cage.sum);
+    cage.cells.forEach(cellId => {
+      const [r, col] = parseCellId(cellId);
+      const cellIndex = r * 9 + col;
+      m[cellIndex] = index;
+    });
+  });
+
   return {
     id: Math.random().toString(36).substring(7),
-    difficulty,
-    cells,
-    cages
+    d: difficulty,
+    s,
+    m,
+    c: cSums
   };
 }
 
-const puzzles: Record<string, PuzzleData[]> = {
+const puzzles: Record<string, CompactPuzzleData[]> = {
   easy: [],
   medium: [],
   hard: []
 };
 
 console.log('Generating puzzles...');
-for (let i = 0; i < 5; i++) puzzles.easy.push(generatePuzzle('easy'));
-for (let i = 0; i < 5; i++) puzzles.medium.push(generatePuzzle('medium'));
-for (let i = 0; i < 5; i++) puzzles.hard.push(generatePuzzle('hard'));
+for (let i = 0; i < NUM_GAMES; i++) puzzles.easy.push(generatePuzzle('easy'));
+for (let i = 0; i < NUM_GAMES; i++) puzzles.medium.push(generatePuzzle('medium'));
+for (let i = 0; i < NUM_GAMES; i++) puzzles.hard.push(generatePuzzle('hard'));
 
 const outputPath = path.resolve(process.cwd(), 'src/data/puzzles.json');
 fs.writeFileSync(outputPath, JSON.stringify(puzzles, null, 2));
-console.log(`Generated ${15} puzzles to ${outputPath}`);
+console.log(`Generated ${NUM_GAMES * 3} puzzles to ${outputPath}`);
